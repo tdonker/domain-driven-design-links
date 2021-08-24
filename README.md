@@ -50,4 +50,5 @@ Reference](https://www.domainlanguage.com/wp-content/uploads/2016/05/DDD_Referen
 - API design - Azure Architecture (2019): [Designing APIs for microservices](https://docs.microsoft.com/nl-nl/azure/architecture/microservices/design/api-design)
 
 ### Awesome Github sites
-- https://github.com/kgoralski (2019): [Domain-driven design (DDD) learning resources](https://github.com/kgoralski/personal-wiki-and-learning-resources/blob/master/domain-driven-design.md)
+- kgoralski (2019): [Domain-driven design (DDD) learning resources](https://github.com/kgoralski/personal-wiki-and-learning-resources/blob/master/domain-driven-design.md)
+- heynickc (2021): [Awesome Domain-Driven Design](https://github.com/heynickc/awesome-ddd)
