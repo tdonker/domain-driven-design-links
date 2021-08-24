@@ -48,3 +48,6 @@ Reference](https://www.domainlanguage.com/wp-content/uploads/2016/05/DDD_Referen
 
 ### DDD concepts and REST equivalents
 - API design - Azure Architecture (2019): [Designing APIs for microservices](https://docs.microsoft.com/nl-nl/azure/architecture/microservices/design/api-design)
+
+### Awesome Github sites
+- https://github.com/kgoralski (2019): [Domain-driven design (DDD) learning resources](https://github.com/kgoralski/personal-wiki-and-learning-resources/blob/master/domain-driven-design.md)
