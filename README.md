@@ -8,9 +8,9 @@ Treating DDD as a recipe. DDD it isn’t a way, a method of how to do things. It
 ![Domain Driven Design](./img/ddd.jpeg "Domain Driven Design")
 
 ### Theory books
-- The canonical big blue book of Eric Evans [Duck Duck Go](https://github.com/gg-daddy/ebooks/blob/master/Eric%20Evans%202003%20-%20Domain-Driven%20Design%20-%20Tackling%20Complexity%20in%20the%20Heart%20of%20Software.pdf)
-- Patterns, Principles and Practices of Domain-Driven Design by Scott Millet and Nick Tune [Patterns, Principles and Practices of Domain-Driven Design](https://github.com/bmihovski/software-development-ebooks-1)
-- Patterns, Principles and Practices of Domain-Driven Design by Scott Millet and Nick Tune [Patterns, Principles and Practices of Domain-Driven Design](https://github.com/bmihovski/software-development-ebooks-1)
+- The canonical Big Blue Book of Eric Evans [Domain-Driven-Design Tackling Complexity in the Heart of Software 2003](https://github.com/gg-daddy/ebooks/blob/master/Eric%20Evans%202003%20-%20Domain-Driven%20Design%20-%20Tackling%20Complexity%20in%20the%20Heart%20of%20Software.pdf)
+- Domain Driven Design Quicklyis a short, quick-readable summary and introduction to the fundamentals of DDD. [Domain Driven Design Quickly 2006](https://www.infoq.com/minibooks/domain-driven-design-quickly/)
+- - Patterns, Principles and Practices of Domain-Driven Design by Scott Millet and Nick Tune [Patterns, Principles and Practices of Domain-Driven Design 2015](https://github.com/bmihovski/software-development-ebooks-1)
 
 ### Theory links
 - DDD easily explained [On medium.com](https://medium.com/raa-labs/part-1-domain-driven-design-like-a-pro-f9e78d081f10)
