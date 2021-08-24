@@ -25,6 +25,7 @@ Reference](https://www.domainlanguage.com/wp-content/uploads/2016/05/DDD_Referen
 
 ### Bounded Context
 - What is Bounded Context? (by Dave Taubler 2020): [If You’re Building Microservices, You Need to Understand What a Bounded Context is](https://medium.datadriveninvestor.com/if-youre-building-microservices-you-need-to-understand-what-a-bounded-context-is-30cbe51d5085)
+- BoundedContext (by Martin Fowler 2014): [Bounded Context is a central pattern in Domain-Driven Design](https://martinfowler.com/bliki/BoundedContext.html)
 
 ### Bounded Contexts and Microservices
 - Bounded Contexts are the exact opposite of Microservices! (by Vladik Khononov 2018): [Bounded Contexts are NOT Microservices](https://vladikk.com/2018/01/21/bounded-contexts-vs-microservices/)
