@@ -1,6 +1,3 @@
-# domain-driven-design-links
-A personal collection of useful links and resources related to Domain Driven Design
-
 # The philosophy of Domain Driven Design
 
 Treating DDD as a recipe. DDD it isn’t a way, a method of how to do things. It’s a mindset to design an application. And it’s a very simple mindset: the application **Design** is **Driven** by the business **Domain**. There are no steps of how to do DDD and there isn’t a formula you can learn. What you can learn from Eric Evans or other DDD experts is how they approached a problem, but nobody can give you a sure recipe of how to do things.
