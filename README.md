@@ -30,7 +30,7 @@ Reference](https://www.domainlanguage.com/wp-content/uploads/2016/05/DDD_Referen
 - Bounded Contexts are the exact opposite of Microservices! (by Vladik Khononov 2018): [Bounded Contexts are NOT Microservices](https://vladikk.com/2018/01/21/bounded-contexts-vs-microservices/)
 - Design of microservices using the principles of Domain-Driven Design (by IBM 2018): [Apply Domain-Driven Design to microservices architecture](https://www.ibm.com/garage/method/practices/code/domain-driven-design/)
 
-### Relationship Bounded Contexts and Sub-domains
+### Relationship Bounded Contexts and Subdomains
 - The subtle relationship between bounded contexts and sub-domains (by Lev Gorodinski 2013): [Sub-domains and Bounded Contexts in Domain-Driven Design (DDD)](http://gorodinski.com/blog/2013/04/29/sub-domains-and-bounded-contexts-in-domain-driven-design-ddd/)
 - Stackoverflow (2018): [Confused about Bounded Contexts and SubDomains](https://stackoverflow.com/questions/18625576/confused-about-bounded-contexts-and-subdomains)
 - Stackoverflow (2018): [Can subdomain and bounded context be same in domain driven design?](https://stackoverflow.com/questions/32069892/can-subdomain-and-bounded-context-be-same-in-domain-driven-design)
