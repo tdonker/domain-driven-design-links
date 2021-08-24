@@ -25,19 +25,19 @@ Reference](https://www.domainlanguage.com/wp-content/uploads/2016/05/DDD_Referen
 ### DDD in practice
 - This article shows a domain-driven approach to designing microservices (2019): [Using domain analysis to model microservicess](https://docs.microsoft.com/en-us/azure/architecture/microservices/model/domain-analysis)
 
-### Bounded context
+### Bounded Context
 - What is Bounded Context? (by Dave Taubler 2020): [If You’re Building Microservices, You Need to Understand What a Bounded Context is](https://medium.datadriveninvestor.com/if-youre-building-microservices-you-need-to-understand-what-a-bounded-context-is-30cbe51d5085)
 
-### Bounded contexts and microservices
+### Bounded Contexts and Microservices
 - Bounded Contexts are the exact opposite of Microservices! (by Vladik Khononov 2018): [Bounded Contexts are NOT Microservices](https://vladikk.com/2018/01/21/bounded-contexts-vs-microservices/)
 - Design of microservices using the principles of Domain-Driven Design (by IBM 2018): [Apply Domain-Driven Design to microservices architecture](https://www.ibm.com/garage/method/practices/code/domain-driven-design/)
 
-### Relationship bounded contexts and sub-domains
+### Relationship Bounded Contexts and Sub-domains
 - The subtle relationship between bounded contexts and sub-domains (by Lev Gorodinski 2013): [Sub-domains and Bounded Contexts in Domain-Driven Design (DDD)](http://gorodinski.com/blog/2013/04/29/sub-domains-and-bounded-contexts-in-domain-driven-design-ddd/)
 - Stackoverflow (2018): [Confused about Bounded Contexts and SubDomains](https://stackoverflow.com/questions/18625576/confused-about-bounded-contexts-and-subdomains)
 - Stackoverflow (2018): [Can subdomain and bounded context be same in domain driven design?](https://stackoverflow.com/questions/32069892/can-subdomain-and-bounded-context-be-same-in-domain-driven-design)
 
-### Context map: communication between bounded contexts
+### Context map: communication between Bounded Contexts
 - Stackoverflow (2013): [Communicating between two Bounded Contexts in DDD](https://stackoverflow.com/questions/16713041/communicating-between-two-bounded-contexts-in-ddd)
 - Stackoverflow (2013): [DDD - How to design associations between different bounded contexts](	https://stackoverflow.com/questions/18761001/ddd-how-to-design-associations-between-different-bounded-contexts)
 
@@ -45,3 +45,6 @@ Reference](https://www.domainlanguage.com/wp-content/uploads/2016/05/DDD_Referen
 - Entities versus Value Objects (by Philip Brown 2014): [What is the difference between Entities and Value Objects?](https://www.culttt.com/2014/04/30/difference-entities-value-objects/)
 - Entity vs Value Object (by Vladimir Khorikov 2016): [Entity vs Value Object: the ultimate list of differences](https://enterprisecraftsmanship.com/posts/entity-vs-value-object-the-ultimate-list-of-differences/)
 - The Anatomy of Domain Driven Design (by Scott Millett 2019): [Primer DDDEurope.com](https://www.elbandit.co.uk/images/DDDEU-Booklet.pdf)
+
+### DDD concepts and REST equivalents
+- API design - Azure Architecture (2019): [Designing APIs for microservices](https://docs.microsoft.com/nl-nl/azure/architecture/microservices/design/api-design)
