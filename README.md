@@ -50,3 +50,6 @@ Reference](https://www.domainlanguage.com/wp-content/uploads/2016/05/DDD_Referen
 ### Awesome Github.com sites
 - kgoralski (2019): [Domain-driven design (DDD) learning resources](https://github.com/kgoralski/personal-wiki-and-learning-resources/blob/master/domain-driven-design.md)
 - heynickc (2021): [Awesome Domain-Driven Design](https://github.com/heynickc/awesome-ddd)
+
+### DDD slack community
+- ddd-cqrs-es: [ddd-cqrs-es.slack.com](https://ddd-cqrs-es.slack.com/)
