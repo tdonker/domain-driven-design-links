@@ -1,6 +1,6 @@
 # The philosophy of Domain Driven Design
 
-Treating DDD as a recipe. DDD it isn’t a way, a method of how to do things. It’s a mindset to design an application. And it’s a very simple mindset: the application **Design** is **Driven** by the business **Domain**. There are no steps of how to do DDD and there isn’t a formula you can learn. What you can learn from Eric Evans or other DDD experts is how they approached a problem, but nobody can give you a sure recipe of how to do things.
+Domain-driven design is a philosophy and approach to developing software, it's not an architecture. Strategic DDD helps us of getting out of the big ball of mud (logical and not physical coupling). It helps us in identifying our business capability boundaries (bounded context) using an ubiquitous language (a language that is shared and understood in one part of the business) as well identifying and naming the relationships (context mapping) that our bounded contexts (also teams) have between each other. By understanding the relationships between our contexts, it aids in making decisions about how are we going to model our software.
 
 ![Domain Driven Design](./img/ddd.jpeg "Domain Driven Design")
 
