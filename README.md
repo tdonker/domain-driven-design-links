@@ -11,7 +11,7 @@ It’s a mindset: the application **Design** is **Driven** by the business **Dom
 - Domain Driven Design Quickly is a short, quick-readable summary and introduction to the fundamentals of DDD (2006): [Domain Driven Design Quickly](https://www.infoq.com/minibooks/domain-driven-design-quickly/)
 - Domain Driven Design, Definitions and Pattern Summaries (by Eric Evans 2015): [Domain-Driven	Design	
 Reference](https://www.domainlanguage.com/wp-content/uploads/2016/05/DDD_Reference_2015-03.pdf)
-- Vaughn Vernon presents the whole of Domain-Driven (by Vaughn Vernon 2013): [Implementing Domain-Driven Design](https://ptgmedia.pearsoncmg.com/images/9780321834577/samplepages/0321834577.pdf)
+- Vaughn Vernon presents the whole of Domain-Driven Design (by Vaughn Vernon 2013): [Implementing Domain-Driven Design](https://ptgmedia.pearsoncmg.com/images/9780321834577/samplepages/0321834577.pdf)
 - Concise basics of DDD (by Vaughn Vernon 2016): [Domain-Driven Design Distilled](https://github.com/phulei/books-1/blob/master/software-development/domain-driven-design-distilled.pdf)
 - Patterns, Principles and Practices of Domain-Driven Design (by Scott Millet and Nick Tune 2015): [Patterns, Principles and Practices of Domain-Driven Design](https://github.com/bmihovski/software-development-ebooks-1)
 - The Anatomy of Domain Driven Design (by Scott Millett 2019): [Primer DDDEurope.com](https://www.elbandit.co.uk/images/DDDEU-Booklet.pdf)
