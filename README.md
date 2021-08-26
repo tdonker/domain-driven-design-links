@@ -24,7 +24,7 @@ Reference](https://www.domainlanguage.com/wp-content/uploads/2016/05/DDD_Referen
 - Wikipedia (2021): [Domain-driven design](https://en.m.wikipedia.org/wiki/Domain-driven_design)
 
 ### DDD in practice
-- This article shows a domain-driven approach to designing microservices (2019): [Using domain analysis to model microservicess](https://docs.microsoft.com/en-us/azure/architecture/microservices/model/domain-analysis)
+- This article shows a domain-driven approach to designing microservices (by Microsoft 2019): [Using domain analysis to model microservicess](https://docs.microsoft.com/en-us/azure/architecture/microservices/model/domain-analysis)
 
 ### Bounded Context
 - What is Bounded Context? (by Dave Taubler 2020): [If You’re Building Microservices, You Need to Understand What a Bounded Context is](https://medium.datadriveninvestor.com/if-youre-building-microservices-you-need-to-understand-what-a-bounded-context-is-30cbe51d5085)
