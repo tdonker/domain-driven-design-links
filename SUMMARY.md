@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [The philosophy of Domain Driven Design](README.md)
 
