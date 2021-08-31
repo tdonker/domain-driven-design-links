@@ -48,7 +48,7 @@ Reference](https://www.domainlanguage.com/wp-content/uploads/2016/05/DDD_Referen
 
 ### Difference between Entities and Value Objects
 - Entities versus Value Objects (by Philip Brown 2014): [What is the difference between Entities and Value Objects?](https://www.culttt.com/2014/04/30/difference-entities-value-objects/)
-- Entity vs Value Object (by Vladimir Khorikov 2016): [Entity vs Value Object: the ultimate list of differences](https://enterprisecraftsmanship.com/posts/entity-vs-value-object-the-ultimate-list-of-differences/)
+- Entity versus Value Object (by Vladimir Khorikov 2016): [Entity vs Value Object: the ultimate list of differences](https://enterprisecraftsmanship.com/posts/entity-vs-value-object-the-ultimate-list-of-differences/)
 
 ### DDD concepts and REST equivalents
 - API design - Azure Architecture (2019): [Designing APIs for microservices](https://docs.microsoft.com/nl-nl/azure/architecture/microservices/design/api-design)
