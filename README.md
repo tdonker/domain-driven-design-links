@@ -6,7 +6,7 @@ It’s a mindset: the application **Design** is **Driven** by the business **Dom
 
 ![Domain Driven Design](./img/ddd.jpeg)
 
-## Theory books and pdfs
+#### Theory books and pdfs
 
 * The canonical Big Blue Book of Eric Evans \(2003\): [Domain-Driven-Design Tackling Complexity in the Heart of Software](https://github.com/gg-daddy/ebooks/blob/master/Eric%20Evans%202003%20-%20Domain-Driven%20Design%20-%20Tackling%20Complexity%20in%20the%20Heart%20of%20Software.pdf)
 * Domain Driven Design Quickly is a short, quick-readable summary and introduction to the fundamentals of DDD \(2006\): [Domain Driven Design Quickly](https://www.infoq.com/minibooks/domain-driven-design-quickly/)
@@ -16,7 +16,7 @@ It’s a mindset: the application **Design** is **Driven** by the business **Dom
 * Patterns, Principles and Practices of Domain-Driven Design \(by Scott Millet and Nick Tune 2015\): [Patterns, Principles and Practices of Domain-Driven Design](https://github.com/bmihovski/software-development-ebooks-1/blob/master/%5BPatterns%2C%20Principles%2C%20and%20Practices%20of%20Domain-Driven%20Design%20Kindle%20Edition%20by%20Scott%20Millett%20-%202015%5D.pdf)
 * The Anatomy of Domain Driven Design \(by Scott Millett 2019\): [Primer DDDEurope.com](https://www.elbandit.co.uk/images/DDDEU-Booklet.pdf)
 
-## Theory links
+#### Theory links
 
 * DDD easily explained \(by Anders Gill 2019\): [Part 1: Domain Driven Design like a pro](https://medium.com/raa-labs/part-1-domain-driven-design-like-a-pro-f9e78d081f10)
 * A Decade of DDD, CQRS and Event Sourcing \(by Anes Hasičić 2019\): [A Decade of DDD, CQRS and Event Sourcing by Anes Hasičić](https://tacta.io/a-decade-of-ddd-cqrs-and-event-sourcing/)
@@ -24,11 +24,11 @@ It’s a mindset: the application **Design** is **Driven** by the business **Dom
 * Various articles on Sapiens Works \(2012 - 2018\): [Sapiens Works: Domain Driven Design](https://blog.sapiensworks.com/tags.html#Domain%20driven%20design)
 * Wikipedia \(2021\): [Domain-driven design](https://en.m.wikipedia.org/wiki/Domain-driven_design)
 
-## DDD in practice
+### DDD in practice
 
 * This article shows a domain-driven approach to designing microservices \(by Microsoft 2019\): [Using domain analysis to model microservicess](https://docs.microsoft.com/en-us/azure/architecture/microservices/model/domain-analysis)
 
-## Bounded Context
+### Bounded Context
 
 * What is Bounded Context? \(by Dave Taubler 2020\): [If You’re Building Microservices, You Need to Understand What a Bounded Context is](https://medium.datadriveninvestor.com/if-youre-building-microservices-you-need-to-understand-what-a-bounded-context-is-30cbe51d5085)
 * BoundedContext \(by Martin Fowler 2014\): [Bounded Context is a central pattern in Domain-Driven Design](https://martinfowler.com/bliki/BoundedContext.html)
