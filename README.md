@@ -1,6 +1,6 @@
-# The philosophy of Domain Driven Design
+# The philosophy of Domain-Driven Design
 
-Domain Driven Design is a philosophy and approach to developing software, it's not an architecture. Strategic DDD helps us of getting out of the big ball of mud \(logical and not physical coupling\). It helps us in identifying our business capability boundaries \(**bounded context**\) using an **ubiquitous language** \(a language that is shared and understood in one part of the business\) as well identifying and naming the relationships \(**context mapping**\) that our bounded contexts \(also teams\) have between each other. By understanding the relationships between our contexts, it aids in making decisions about how are we going to model our software.
+Domain-Driven Design is a philosophy and approach to developing software, it's not an architecture. Strategic DDD helps us of getting out of the big ball of mud \(logical and not physical coupling\). It helps us in identifying our business capability boundaries \(**bounded context**\) using an **ubiquitous language** \(a language that is shared and understood in one part of the business\) as well identifying and naming the relationships \(**context mapping**\) that our bounded contexts \(also teams\) have between each other. By understanding the relationships between our contexts, it aids in making decisions about how are we going to model our software.
 
 It’s a mindset: the application **Design** is **Driven** by the business **Domain**. There are no steps of how to do DDD and there isn’t a formula you can learn. What you can learn from Eric Evans or other DDD experts is how they approached a problem, but nobody can give you a sure recipe of how to do things.
 
@@ -10,7 +10,7 @@ It’s a mindset: the application **Design** is **Driven** by the business **Dom
 
 * The canonical Big Blue Book of Eric Evans \(2003\): [Domain-Driven-Design Tackling Complexity in the Heart of Software](https://github.com/gg-daddy/ebooks/blob/master/Eric%20Evans%202003%20-%20Domain-Driven%20Design%20-%20Tackling%20Complexity%20in%20the%20Heart%20of%20Software.pdf)
 * Domain Driven Design Quickly is a short, quick-readable summary and introduction to the fundamentals of DDD \(2006\): [Domain Driven Design Quickly](https://www.infoq.com/minibooks/domain-driven-design-quickly/)
-* Domain Driven Design, Definitions and Pattern Summaries \(by Eric Evans 2015\): [Domain-Driven Design Reference](https://www.domainlanguage.com/wp-content/uploads/2016/05/DDD_Reference_2015-03.pdf)
+* Domain-Driven Design, Definitions and Pattern Summaries \(by Eric Evans 2015\): [Domain-Driven Design Reference](https://www.domainlanguage.com/wp-content/uploads/2016/05/DDD_Reference_2015-03.pdf)
 * Vaughn Vernon presents the whole of Domain-Driven Design \(by Vaughn Vernon 2013\): [Implementing Domain-Driven Design](https://ptgmedia.pearsoncmg.com/images/9780321834577/samplepages/0321834577.pdf)
 * Concise basics of DDD \(by Vaughn Vernon 2016\): [Domain-Driven Design Distilled](https://github.com/phulei/books-1/blob/master/software-development/domain-driven-design-distilled.pdf)
 * Patterns, Principles and Practices of Domain-Driven Design \(by Scott Millet and Nick Tune 2015\): [Patterns, Principles and Practices of Domain-Driven Design](https://github.com/bmihovski/software-development-ebooks-1/blob/master/%5BPatterns%2C%20Principles%2C%20and%20Practices%20of%20Domain-Driven%20Design%20Kindle%20Edition%20by%20Scott%20Millett%20-%202015%5D.pdf)
