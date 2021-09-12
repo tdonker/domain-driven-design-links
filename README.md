@@ -47,7 +47,7 @@ It’s a mindset: the application **Design** is **Driven** by the business **Dom
 * Bounded Contexts can have a unified model (a way of structuring MultipleCanonicalModels). \(by Martin Fowler 2014\): [MultipleCanonicalModels](https://martinfowler.com/bliki/BoundedContext.html)
 * Implement the bounded context concept meaning one model per context. \(by Teiva Harsanyi 2017\): [Why is a Canonical Data Model an Anti Pattern](https://teivah.medium.com/why-is-a-canonical-data-model-an-anti-pattern-441b5c4cbff8)
 * Lightweight Canonical Data Model per functional domain. \(by Tanya du Preez 2016\): [Canonical Data Models & Microservices](https://www2.deloitte.com/content/dam/Deloitte/za/Documents/strategy/ZA_Deloitte_Digita_Canonical_Schemas.pdf)
-* Multiple smaller canonical models that sit within our bounded contexts - bounded conetxt in API path. \(by Jeff Watkins 2018\): [Architectural Mistakes I Have Made: Microservices, APIs, Commoditisation and Bounded Contexts](https://www.linkedin.com/pulse/architectural-mistakes-i-have-made-microservices-apis-jeff-watkins)
+* Multiple smaller canonical models that sit within our bounded contexts - bounded context in API path. \(by Jeff Watkins 2018\): [Architectural Mistakes I Have Made: Microservices, APIs, Commoditisation and Bounded Contexts](https://www.linkedin.com/pulse/architectural-mistakes-i-have-made-microservices-apis-jeff-watkins)
 
 ### Relationship Bounded Contexts and Subdomains
 
