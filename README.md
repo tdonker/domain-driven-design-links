@@ -70,6 +70,10 @@ It’s a mindset: the application **Design** is **Driven** by the business **Dom
 
 * API design - Azure Architecture \(2019\): [Designing APIs for microservices](https://docs.microsoft.com/nl-nl/azure/architecture/microservices/design/api-design)
 
+### DDD, microservices and Kafka
+
+* Apache Kafka + Domain-driven design (DDD) = Decoupled event streaming microservices \(by Kai Waehner 2019\): [Microservices, Apache Kafka, and Domain-Driven Design](https://www.confluent.io/blog/microservices-apache-kafka-domain-driven-design/)
+
 ### Awesome Github.com sites
 
 * kgoralski \(2019\): [Domain-driven design \(DDD\) learning resources](https://github.com/kgoralski/personal-wiki-and-learning-resources/blob/master/domain-driven-design.md)
