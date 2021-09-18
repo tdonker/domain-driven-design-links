@@ -22,6 +22,7 @@ It’s a mindset: the application **Design** is **Driven** by the business **Dom
 * A Decade of DDD, CQRS and Event Sourcing \(by Anes Hasičić 2019\): [A Decade of DDD, CQRS and Event Sourcing by Anes Hasičić](https://tacta.io/a-decade-of-ddd-cqrs-and-event-sourcing/)
 * DDD introduction \(by Dan Haywood 2019\): [An Introduction to Domain Driven Design](https://www.methodsandtools.com/archive/archive.php?id=97)
 * Various articles on Sapiens Works \(2012 - 2018\): [Sapiens Works: Domain Driven Design](https://blog.sapiensworks.com/tags.html#Domain%20driven%20design)
+* Triple D Courses \(2019\): [DDD basic concepts](https://drive.google.com/file/d/1jFM0biU4YLY5OpUXTsC_bXv-hNbMbNKs/edit)
 * Wikipedia \(2021\): [Domain-driven design](https://en.m.wikipedia.org/wiki/Domain-driven_design)
 
 ### DDD in practice
