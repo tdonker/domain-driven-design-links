@@ -15,7 +15,7 @@ It’s a mindset: the application **Design** is **Driven** by the business **Dom
 * Concise basics of DDD \(by Vaughn Vernon 2016\): [Domain-Driven Design Distilled](https://github.com/phulei/books-1/blob/master/software-development/domain-driven-design-distilled.pdf)
 * Patterns, Principles and Practices of Domain-Driven Design \(by Scott Millet and Nick Tune 2015\): [Patterns, Principles and Practices of Domain-Driven Design](https://github.com/bmihovski/software-development-ebooks-1/blob/master/%5BPatterns%2C%20Principles%2C%20and%20Practices%20of%20Domain-Driven%20Design%20Kindle%20Edition%20by%20Scott%20Millett%20-%202015%5D.pdf)
 * The Anatomy of Domain Driven Design \(by Scott Millett 2019\): [Primer DDDEurope.com](https://www.elbandit.co.uk/images/DDDEU-Booklet.pdf)
-
+--------------------------------------------
 ### Theory links
 
 * DDD easily explained \(by Anders Gill 2019\): [Part 1: Domain Driven Design like a pro](https://medium.com/raa-labs/part-1-domain-driven-design-like-a-pro-f9e78d081f10)
