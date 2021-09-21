@@ -25,6 +25,7 @@ ___
 * Various articles on Sapiens Works \(2012 - 2018\): [Sapiens Works: Domain Driven Design](https://blog.sapiensworks.com/tags.html#Domain%20driven%20design)
 * Triple D Courses \(2019\): [DDD basic concepts](https://drive.google.com/file/d/1jFM0biU4YLY5OpUXTsC_bXv-hNbMbNKs/edit)
 * Wikipedia \(2021\): [Domain-driven design](https://en.m.wikipedia.org/wiki/Domain-driven_design)
+
 ___
 ### DDD in practice
 
