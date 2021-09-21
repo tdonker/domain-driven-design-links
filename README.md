@@ -26,6 +26,7 @@ ___
 * Triple D Courses \(2019\): [DDD basic concepts](https://drive.google.com/file/d/1jFM0biU4YLY5OpUXTsC_bXv-hNbMbNKs/edit)
 * Wikipedia \(2021\): [Domain-driven design](https://en.m.wikipedia.org/wiki/Domain-driven_design)
 
+___
 ### DDD in practice
 
 * This article shows a domain-driven approach to designing microservices \(by Microsoft 2019\): [Using domain analysis to model microservicess](https://docs.microsoft.com/en-us/azure/architecture/microservices/model/domain-analysis)
