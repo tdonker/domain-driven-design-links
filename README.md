@@ -4,6 +4,8 @@ Domain-Driven Design is a philosophy and approach to developing software, it's n
 
 It’s a mindset: the application **Design** is **Driven** by the business **Domain**. There are no steps of how to do DDD and there isn’t a formula you can learn. What you can learn from Eric Evans or other DDD experts is how they approached a problem, but nobody can give you a sure recipe of how to do things.
 
+last update: 26.09.2021: added Repositories link
+
 ![Domain Driven Design](./img/ddd.jpeg)
 
 ### Theory books and pdfs
@@ -75,6 +77,11 @@ ___
 
 * Entities versus Value Objects \(by Philip Brown 2014\): [What is the difference between Entities and Value Objects?](https://www.culttt.com/2014/04/30/difference-entities-value-objects/)
 * Entity vs Value Object \(by Vladimir Khorikov 2016\): [Entity vs Value Object: the ultimate list of differences](https://enterprisecraftsmanship.com/posts/entity-vs-value-object-the-ultimate-list-of-differences/)
+
+___
+### Repositories
+
+* The repository cares about storing/retrieving objects from the db \(2014\): [Repositories in domain driven design](https://stackoverflow.com/questions/23253092/repositories-in-domain-driven-design)
 
 ___
 ### DDD concepts and REST equivalents
