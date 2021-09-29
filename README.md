@@ -5,6 +5,7 @@ Domain-Driven Design is a philosophy and approach to developing software, it's n
 It’s a mindset: the application **Design** is **Driven** by the business **Domain**. There are no steps of how to do DDD and there isn’t a formula you can learn. What you can learn from Eric Evans or other DDD experts is how they approached a problem, but nobody can give you a sure recipe of how to do things.
 
 *update: 29.09.2021: Context Maps - a deep dive - Michael Plöd - KanDDDinsky 2019*
+<br>
 *update: 26.09.2021: The repository cares about storing/retrieving objects from the db*
 
 ![Domain Driven Design](./img/ddd.jpeg)
