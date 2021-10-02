@@ -5,7 +5,7 @@ Mission of this overview is the bring great quotes for the concept of Bounded Co
 *update: 02.10.2021: initial release*
 
 
-![Domain Driven Design](./img/ddd.jpeg)
+![Domain Driven Design](./img/sketch.png)
 
 ### Patterns, Principles and Practices of Domain-Driven Design (by Scott Millet and Nick Tune 2015)
 
