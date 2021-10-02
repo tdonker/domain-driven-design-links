@@ -1,6 +1,6 @@
 # Great quotes for the concept of Bounded Context 
 
-Mission of this overview is the bring great quotes for the concept of Bounded Context, in order to get a better understandig of the concept.
+Mission of this overview is the bring great quotes for the concept of Bounded Context, in order to get a better understandig of this fundamental DDD concept.
 
 *update: 02.10.2021: initial release*
 
