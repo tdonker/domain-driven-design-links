@@ -8,7 +8,7 @@ Mission of this overview is the bring great quotes for the concept of Bounded Co
 ![Domain Driven Design](./img/sketch.png)
 
 ##### Patterns, Principles and Practices of Domain-Driven Design (by Scott Millet and Nick Tune 2015)
-##### The canonical Big Blue Book of Eric Evans \(2003\): [Domain-Driven-Design Tackling Complexity in the Heart of Software](https://github.com/gg-daddy/ebooks/blob/master/Eric%20Evans%202003%20-%20Domain-Driven%20Design%20-%20Tackling%20Complexity%20in%20the%20Heart%20of%20Software.pdf)
+##### [Domain-Driven-Design Tackling Complexity in the Heart of Software](https://github.com/gg-daddy/ebooks/blob/master/Eric%20Evans%202003%20-%20Domain-Driven%20Design%20-%20Tackling%20Complexity%20in%20the%20Heart%20of%20Software.pdf)
 
 * p54: Bounded contexts are used to form a **protective boundary** around models that helps to prevent software from evolving into a BBoM.
 * p119: A bounded context is defined based on **team’s language,** and physical artifacts. 
