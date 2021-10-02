@@ -16,7 +16,7 @@ Mission of this overview is the bring great quotes for the concept of Bounded Co
 * p128: There are two aspects of a problem domain that you can use as a guide to **identifying bounded contexts** — terminology and business capabilities. 
 * p129: A **single team** should be responsible for a bounded context, whether that crosses one or many applications or departments. So structure teams around bounded contexts; form product and services groups rather than trying to mirror the departmental structure of the business. Ensure that teams are **responsible for a bounded context from presentation through domain logic and to persistence.**
 * p131: **Unlike a subdomain**, a bounded context is a concrete technical implementation that enforces boundaries between models within an application. Bounded contexts exist in the solution space and are represented as explicit domain models in a context.
-* p136: There are **no rules** for defining the boundaries of a model and therefore bounded contexts. Instead you should base bounded contexts around linguistic boundaries, team organization, subdomains and physical deployments. 
+* p136: There are **no rules for defining** the boundaries of a model and therefore bounded contexts. Instead you should base bounded contexts around linguistic boundaries, team organization, subdomains and physical deployments. 
 * continue p148
  
 
