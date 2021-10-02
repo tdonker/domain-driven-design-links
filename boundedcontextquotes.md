@@ -9,9 +9,8 @@ Mission of this overview is the bring great quotes for the concept of Bounded Co
 
 #### Patterns, Principles and Practices of Domain-Driven Design (by Scott Millet and Nick Tune 2015)
 
-> p54: Bounded contexts are used to form a **protective boundary** around models that helps to prevent software from evolving into a BBoM.
-> 
-> p119:  A bounded context is defined based on **team’s language,** and physical artifacts. 
+* p54: Bounded contexts are used to form a **protective boundary** around models that helps to prevent software from evolving into a BBoM.
+* p119:  A bounded context is defined based on **team’s language,** and physical artifacts. 
 > 
 > p126: Treat bounded contexts like the **borders of a country**. Nothing should pass into the bounded context unless it goes through the border control and is valid. Just like countries where people speak a different language, so does the code within your bounded context. 
 > 
