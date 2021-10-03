@@ -16,7 +16,10 @@ Mission of this overview is the bring great quotes for the concept of Bounded Co
 * p128: There are two aspects of a problem domain that you can use as a guide to **identifying bounded contexts** — terminology and business capabilities. 
 * p129: A **single team** should be responsible for a bounded context, whether that crosses one or many applications or departments. So structure teams around bounded contexts; form product and services groups rather than trying to mirror the departmental structure of the business. Ensure that teams are **responsible for a bounded context from presentation through domain logic and to persistence.**
 * p131: **Unlike a subdomain**, a bounded context is a concrete technical implementation that enforces boundaries between models within an application. Bounded contexts exist in the solution space and are represented as explicit domain models in a context.
-* p136: There are **no rules for defining** the boundaries of a model and therefore bounded contexts. Instead you should base bounded contexts around linguistic boundaries, team organization, subdomains and physical deployments. 
+* p136: There are **no rules for defining** the boundaries of a model and therefore bounded contexts. Instead you should base bounded contexts around linguistic boundaries, team organization, subdomains and physical deployments.
+* p157:  Ideally a bounded context should have its **own database**.
+* p157: **Applications** can be composed of **more than one** bounded context. 
+* p157: However, some people believe that the boundary of a bounded context should extend to the presentation layer. Udi Dahan’s business component gives the bounded context the responsibility for owning specific regions of the **user interface**. 
 * continue p148
  
 
@@ -25,6 +28,9 @@ ___
 ##### [Domain-Driven-Design Tackling Complexity in the Heart of Software by Eric Evans 2003](https://github.com/gg-daddy/ebooks/blob/master/Eric%20Evans%202003%20-%20Domain-Driven%20Design%20-%20Tackling%20Complexity%20in%20the%20Heart%20of%20Software.pdf)
 * p239: By explicitly defining a BOUNDED CONTEXT within which a model applies and then, when necessary, defining its relationship with other contexts, the modeler can **avoid bastardizing** the model.
 * p304: Code reuse between BOUNDED CONTEXTS is a **hazard to be avoided**. Integration of functionality and data must go through a translation.
+* p339: Generally speaking, there is a correspondence of **one team per BOUNDED CONTEXT** . One team can maintain multiple BOUNDED CONTEXTS, but it is hard (though not impossible) for multiple teams to work on one together.
+* p341: The **feasibility of a deployment plan** should feed back into the drawing of the CONTEXT boundaries. When two CONTEXTS are bridged by a translation layer, one CONTEXT can be updated just so a new translation layer provides the same interface to the other CONTEXT. A SHARED KERNEL imposes a much greater burden of coordination, not just in development but also in deployment. SEPARATE WAYS can make life much simpler.
+* p419: Of course, because **each BOUNDED CONTEXT is its own name space**, one structure could be used to organize the model within one CONTEXT, while another was used in a neighboring CONTEXT, and still another organized the CONTEXT MAP.
 * contine p310
 
 
