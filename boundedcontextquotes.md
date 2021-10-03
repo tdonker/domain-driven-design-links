@@ -1,6 +1,6 @@
 # Great quotes for the concept of Bounded Context 
 
-Mission of this overview is the bring great quotes for the concept of Bounded Context, in order to get a better understandig of this fundamental DDD concept.
+Mission of this overview is the bring great quotes for the concept of Bounded Context, in order to get a better understandig of this fundamental DDD concept. Bounded context and the ubiquitous language are the foundation of DDD. 
 
 *update: 02.10.2021: initial release*
 
@@ -20,7 +20,9 @@ Mission of this overview is the bring great quotes for the concept of Bounded Co
 * p157:  Ideally a bounded context should have its **own database**.
 * p157: **Applications** can be composed of **more than one** bounded context. 
 * p157: However, some people believe that the boundary of a bounded context should extend to the presentation layer. Udi Dahan’s business component gives the bounded context the responsibility for owning specific regions of the **user interface**. 
-* continue p148
+* p175: However, if your business is not complex or isn’t changing frequently then don’t automatically reach for the DDD hammer: remember there are other better suited tools in your development tool kit. Only focus your modeling efforts and DDD on the most complex bounded contexts that **bring the most value** to your customer. 
+* p221: Inside a bounded context you may have a number of responsibilities. In a Shipping bounded context, for example, there may be logic to deal with priority orders and standard orders. By isolating each major responsibility as a **component**, you’ll find yourself having clearer conversations with the business and all the other benefits of DDD that you’ve already seen arise from making the implicit explicit.
+* continue 271
  
 
 ___
@@ -31,7 +33,6 @@ ___
 * p339: Generally speaking, there is a correspondence of **one team per BOUNDED CONTEXT** . One team can maintain multiple BOUNDED CONTEXTS, but it is hard (though not impossible) for multiple teams to work on one together.
 * p341: The **feasibility of a deployment plan** should feed back into the drawing of the CONTEXT boundaries. When two CONTEXTS are bridged by a translation layer, one CONTEXT can be updated just so a new translation layer provides the same interface to the other CONTEXT. A SHARED KERNEL imposes a much greater burden of coordination, not just in development but also in deployment. SEPARATE WAYS can make life much simpler.
 * p419: Of course, because **each BOUNDED CONTEXT is its own name space**, one structure could be used to organize the model within one CONTEXT, while another was used in a neighboring CONTEXT, and still another organized the CONTEXT MAP.
-* contine p310
 
 
 ___
