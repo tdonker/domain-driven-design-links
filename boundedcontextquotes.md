@@ -22,7 +22,7 @@ Mission of this overview is the bring great quotes for the concept of Bounded Co
 * p157: However, some people believe that the boundary of a bounded context should extend to the presentation layer. Udi Dahan’s business component gives the bounded context the responsibility for owning specific regions of the **user interface**. 
 * p175: However, if your business is not complex or isn’t changing frequently then don’t automatically reach for the DDD hammer: remember there are other better suited tools in your development tool kit. Only focus your modeling efforts and DDD on the most complex bounded contexts that **bring the most value** to your customer. 
 * p221: Inside a bounded context you may have a number of responsibilities. In a Shipping bounded context, for example, there may be logic to deal with priority orders and standard orders. By isolating each major responsibility as a **component**, you’ll find yourself having clearer conversations with the business and all the other benefits of DDD that you’ve already seen arise from making the implicit explicit.
-* p271: Business Components Need Their Own APIs. If you work to the principle that each business component has its own private database, the only sensible way to share data with a web application is for each business component to have its own set of APIs exposing that data. 
+* p271: Business Components Need Their Own APIs. If you work to the principle that each business component has its own private database, the only sensible way to share data with a web application is for each **business component to have its own set of APIs** exposing that data. 
 * continue 271
  
 
