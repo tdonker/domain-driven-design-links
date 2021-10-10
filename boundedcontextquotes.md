@@ -24,6 +24,7 @@ Mission of this overview is the bring great quotes for the concept of Bounded Co
 * p221: Inside a bounded context you may have a number of responsibilities. In a Shipping bounded context, for example, there may be logic to deal with priority orders and standard orders. By isolating each major responsibility as a **component**, you’ll find yourself having clearer conversations with the business and all the other benefits of DDD that you’ve already seen arise from making the implicit explicit.
 * p271: Business Components Need Their Own APIs. If you work to the principle that each business component has its own private database, the only sensible way to share data with a web application is for each **business component to have its own set of APIs** exposing that data. 
 * p263: Storage Is Cheap—Keep a Local Copy - An option that many teams take in this situation to reduce unwanted coupling is to store all the data each bounded context needs **locally**. 
+* p293: **Dogfooding** Your APIs - When all your communication is over HTTP, there may be no need to have dedicated channels for internal and external communication. In plain English, this means that you can build APIs that bounded contexts use to communicate, and third parties can use those same APIs. 
 * continue 246
  
 
