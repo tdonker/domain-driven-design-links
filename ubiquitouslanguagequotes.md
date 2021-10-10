@@ -1,6 +1,7 @@
-Great quotes for the concept of Ubiquitous Language
+# Great quotes for the concept of Ubiquitous Language 
+
 Mission of this overview is the bring great quotes for the concept of Ubiquitous Language, in order to get a better understandig of this fundamental DDD concept. Bounded context and the ubiquitous language are the foundation of DDD.
 
-An operational definition of where a particular model is well-defined and applicable. Typically a sub-system, or the work owned by a particular team. Evans 2003
+> A language structured around the domain model and used by all team members to connect all the activities of the team with the software. [Evans 2003](https://pubs.opengroup.org/architecture/o-aa-standard/DDD-strategic-patterns.html#context-map)
 
-last update: 10.10.2021
+*last update: 10.10.2021*
