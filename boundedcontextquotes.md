@@ -23,10 +23,12 @@ Mission of this overview is the bring great quotes for the concept of Bounded Co
 * p175: However, if your business is not complex or isn’t changing frequently then don’t automatically reach for the DDD hammer: remember there are other better suited tools in your development tool kit. Only focus your modeling efforts and DDD on the most complex bounded contexts that **bring the most value** to your customer. 
 * p221: Inside a bounded context you may have a number of responsibilities. In a Shipping bounded context, for example, there may be logic to deal with priority orders and standard orders. By isolating each major responsibility as a **component**, you’ll find yourself having clearer conversations with the business and all the other benefits of DDD that you’ve already seen arise from making the implicit explicit.
 * p271: Business Components Need Their Own APIs. If you work to the principle that each business component has its own private database, the only sensible way to share data with a web application is for each **business component to have its own set of APIs** exposing that data. 
-* p263: Storage Is Cheap—Keep a Local Copy - An option that many teams take in this situation to reduce unwanted coupling is to store all the data each bounded context needs **locally**. 
-* p293: **Dogfooding** Your APIs - When all your communication is over HTTP, there may be no need to have dedicated channels for internal and external communication. In plain English, this means that you can build APIs that bounded contexts use to communicate, and third parties can use those same APIs. 
-* continue 246
- 
+* p263: Storage Is Cheap—Keep a Local Copy - An option that many teams take in this situation to reduce unwanted coupling is **to store all the data each bounded context needs locally**. 
+* p293: **Dogfooding** Your APIs - When all your communication is over HTTP, there may be no need to have dedicated channels for internal and external communication. In plain English, this means that you can build APIs that bounded contexts use to communicate, and third parties can use those same APIs.
+* p315: By isolating bounded contexts each owned by a single team, **loose coupling** is within reach. Each team is free to develop its features in line with its business priorities, free of cross‐team distractions or dependencies.
+* p320: This follows the convention of naming API projects based on the format **{bounded context}.{Resource}**. 
+* p340: Accordingly, for an event‐driven REST system, you can use a similar naming convention that communicates domain concepts, such as **{BoundedContext}.{BusinessComponent}. {Component}**.
+* p489:  The **domain model** for the Listing bounded context. (Domain - Bounded Context - Domain Model)
 
 ___
 
