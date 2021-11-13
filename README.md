@@ -4,7 +4,8 @@ Domain-Driven Design is a philosophy and approach to developing software, it's n
 
 It’s a mindset: the application **Design** is **Driven** by the business **Domain**. There are no steps of how to do DDD and there isn’t a formula you can learn. What you can learn from Eric Evans or other DDD experts is how they approached a problem, but nobody can give you a sure recipe of how to do things.
 
-
+*update: 13.11.2021: Bounded contexts and subdomains - Robert Basic 2018*
+<br>
 *update: 05.10.2021: Context Maps - a deep dive - Michael Plöd - KanDDDinsky 2019*
 <br>
 *update: 28.09.2021: Strategies for getting started with DDD - Eric Evans 2013*
@@ -71,6 +72,7 @@ ___
 * The subtle relationship between bounded contexts and sub-domains \(by Lev Gorodinski 2013\): [Sub-domains and Bounded Contexts in Domain-Driven Design \(DDD\)](http://gorodinski.com/blog/2013/04/29/sub-domains-and-bounded-contexts-in-domain-driven-design-ddd/)
 * Stackoverflow \(2018\): [Confused about Bounded Contexts and SubDomains](https://stackoverflow.com/questions/18625576/confused-about-bounded-contexts-and-subdomains)
 * Stackoverflow \(2018\): [Can subdomain and bounded context be same in domain driven design?](https://stackoverflow.com/questions/32069892/can-subdomain-and-bounded-context-be-same-in-domain-driven-design)
+* 'The optimal solution would be to have one bounded context in one subdomain' \(by Robert Basic 2018\): [Bounded contexts and subdomains](https://robertbasic.com/blog/bounded-contexts-and-subdomains/)
 
 ___
 ### Context map: communication between Bounded Contexts
