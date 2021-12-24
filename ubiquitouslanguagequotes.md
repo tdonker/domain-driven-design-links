@@ -21,3 +21,9 @@ ___
 
 ##### [Implementing Domain-Driven Design by Vaughn Vernon 2013](https://ptgmedia.pearsoncmg.com/images/9780321834577/samplepages/0321834577.pdf)
 * p22:  If there is a single **“invention”** Evans delivers to the software development community, it is the Ubiquitous Language. At a minimum he brought the Ubiquitous Language out of the dusty archives of design wisdom. 
+
+___
+
+##### [Learning Domain-Driven Design by Vlad Khononov 2021](https://www.amazon.com/Learning-Domain-Driven-Design-Aligning-Architecture/dp/1098100131)
+* p24:  Domain-driven design proposes a better way to get the knowledge from domain experts to software engineers: by using a ubiquitous language. 
+* p25:  It's crucial to emphasize that the ubiquitous language is the language of the business. ... No technical jargon!
