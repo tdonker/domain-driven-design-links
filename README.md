@@ -4,6 +4,8 @@ Domain-Driven Design is a philosophy and approach to developing software, it's n
 
 It’s a mindset: the application **Design** is **Driven** by the business **Domain**. There are no steps of how to do DDD and there isn’t a formula you can learn. What you can learn from Eric Evans or other DDD experts is how they approached a problem, but nobody can give you a sure recipe of how to do things.
 
+*update: 04.01.2022: Bounded Contexts and Canonical Data Models - Gateway Interchange Contexts Nick Tune 2019*
+<br>
 *update: 04.01.2022: Bounded Contexts and Canonical Data Models - Michael Plöd 2016*
 <br>
 *update: 13.11.2021: Bounded contexts and subdomains - Robert Basic 2018*
@@ -61,13 +63,14 @@ ___
 * A domain model should omit the extraneous information irrelevant to its task. \(by Vladik Khononov 2020\): [Thread on models and bounded contexts](https://mobile.twitter.com/vladikk/status/1335947978482339841)
 
 ___
-### Bounded Contexts and Canonical Data Models
+### Bounded Contexts, Canonical Data Models and Interchange Contexts
 
 * Bounded Contexts can have a unified model (a way of structuring MultipleCanonicalModels). \(by Martin Fowler 2014\): [MultipleCanonicalModels](https://martinfowler.com/bliki/BoundedContext.html)
 * Implement the bounded context concept meaning one model per context. \(by Teiva Harsanyi 2017\): [Why is a Canonical Data Model an Anti Pattern](https://teivah.medium.com/why-is-a-canonical-data-model-an-anti-pattern-441b5c4cbff8)
 * Lightweight Canonical Data Model per functional domain. \(by Tanya du Preez 2016\): [Canonical Data Models & Microservices](https://www2.deloitte.com/content/dam/Deloitte/za/Documents/strategy/ZA_Deloitte_Digita_Canonical_Schemas.pdf)
 * Multiple smaller canonical models that sit within our bounded contexts - bounded context in API path. \(by Jeff Watkins 2018\): [Architectural Mistakes I Have Made: Microservices, APIs, Commoditisation and Bounded Contexts](https://www.linkedin.com/pulse/architectural-mistakes-i-have-made-microservices-apis-jeff-watkins)
-* Microservices Domain Driven Design, why and how? (Published Language as pattern and Canonical Data Model). \(by Michael Plöd\): [Published Language and Canonical Data Model](https://youtu.be/lUCLFOISuXk?t=1175)
+* Microservices Domain Driven Design, why and how? (Published Language as pattern and Canonical Data Model). \(by Michael Plöd 2016\): [Published Language and Canonical Data Model](https://youtu.be/lUCLFOISuXk?t=1175)
+* Gateway Interchange Contexts. \(by Nick Tune 2019\): [Gateway Interchange Context as Enterprise Integration Pattern](https://medium.com/nick-tune-tech-strategy-blog/gateway-interchange-contexts-899696e67848)
 
 ___
 ### Relationship Bounded Contexts and Subdomains
@@ -75,7 +78,7 @@ ___
 * The subtle relationship between bounded contexts and sub-domains \(by Lev Gorodinski 2013\): [Sub-domains and Bounded Contexts in Domain-Driven Design \(DDD\)](http://gorodinski.com/blog/2013/04/29/sub-domains-and-bounded-contexts-in-domain-driven-design-ddd/)
 * Stackoverflow \(2018\): [Confused about Bounded Contexts and SubDomains](https://stackoverflow.com/questions/18625576/confused-about-bounded-contexts-and-subdomains)
 * Stackoverflow \(2018\): [Can subdomain and bounded context be same in domain driven design?](https://stackoverflow.com/questions/32069892/can-subdomain-and-bounded-context-be-same-in-domain-driven-design)
-* 'The optimal solution would be to have one bounded context in one subdomain' \(by Robert Basic 2018\): [Bounded contexts and subdomains](https://robertbasic.com/blog/bounded-contexts-and-subdomains/)
+* 'The optimal solution would be to have one bounded context in one subdomain' \(by Robert Basic 2018\): [Bounded contexts and subdomains](https://medium.com/nick-tune-tech-strategy-blog/gateway-interchange-contexts-899696e67848)
 
 ___
 ### Context map: communication between Bounded Contexts
