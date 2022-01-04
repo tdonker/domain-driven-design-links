@@ -4,6 +4,8 @@ Domain-Driven Design is a philosophy and approach to developing software, it's n
 
 It’s a mindset: the application **Design** is **Driven** by the business **Domain**. There are no steps of how to do DDD and there isn’t a formula you can learn. What you can learn from Eric Evans or other DDD experts is how they approached a problem, but nobody can give you a sure recipe of how to do things.
 
+*update: 04.01.2022: Bounded Contexts and Canonical Data Models - Michael Plöd 2016*
+<br>
 *update: 13.11.2021: Bounded contexts and subdomains - Robert Basic 2018*
 <br>
 *update: 05.10.2021: Context Maps - a deep dive - Michael Plöd - KanDDDinsky 2019*
@@ -65,6 +67,7 @@ ___
 * Implement the bounded context concept meaning one model per context. \(by Teiva Harsanyi 2017\): [Why is a Canonical Data Model an Anti Pattern](https://teivah.medium.com/why-is-a-canonical-data-model-an-anti-pattern-441b5c4cbff8)
 * Lightweight Canonical Data Model per functional domain. \(by Tanya du Preez 2016\): [Canonical Data Models & Microservices](https://www2.deloitte.com/content/dam/Deloitte/za/Documents/strategy/ZA_Deloitte_Digita_Canonical_Schemas.pdf)
 * Multiple smaller canonical models that sit within our bounded contexts - bounded context in API path. \(by Jeff Watkins 2018\): [Architectural Mistakes I Have Made: Microservices, APIs, Commoditisation and Bounded Contexts](https://www.linkedin.com/pulse/architectural-mistakes-i-have-made-microservices-apis-jeff-watkins)
+* Microservices Domain Driven Design, why and how? (Published Language as pattern and Canonical Data Model). \(by Michael Plöd\): [Published Language and Canonical Data Model](https://youtu.be/lUCLFOISuXk?t=1175)
 
 ___
 ### Relationship Bounded Contexts and Subdomains
