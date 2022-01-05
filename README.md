@@ -72,6 +72,7 @@ ___
 * Microservices Domain Driven Design, why and how? (Published Language as pattern and Canonical Data Model). \(by Michael Plöd 2016\): [Published Language and Canonical Data Model](https://youtu.be/lUCLFOISuXk?t=1175)
 * Gateway Interchange Contexts. \(by Nick Tune 2019\): [Gateway Interchange Context as Enterprise Integration Pattern](https://medium.com/nick-tune-tech-strategy-blog/gateway-interchange-contexts-899696e67848)
 * Canonical Data Model Best practices. \(by Majeed 2018\): [For microservices, define a light weight canonical model per functional domain](https://github.com/sambos/Architectures/wiki/Canonical-Data-Model-Best-practices)
+* Services and API Management: The API Architecture. \(by O'Reilly\): [Enterprises took the “E” in ESB literally and implemented monoliths into their organization to take care of all the service integration](https://www.oreilly.com/library/view/data-management-at/9781492054771/ch04.html)
 
 ___
 ### Relationship Bounded Contexts and Subdomains
