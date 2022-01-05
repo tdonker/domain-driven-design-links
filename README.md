@@ -71,6 +71,7 @@ ___
 * Multiple smaller canonical models that sit within our bounded contexts - bounded context in API path. \(by Jeff Watkins 2018\): [Architectural Mistakes I Have Made: Microservices, APIs, Commoditisation and Bounded Contexts](https://www.linkedin.com/pulse/architectural-mistakes-i-have-made-microservices-apis-jeff-watkins)
 * Microservices Domain Driven Design, why and how? (Published Language as pattern and Canonical Data Model). \(by Michael Plöd 2016\): [Published Language and Canonical Data Model](https://youtu.be/lUCLFOISuXk?t=1175)
 * Gateway Interchange Contexts. \(by Nick Tune 2019\): [Gateway Interchange Context as Enterprise Integration Pattern](https://medium.com/nick-tune-tech-strategy-blog/gateway-interchange-contexts-899696e67848)
+* Canonical Data Model Best practices. \(by Majeed 2018\): [For microservices, define a light weight canonical model per functional domain](https://github.com/sambos/Architectures/wiki/Canonical-Data-Model-Best-practices)
 
 ___
 ### Relationship Bounded Contexts and Subdomains
