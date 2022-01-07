@@ -4,6 +4,7 @@ Mission of this overview is to bring great quotes for the concept of Bounded Con
 
 > An operational definition of where a particular model is well-defined and applicable. Typically a sub-system, or the work owned by a particular team. [Evans 2003](https://pubs.opengroup.org/architecture/o-aa-standard/DDD-strategic-patterns.html#context-map)
 
+*updated: 07.01.2022
 *last update: 16.10.2021*
 
 
@@ -55,5 +56,5 @@ ___
 ___
 
 ##### [Learning Domain-Driven Design by Vlad Khononov 2021](https://www.amazon.com/Learning-Domain-Driven-Design-Aligning-Architecture/dp/1098100131)
-* p225:  ...bounded contexts protect the consistency of ubiquitous language and models.
+* p225:  ...bounded contexts protect the **consistency of ubiquitous language and models**.
 
