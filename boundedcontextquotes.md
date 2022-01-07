@@ -50,3 +50,10 @@ ___
 * p39:  **Architecture**:  It’s important to keep in mind that your strategically and tactically designed domain models should be architecturally neutral. A powerful architectural style for hosting a Bounded Context is Hexagonal, which can be used to facilitate other styles such as Service-Oriented, REST and Event-Driven, and others.
 * p40: **Tactical Modeling**: We model tactically inside a Bounded Context using DDD’s building block patterns. One of the most important patterns of tactical design is Aggregate.
 * p50: When trying to **discover the Aggregates in a Bounded Context** (2), we must understand the model’s true invariants. Only with that knowledge can we determine which objects should be clustered into a given Aggregate. 
+
+
+___
+
+##### [Learning Domain-Driven Design by Vlad Khononov 2021](https://www.amazon.com/Learning-Domain-Driven-Design-Aligning-Architecture/dp/1098100131)
+* p225:  ...bounded contexts protect the consistency of ubiquitous language and models.
+
