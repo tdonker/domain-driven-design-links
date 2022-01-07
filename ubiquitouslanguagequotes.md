@@ -27,3 +27,4 @@ ___
 ##### [Learning Domain-Driven Design by Vlad Khononov 2021](https://www.amazon.com/Learning-Domain-Driven-Design-Aligning-Architecture/dp/1098100131)
 * p24:  Domain-driven design proposes a better way to get the knowledge from domain experts to software engineers: by using a ubiquitous language. 
 * p25:  It's crucial to emphasize that the ubiquitous language is the language of the business. ... No technical jargon!
+* p211: The use of a ubiquitous language is the cornerstone practice of domain-driven design. It is essential for domain knowledge discovery, communication and effective solution modeling.
