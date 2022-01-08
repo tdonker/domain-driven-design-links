@@ -6,7 +6,7 @@ It’s a mindset: the application **Design** is **Driven** by the business **Dom
 
 *update: 08.01.2022: The Bounded Context Canvas - DDD crew 2021*
 <br>
-*update: 04.01.2022: Bounded Contexts and Canonical Data Models - Gateway Interchange Contexts Nick Tune 2019*
+*update: 04.01.2022: Canonical Data Models - Gateway Interchange Contexts Nick Tune 2019*
 <br>
 *update: 04.01.2022: Bounded Contexts and Canonical Data Models - Michael Plöd 2016*
 <br>
