@@ -59,6 +59,7 @@ ___
 
 * Bounded Contexts are the exact opposite of Microservices! \(by Vladik Khononov 2018\): [Bounded Contexts are NOT Microservices](https://vladikk.com/2018/01/21/bounded-contexts-vs-microservices/)
 * Design of microservices using the principles of Domain-Driven Design \(by IBM 2018\): [Apply Domain-Driven Design to microservices architecture](https://www.ibm.com/garage/method/practices/code/domain-driven-design/)
+* SOA vs Microservices \(by Rahul Lanje 2017\): [What is Microservice Architecture? How is it different from SOA? Why containers?](https://www.linkedin.com/pulse/what-microservice-architecture-how-different-from-soa-rahul-lanje/)
 
 ___
 ### Bounded Contexts and Domain Models
