@@ -4,6 +4,8 @@ Domain-Driven Design is a philosophy and approach to developing software, it's n
 
 It’s a mindset: the application **Design** is **Driven** by the business **Domain**. There are no steps of how to do DDD and there isn’t a formula you can learn. What you can learn from Eric Evans or other DDD experts is how they approached a problem, but nobody can give you a sure recipe of how to do things.
 
+*update: 22.01.2022: What is Microservice Architecture - Kenneth Lange 2017*
+<br>
 *update: 08.01.2022: The Bounded Context Canvas - DDD crew 2021*
 <br>
 *update: 04.01.2022: Canonical Data Models - Gateway Interchange Contexts Nick Tune 2019*
@@ -60,6 +62,7 @@ ___
 * Bounded Contexts are the exact opposite of Microservices! \(by Vladik Khononov 2018\): [Bounded Contexts are NOT Microservices](https://vladikk.com/2018/01/21/bounded-contexts-vs-microservices/)
 * Design of microservices using the principles of Domain-Driven Design \(by IBM 2018\): [Apply Domain-Driven Design to microservices architecture](https://www.ibm.com/garage/method/practices/code/domain-driven-design/)
 * SOA vs Microservices \(by Rahul Lanje 2017\): [What is Microservice Architecture? How is it different from SOA? Why containers?](https://www.linkedin.com/pulse/what-microservice-architecture-how-different-from-soa-rahul-lanje/)
+* Ideally there should be a direct mapping between a business service / capability and a microservice (or what in Domain Driven Design is called a bounded context \(by Kenneth Lange 2017\): [What is Microservice Architecture?](https://www.linkedin.com/pulse/what-microservice-architecture-kenneth-lange/)
 
 ___
 ### Bounded Contexts and Domain Models
