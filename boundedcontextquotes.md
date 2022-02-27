@@ -61,8 +61,7 @@ ___
 
 ___
 
-##### [Designing Secure Architecture of Health Software using
-Agile Practices](https://www.bib.irb.hr/1052154/download/1052154.SE1.pdf)
+##### [Designing Secure Architecture of Health Software using Agile Practices](https://www.bib.irb.hr/1052154/download/1052154.SE1.pdf)
 * p227:  Bounded contexts introduce boundaries for terms of the ubiquitous language to prevent ambiguity in software artefacts. More specifically, the solution
 space is broken down into several bounded contexts, each solving one (or several) sub-domains in a highly cohesive manner without any linguistic ambiguity.
 
