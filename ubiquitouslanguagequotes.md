@@ -28,3 +28,9 @@ ___
 * p24:  Domain-driven design proposes a better way to get the knowledge from domain experts to software engineers: by using a ubiquitous language. 
 * p25:  It's crucial to emphasize that the ubiquitous language is the language of the business. ... No technical jargon!
 * p211: The use of a ubiquitous language is the cornerstone practice of domain-driven design. It is essential for domain knowledge discovery, communication and effective solution modeling.
+
+___
+
+##### [Best Practice - An Introduction To Domain-Driven Design by Microsoft 2009](https://docs.microsoft.com/en-us/archive/msdn-magazine/2009/february/best-practice-an-introduction-to-domain-driven-design)
+* p:  These domain experts use **company- or industry-standard terminology**. In DDD, this vocabulary is called the Ubiquitous Language. As developers, you want to understand this vocabulary and not only use it when speaking with domain experts but also see the same terminology reflected in your code.
+
