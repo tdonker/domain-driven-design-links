@@ -10,7 +10,7 @@ Mission of this overview is to bring great quotes for the concept of Bounded Con
 
 ![Domain Driven Design](./img/sketch.png)
 
-##### [Patterns, Principles and Practices of Domain-Driven Design by Scott Millet and Nick Tune 2015](https://github.com/bmihovski/software-development-ebooks-1/blob/master/%5BPatterns%2C%20Principles%2C%20and%20Practices%20of%20Domain-Driven%20Design%20Kindle%20Edition%20by%20Scott%20Millett%20-%202015%5D.pdf)
+##### [Patterns, Principles and Practices of Domain-Driven Design by Scott Millet and Nick Tune 2015](https://sd.blackball.lv/library/patterns_principles_and_practices_of_domain-driven_design_(2015).pdf)
 
 
 * p54: Bounded contexts are used to form a **protective boundary** around models that helps to prevent software from evolving into a BBoM.
