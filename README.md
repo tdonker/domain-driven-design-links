@@ -140,6 +140,11 @@ ___
 * ddd-cqrs-es: [ddd-cqrs-es.slack.com](https://ddd-cqrs-es.slack.com/)
 
 ___
+### ESB versus Microservices
+
+* IBM \(2021\): [ESB vs. Microservices: What's the Difference?](https://www.ibm.com/cloud/blog/esb-vs-microservices)
+
+___
 ### Dutch sites
 
 * Trivento: [Hoe 'Bounded Contexts' helpen microservices af te bakenen](https://www.trivento.nl/blog/de-grenzen-van-microservices)
