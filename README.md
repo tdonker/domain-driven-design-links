@@ -60,7 +60,7 @@ ___
 * What is Bounded Context? \(by Dave Taubler 2020\): [If You’re Building Microservices, You Need to Understand What a Bounded Context is](https://medium.datadriveninvestor.com/if-youre-building-microservices-you-need-to-understand-what-a-bounded-context-is-30cbe51d5085)
 * BoundedContext \(by Martin Fowler 2014\): [Bounded Context is a central pattern in Domain-Driven Design](https://martinfowler.com/bliki/BoundedContext.html)
 * The Bounded Context Canvas \(by DDD-crew Github 2021\): [A structured approach to designing and documenting each of your bounded contexts](https://github.com/ddd-crew/bounded-context-canvas)
-* Clues for discovering contexts \(by Nick Tune 2017\): [The Art of Discovering Bounded Contexts](https://www.youtube.com/watch?v=ez9GWESKG4I&t=700s)
+* Clues for discovering Contexts \(by Nick Tune 2017\): [The Art of Discovering Bounded Contexts](https://www.youtube.com/watch?v=ez9GWESKG4I&t=700s)
 * Quotes for Bounded Contexts \(2021\): [Quotes for the concept of Bounded Context](./boundedcontextquotes.md)
 
 ___
