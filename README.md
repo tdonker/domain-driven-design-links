@@ -4,6 +4,8 @@ Domain-Driven Design is a philosophy and approach to developing software, it's n
 
 It’s a mindset: the application **Design** is **Driven** by the business **Domain**. There are no steps of how to do DDD and there isn’t a formula you can learn. What you can learn from Eric Evans or other DDD experts is how they approached a problem, but nobody can give you a sure recipe of how to do things.
 
+*update: 09.034.2022: The Art of Discovering Bounded Contexts by Nick Tune (YouTube)*
+<br>
 *update: 22.03.2022: Added a subset of Dutch sites*
 <br>
 *update: 27.02.2022: Gateway Interchange Context on YouTube - Nick Tune 2019*
@@ -58,6 +60,7 @@ ___
 * What is Bounded Context? \(by Dave Taubler 2020\): [If You’re Building Microservices, You Need to Understand What a Bounded Context is](https://medium.datadriveninvestor.com/if-youre-building-microservices-you-need-to-understand-what-a-bounded-context-is-30cbe51d5085)
 * BoundedContext \(by Martin Fowler 2014\): [Bounded Context is a central pattern in Domain-Driven Design](https://martinfowler.com/bliki/BoundedContext.html)
 * The Bounded Context Canvas \(by DDD-crew Github 2021\): [A structured approach to designing and documenting each of your bounded contexts](https://github.com/ddd-crew/bounded-context-canvas)
+* Clues for discovering contexts \(by Nick Tune 2017\): [The Art of Discovering Bounded Contexts](https://www.youtube.com/watch?v=ez9GWESKG4I&t=700s)
 * Quotes for Bounded Contexts \(2021\): [Quotes for the concept of Bounded Context](./boundedcontextquotes.md)
 
 ___
