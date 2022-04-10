@@ -77,6 +77,13 @@ ___
 * A domain model should omit the extraneous information irrelevant to its task. \(by Vladik Khononov 2020\): [Thread on models and bounded contexts](https://mobile.twitter.com/vladikk/status/1335947978482339841)
 
 ___
+### Published language & Ubiquitous language
+
+* But in order to make the API understandable to domain experts, it is essential that names and abstractions in the API follow the terms defined in the ubiqitous language which is formally specified by the domain model \(2021\): [Patterns on Deriving APIs and their Endpoints from Domain
+Models
+](https://eprints.cs.univie.ac.at/6948/1/europlop21-s16-camera-ready2.pdf)
+
+___
 ### Bounded Contexts, Canonical Data Models and Interchange Contexts
 
 * Bounded Contexts can have a unified model (a way of structuring MultipleCanonicalModels). \(by Martin Fowler 2014\): [MultipleCanonicalModels](https://martinfowler.com/bliki/BoundedContext.html)
