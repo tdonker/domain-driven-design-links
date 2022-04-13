@@ -4,29 +4,30 @@ Domain-Driven Design is a philosophy and approach to developing software, it's n
 
 It’s a mindset: the application **Design** is **Driven** by the business **Domain**. There are no steps of how to do DDD and there isn’t a formula you can learn. What you can learn from Eric Evans or other DDD experts is how they approached a problem, but nobody can give you a sure recipe of how to do things.
 
-*update: 11.04.2022: Patterns on Deriving APIs and their Endpoints from Domain Models*
+*updates:*
+*11.04.2022: Patterns on Deriving APIs and their Endpoints from Domain Models*
 <br>
-*update: 09.04.2022: The Art of Discovering Bounded Contexts by Nick Tune (YouTube)*
+*09.04.2022: The Art of Discovering Bounded Contexts by Nick Tune (YouTube)*
 <br>
-*update: 22.03.2022: Added a subset of Dutch sites*
+*22.03.2022: Added a subset of Dutch sites*
 <br>
-*update: 27.02.2022: Gateway Interchange Context on YouTube - Nick Tune 2019*
+*27.02.2022: Gateway Interchange Context on YouTube - Nick Tune 2019*
 <br>
-*update: 22.01.2022: What is Microservice Architecture - Kenneth Lange 2017*
+*22.01.2022: What is Microservice Architecture - Kenneth Lange 2017*
 <br>
-*update: 08.01.2022: The Bounded Context Canvas - DDD crew 2021*
+*08.01.2022: The Bounded Context Canvas - DDD crew 2021*
 <br>
-*update: 04.01.2022: Canonical Data Models - Gateway Interchange Contexts Nick Tune 2019*
+*04.01.2022: Canonical Data Models - Gateway Interchange Contexts Nick Tune 2019*
 <br>
-*update: 04.01.2022: Bounded Contexts and Canonical Data Models - Michael Plöd 2016*
+*04.01.2022: Bounded Contexts and Canonical Data Models - Michael Plöd 2016*
 <br>
-*update: 13.11.2021: Bounded contexts and subdomains - Robert Basic 2018*
+*13.11.2021: Bounded contexts and subdomains - Robert Basic 2018*
 <br>
-*update: 05.10.2021: Context Maps - a deep dive - Michael Plöd - KanDDDinsky 2019*
+*05.10.2021: Context Maps - a deep dive - Michael Plöd - KanDDDinsky 2019*
 <br>
-*update: 28.09.2021: Strategies for getting started with DDD - Eric Evans 2013*
+*28.09.2021: Strategies for getting started with DDD - Eric Evans 2013*
 <br>
-*update: 26.09.2021: The repository cares about storing/retrieving objects from the db*
+*26.09.2021: The repository cares about storing/retrieving objects from the db*
 
 ![Domain Driven Design](./img/ddd.jpeg)
 
