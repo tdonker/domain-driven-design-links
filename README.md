@@ -4,7 +4,9 @@ Domain-Driven Design is a philosophy and approach to developing software, it's n
 
 It’s a mindset: the application **Design** is **Driven** by the business **Domain**. There are no steps of how to do DDD and there isn’t a formula you can learn. What you can learn from Eric Evans or other DDD experts is how they approached a problem, but nobody can give you a sure recipe of how to do things.
 
-*update: 09.034.2022: The Art of Discovering Bounded Contexts by Nick Tune (YouTube)*
+*update: 11.04.2022: Patterns on Deriving APIs and their Endpoints from Domain Models*
+<br>
+*update: 09.04.2022: The Art of Discovering Bounded Contexts by Nick Tune (YouTube)*
 <br>
 *update: 22.03.2022: Added a subset of Dutch sites*
 <br>
