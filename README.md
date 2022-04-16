@@ -135,6 +135,7 @@ ___
 ### DDD concepts and REST equivalents
 
 * API design - Azure Architecture \(2019\): [Designing APIs for microservices](https://docs.microsoft.com/nl-nl/azure/architecture/microservices/design/api-design)
+* Aggregate Roots are a good starting point for API Resources \(Zimmerman ao 2021\): [A Grey Literature Study Based on Grounded Theory](https://zenodo.org/record/4493865/files/api_ddd_grey_literature_based_gt.pdf)
 
 ___
 ### DDD, microservices and Kafka
