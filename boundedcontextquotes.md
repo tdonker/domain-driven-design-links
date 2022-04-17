@@ -57,7 +57,7 @@ ___
 
 ##### [Learning Domain-Driven Design by Vlad Khononov 2021](https://www.amazon.com/Learning-Domain-Driven-Design-Aligning-Architecture/dp/1098100131)
 * p41:  ...a bounded context can contain **multiple subdomains**. 
-* p58:  When a system's bounded contexts encompass **multiple subdomains**, there cab be multiple integration patterns at play. 
+* p58:  When a system's bounded contexts encompass **multiple subdomains**, there can be multiple integration patterns at play. 
 * p225:  ...bounded contexts protect the **consistency of ubiquitous language and models**.
 
 
