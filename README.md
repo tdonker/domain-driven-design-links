@@ -5,6 +5,8 @@ Domain-Driven Design is a philosophy and approach to developing software, it's n
 It’s a mindset: the application **Design** is **Driven** by the business **Domain**. There are no steps of how to do DDD and there isn’t a formula you can learn. What you can learn from Eric Evans or other DDD experts is how they approached a problem, but nobody can give you a sure recipe of how to do things.
 
 *updates:*<br>
+*26.04.2022: Applying Domain-Driven Design and Patterns (Jimmy Nilsson)*
+<br>
 *11.04.2022: Patterns on Deriving APIs and their Endpoints from Domain Models*
 <br>
 *09.04.2022: The Art of Discovering Bounded Contexts by Nick Tune (YouTube)*
@@ -41,6 +43,7 @@ It’s a mindset: the application **Design** is **Driven** by the business **Dom
 * Concise basics of DDD \(by Vaughn Vernon 2016\): [Domain-Driven Design Distilled](https://github.com/phulei/books-1/blob/master/software-development/domain-driven-design-distilled.pdf)
 * Patterns, Principles and Practices of Domain-Driven Design \(by Scott Millet and Nick Tune 2015\): [Patterns, Principles and Practices of Domain-Driven Design](https://sd.blackball.lv/library/patterns_principles_and_practices_of_domain-driven_design_(2015).pdf)
 * The Anatomy of Domain Driven Design \(by Scott Millett 2019\): [Primer DDDEurope.com](https://www.elbandit.co.uk/images/DDDEU-Booklet.pdf)
+* Applying Domain-Driven Design and Patterns: With Examples in C# and .NET \(by Jimmy Nilsson 2006\): [Applying Domain-Driven Design and Patterns](https://az.1lib.to/book/634707/522ff3)
 
 ___
 ### Theory links
