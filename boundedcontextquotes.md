@@ -4,7 +4,7 @@ Mission of this overview is to bring great quotes for the concept of Bounded Con
 
 > An operational definition of where a particular model is well-defined and applicable. Typically a sub-system, or the work owned by a particular team. [Evans 2003](https://pubs.opengroup.org/architecture/o-aa-standard/DDD-strategic-patterns.html#context-map)
 
-*updated: 12.04.2022
+*updated: 12.04.2022 <br>
 *last update: 07.01.2022
 
 
