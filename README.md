@@ -51,7 +51,7 @@ ___
 ### Great quotes 
 
 * Quotes for Bounded Contexts \(2022\): [Quotes for the concept of Bounded Context](./boundedcontextquotes.md)
-* Quotes for Ubiquitous Language \(2022\): [Quotes for the concept of Ubiquitous Language](./ubiquitouslanguage.md)
+* Quotes for Ubiquitous Language \(2022\): [Quotes for the concept of Ubiquitous Language](./ubiquitouslanguagequotes.md)
 
 ___
 ### Theory links
