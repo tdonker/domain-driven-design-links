@@ -34,3 +34,12 @@ ___
 ##### [Best Practice - An Introduction To Domain-Driven Design by Microsoft 2009](https://docs.microsoft.com/en-us/archive/msdn-magazine/2009/february/best-practice-an-introduction-to-domain-driven-design)
 * p:  These domain experts use **company- or industry-standard terminology**. In DDD, this vocabulary is called the Ubiquitous Language. As developers, you want to understand this vocabulary and not only use it when speaking with domain experts but also see the same terminology reflected in your code.
 
+___
+
+##### [YouTube - Domain Modeling Made Functional - Scott Wlaschin - KanDDDinsky 2019](https://www.youtube.com/watch?v=2JB1_e5wZmU&t=334s)
+*  Domain Model == code == documentation
+
+___
+
+##### [Case Study: Large-Scale Marketing System - Vladik Khononov - DDD Europe 2020](https://youtu.be/0qsAxb3L8GM?t=1081)
+*  Ubiquitous language is the most important part of Domain Driven design. The core domain of DDD.
