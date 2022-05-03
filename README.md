@@ -48,6 +48,12 @@ It’s a mindset: the application **Design** is **Driven** by the business **Dom
 * Applying Domain-Driven Design and Patterns: With Examples in C# and .NET \(by Jimmy Nilsson 2006\): [Applying Domain-Driven Design and Patterns](https://az.1lib.to/book/634707/522ff3)
 
 ___
+### Great quotes 
+
+* Quotes for Bounded Contexts \(2022\): [Quotes for the concept of Bounded Context](./boundedcontextquotes.md)
+* Quotes for Ubiquitous Language \(2022\): [Quotes for the concept of Ubiquitous Language](./ubiquitouslanguage.md)
+
+___
 ### Theory links
 
 * DDD easily explained \(by Anders Gill 2019\): [Part 1: Domain Driven Design like a pro](https://medium.com/raa-labs/part-1-domain-driven-design-like-a-pro-f9e78d081f10)
@@ -69,7 +75,6 @@ ___
 * BoundedContext \(by Martin Fowler 2014\): [Bounded Context is a central pattern in Domain-Driven Design](https://martinfowler.com/bliki/BoundedContext.html)
 * The Bounded Context Canvas \(by DDD-crew Github 2021\): [A structured approach to designing and documenting each of your bounded contexts](https://github.com/ddd-crew/bounded-context-canvas)
 * Clues for discovering Contexts \(by Nick Tune 2017\): [The Art of Discovering Bounded Contexts](https://www.youtube.com/watch?v=ez9GWESKG4I&t=700s)
-* Quotes for Bounded Contexts \(2021\): [Quotes for the concept of Bounded Context](./boundedcontextquotes.md)
 
 ___
 ### Bounded Contexts and Microservices
