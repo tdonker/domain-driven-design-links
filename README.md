@@ -129,6 +129,11 @@ ___
 * Context Maps - a deep dive \(by Michael Plöd 2019\): [Context Maps - a deep dive - Michael Plöd - KanDDDinsky 2019](https://www.youtube.com/watch?v=VjtMt689ql8)
 
 ___
+### Event Driven Architecture: preffered solution for communication between Bounded Contexts
+
+* Stackoverflow \(2016\): [The highly desirable way of context communication is event-based](https://softwareengineering.stackexchange.com/questions/316819/how-to-clearly-define-boundaries-of-a-bounded-context)
+
+___
 ### Difference between Entities and Value Objects
 
 * Entities versus Value Objects \(by Philip Brown 2014\): [What is the difference between Entities and Value Objects?](https://www.culttt.com/2014/04/30/difference-entities-value-objects/)
