@@ -134,6 +134,7 @@ ___
 ### Event Driven Architecture: preffered solution for communication between Bounded Contexts
 
 * Stackoverflow \(2016\): [The highly desirable way of context communication is event-based](https://softwareengineering.stackexchange.com/questions/316819/how-to-clearly-define-boundaries-of-a-bounded-context)
+* 'Use events as a way to communicate between bounded contexts'. \(by Indu Alagarsamy 2019\): [Practical DDD: Bounded Contexts + Events => Microservices](https://www.infoq.com/presentations/microservices-ddd-bounded-contexts/)
 
 ___
 ### Difference between Entities and Value Objects
