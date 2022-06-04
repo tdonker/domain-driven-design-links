@@ -69,3 +69,8 @@ space is broken down into several **bounded contexts, each solving one (or sever
 * p273: Therefore, because a bounded context solves **one or several sub-domains**, it comprises together with the implementing adapters of the ports it defines, a full aspect of the complete system.
 * p275: Recall that a bounded context implementation is independent of all other concerns and can function in isolation. Particularly, it **does not depend on the front-end** which visualizes or provides access to the domain information.
 
+
+___
+
+##### [Are Single-Page Applications Bounded Contexts - and what the heck is a Bounded Context?](https://blog.snowfrog.dev/single-page-applications-are-not-bounded-contexts-what/)
+* A Bounded Context is a part of the system where the same people work on the same things and call those things by the same names.
