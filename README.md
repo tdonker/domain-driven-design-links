@@ -194,3 +194,4 @@ ___
 
 * Javiera Laso: [How to start with DDD when you have a Monolith](https://speakerdeck.com/javujavichi/how-to-start-with-ddd-when-you-have-a-monolith)
 * Julien Topçu: [REST next level : Crafting business-oriented web APIs by Julien Topçu](https://www.youtube.com/watch?v=k5S3qcCFDiQ)
+* Thomas Ploch: [What is a DDD Aggregate? The One Question To Haunt Everyone!](https://slides.com/tploch/what-is-a-ddd-aggregate)
