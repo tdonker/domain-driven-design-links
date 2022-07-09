@@ -5,6 +5,8 @@ Domain-Driven Design is a philosophy and approach to developing software, it's n
 It’s a mindset: the application **Design** is **Driven** by the business **Domain**. There are no steps of how to do DDD and there isn’t a formula you can learn. What you can learn from Eric Evans or other DDD experts is how they approached a problem, but nobody can give you a sure recipe of how to do things.
 
 *updates:*<br>
+*09.07.2022: Added DDD Europe 2022 links at bottom*
+<br>
 *21.05.2022: Going “Events-First” for Microservices with Event Storming and DDD*
 <br>
 *14.05.2022: The highly desirable way of context communication is event-based*
@@ -187,3 +189,8 @@ ___
 
 * Trivento: [Hoe 'Bounded Contexts' helpen microservices af te bakenen](https://www.trivento.nl/blog/de-grenzen-van-microservices)
 
+___
+### DDD Europe 2022
+
+* Javiera Laso: [How to start with DDD when you have a Monolith](https://speakerdeck.com/javujavichi/how-to-start-with-ddd-when-you-have-a-monolith)
+* Julien Topçu: [REST next level : Crafting business-oriented web APIs by Julien Topçu](https://www.youtube.com/watch?v=k5S3qcCFDiQ)
