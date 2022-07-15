@@ -4,8 +4,8 @@ Mission of this overview is to bring great quotes for the concept of Bounded Con
 
 > An operational definition of where a particular model is well-defined and applicable. Typically a sub-system, or the work owned by a particular team. [Evans 2003](https://pubs.opengroup.org/architecture/o-aa-standard/DDD-strategic-patterns.html#context-map)
 
-*updated: 06.06.2022 <br>
-*last update: 12.04.2022
+*updated: 15.07.2022 <br>
+*last update: 06.06.2022
 
 
 ![Domain Driven Design](./img/sketch.png)
@@ -50,7 +50,12 @@ ___
 * p38: **Strategic Modeling**: A Bounded Context is a conceptual boundary where a domain model is applicable. It provides a context for the Ubiquitous Language that is spoken by the team and expressed in its carefully designed software model.
 * p39:  **Architecture**:  It’s important to keep in mind that your strategically and tactically designed domain models should be architecturally neutral. A powerful architectural style for hosting a Bounded Context is Hexagonal, which can be used to facilitate other styles such as Service-Oriented, REST and Event-Driven, and others.
 * p40: **Tactical Modeling**: We model tactically inside a Bounded Context using DDD’s building block patterns. One of the most important patterns of tactical design is Aggregate.
+* p47: For now think of a Bounded Context as a conceptual boundary around a **whole application or finite system**. The reason for this boundary is to highlight that every use of a given domain term, phrase, or sentence —the Ubiquitous Language— inside the boundary has a **specific contextual meaning**. Any use of the term outside that boundary could, and probably does, mean something different.
 * p50: When trying to **discover the Aggregates in a Bounded Context** (2), we must understand the model’s true invariants. Only with that knowledge can we determine which objects should be clustered into a given Aggregate. 
+* p70: Figure 2.2. An **abstract business Domain** that includes Subdomains and Bounded Contexts - nice picture with subdomains en bounded contexts!
+* p76: The **solution space** is one or more Bounded Contexts, a set of specific software models. That’s because the Bounded Context is a specific solution, a realization view, once developed. **The Bounded Context is used to realize a solution as software**.
+* p81: Thus, a Bounded Context is principally a **linguistic boundary**. 
+
 
 
 ___
