@@ -79,3 +79,9 @@ ___
 
 ##### [Are Single-Page Applications Bounded Contexts - and what the heck is a Bounded Context?](https://blog.snowfrog.dev/single-page-applications-are-not-bounded-contexts-what/)
 * A Bounded Context is a part of the system where the same people work on the same things and call those things by the same names.
+
+
+___
+
+##### [Strategic Domain-Driven Design](https://dev.to/peholmst/strategic-domain-driven-design-3e87)
+* A bounded context is a distinct part of the domain in which a particular subset or dialect of the ubiquitous language is consistent at all times.
