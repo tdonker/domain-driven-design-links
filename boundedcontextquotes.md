@@ -7,8 +7,8 @@ Mission of this overview is to bring great quotes for the concept of Bounded Con
 >  The delimited applicability of a particular model. BOUNDING CONTEXTS gives team members a clear and shared understanding of what has to be consistent and what can develop independently.
  [Evans 2003](https://pubs.opengroup.org/architecture/o-aa-standard/DDD-strategic-patterns.html#context-map)
 
-*updated: 15.07.2022 <br>
-*last update: 06.06.2022
+*updated: 08.08.2022 <br>
+*last update: 15.07.2022
 
 
 ![Domain Driven Design](./img/sketch.png)
@@ -17,6 +17,7 @@ Mission of this overview is to bring great quotes for the concept of Bounded Con
 
 
 * p54: Bounded contexts are used to form a **protective boundary** around models that helps to prevent software from evolving into a BBoM.
+* p88: Figure 6-12: depicts the Shipping Subdomain containing **two bounded contexts**: Basket Bounded Context and Pricing Bounded Context. So a subdomain can consists of multiple Bounded Contexts!
 * p119: A bounded context is defined based on **team’s language,** and physical artifacts. 
 * p126: Treat bounded contexts like the **borders of a country**. Nothing should pass into the bounded context unless it goes through the border control and is valid. Just like countries where people speak a different language, so does the code within your bounded context. 
 * p128: There are two aspects of a problem domain that you can use as a guide to **identifying bounded contexts** — terminology and business capabilities. 
