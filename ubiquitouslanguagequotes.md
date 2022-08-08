@@ -4,13 +4,14 @@ Mission of this overview is to bring great quotes for the concept of Ubiquitous 
 
 > A language structured around the domain model and used by all team members to connect all the activities of the team with the software. [Evans 2003](https://pubs.opengroup.org/architecture/o-aa-standard/DDD-strategic-patterns.html#context-map)
 
-*last update: 16.10.2021*
+*last update: 08.08.2022*
 
 
 ![Ubiquitouslanguage](./img/ul.png)
 
 ##### [Patterns, Principles and Practices of Domain-Driven Design by Scott Millet and Nick Tune 2015](https://github.com/bmihovski/software-development-ebooks-1/blob/master/%5BPatterns%2C%20Principles%2C%20and%20Practices%20of%20Domain-Driven%20Design%20Kindle%20Edition%20by%20Scott%20Millett%20-%202015%5D.pdf)
-* p
+* p48: The **language of the Business**. Developers should think in domain terms and concepts, not technical terms, to avoid the need to translate from business jargon into technical jargon. 
+* P49: Not only must the development team learn the explicit terms and concepts from the business, but they must collaborate with the domain experts to define the assumed or implicit **concepts that may not have terminology**. These concepts must be named by the entire team and included in the shared UL. 
 
 ___
 
