@@ -125,6 +125,7 @@ ___
 * Stackoverflow \(2018\): [Can subdomain and bounded context be same in domain driven design?](https://stackoverflow.com/questions/32069892/can-subdomain-and-bounded-context-be-same-in-domain-driven-design)
 * 'The optimal solution would be to have one bounded context in one subdomain' \(by Robert Basic 2018\): [Bounded contexts and subdomains](https://medium.com/nick-tune-tech-strategy-blog/gateway-interchange-contexts-899696e67848)
 * Subdomain vs Bounded Context \(by Nick Tune 2020\): [Domain, Subdomain, Bounded Context, Problem/Solution Space in DDD: Clearly Defined](https://medium.com/nick-tune-tech-strategy-blog/domains-subdomain-problem-solution-space-in-ddd-clearly-defined-e0b49c7b586c)
+* 'It is a desirable goal to align Subdomains one-to-one with Bounded Contexts (p77)' \(by Vaughn Vernon 2013\): [Implementing Domain-Driven Design](https://restapilinks.com/wp-content/uploads/vdoc.pub_implementing-domain-driven-design.pdf)
 
 ___
 ### Context map: communication between Bounded Contexts
