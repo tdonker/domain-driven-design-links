@@ -186,6 +186,12 @@ ___
 * IBM \(2021\): [ESB vs. Microservices: What's the Difference?](https://www.ibm.com/cloud/blog/esb-vs-microservices)
 
 ___
+### Business Logic
+
+* IBM \(2021\): [ESB vs. Microservices: What's the Difference?](https://www.ibm.com/cloud/blog/esb-vs-microservices)
+* 'We would design a pure domain model, untainted by theinfrastructure details, that captures the Ubiquitous Language and implements the necessary business logic'. (p145) \(by Vaughn Vernon 2013\): [Implementing Domain-Driven Design](https://restapilinks.com/wp-content/uploads/vdoc.pub_implementing-domain-driven-design.pdf)
+
+___
 ### Dutch sites
 
 * Trivento: [Hoe 'Bounded Contexts' helpen microservices af te bakenen](https://www.trivento.nl/blog/de-grenzen-van-microservices)
