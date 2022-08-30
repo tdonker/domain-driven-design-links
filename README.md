@@ -190,7 +190,7 @@ ___
 
 * IBM \(2021\): [ESB vs. Microservices: What's the Difference?](https://www.ibm.com/cloud/blog/esb-vs-microservices)
 * 'We would design a pure domain model, untainted by theinfrastructure details, that captures the Ubiquitous Language and implements the necessary business logic'. (p145) \(by Vaughn Vernon 2013\): [Implementing Domain-Driven Design](https://restapilinks.com/wp-content/uploads/vdoc.pub_implementing-domain-driven-design.pdf)
-* '...RESTful HTTP would be one of the best ways to open their system for integration without directly exposing the structural and behavioral details of their domain model'. (p421) \(by Vaughn Vernon 2013\): [Implementing Domain-Driven Design](https://restapilinks.com/wp-content/uploads/vdoc.pub_implementing-domain-driven-design.pdf)
+* '...RESTful HTTP would be one of the best ways to open their system for integration without directly exposing the structural and behavioral details of their domain model'. (p412) \(by Vaughn Vernon 2013\): [Implementing Domain-Driven Design](https://restapilinks.com/wp-content/uploads/vdoc.pub_implementing-domain-driven-design.pdf)
 
 ___
 ### Dutch sites
