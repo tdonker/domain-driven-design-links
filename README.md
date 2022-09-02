@@ -157,6 +157,11 @@ ___
 * The repository cares about storing/retrieving objects from the db \(2014\): [Repositories in domain driven design](https://stackoverflow.com/questions/23253092/repositories-in-domain-driven-design)
 
 ___
+### Orchestration and Choreography
+
+* 'Microservices should avoid the orchestration pattern to communicate with each other' \(Irfan Muhammad 2022\): [Microservices – Design and Implementation](https://www.linkedin.com/pulse/microservices-design-implementation-irfan-muhammad/)
+
+___
 ### Strategic and Tactical patterns
 
 * Start with a strategy \(by Yoan Thirion 2018\): [DDD re-distilled This article is an abstract of the book DDD Distilled written by Vaughn Vernon](https://yoan-thirion.gitbook.io/knowledge-base/software-architecture/ddd-re-distilled#ddd-what)
