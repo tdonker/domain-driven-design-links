@@ -198,6 +198,7 @@ ___
 
 * 'We would design a pure domain model, untainted by theinfrastructure details, that captures the Ubiquitous Language and implements the necessary business logic'. (p145) \(by Vaughn Vernon 2013\): [Implementing Domain-Driven Design](https://restapilinks.com/wp-content/uploads/vdoc.pub_implementing-domain-driven-design.pdf)
 * 'The logic that should be in a domain object is domain logic - validations, calculations, business rules - whatever you like to call it.'. \(by Martin Fowler 2014\): [Implementing Domain-Driven Design](https://martinfowler.com/bliki/AnemicDomainModel.html)
+* 'The main point of DDD is to identify relevant domain behaviour, which means getting to know plenty of domain rules.'. \(by Sapiens Works 2017\): [How To Handle Business Rules in Domain Driven Design](http://blog.sapiensworks.com/post/2017/08/23/Handling-Business-Rules-DDD)
 
 ___
 ### Dutch sites
