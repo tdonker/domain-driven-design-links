@@ -181,6 +181,8 @@ ___
 ### Microservice Architecture: Benefits and Drawbacks
 
 * 'Like every other technology, the Microservice Architecture has drawbacks and is not a silver bullet'. \(by Dakshitha Ratnayake 2019\): [API-driven Microservice Architecture - A WSO2 Reference Architecture](https://github.com/wso2/reference-architecture/blob/master/api-driven-microservice-architecture.md)
+* 'There is no microservice architecture'. \(by dwmkerr.com 2018\): [The Death of Microservice Madness](https://dwmkerr.com/the-death-of-microservice-madness-in-2018/)
+
 
 ___
 ### Awesome Github.com sites
