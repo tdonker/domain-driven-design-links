@@ -178,6 +178,11 @@ ___
 * Apache Kafka + Domain-driven design (DDD) = Decoupled event streaming microservices \(by Kai Waehner 2019\): [Microservices, Apache Kafka, and Domain-Driven Design](https://www.confluent.io/blog/microservices-apache-kafka-domain-driven-design/)
 
 ___
+### Microservice Architecture: Benefits and Drawbacks
+
+* 'Like every other technology, the Microservice Architecture has drawbacks and is not a silver bullet'. \(by Dakshitha Ratnayake 2019\): [API-driven Microservice Architecture - A WSO2 Reference Architecture](https://github.com/wso2/reference-architecture/blob/master/api-driven-microservice-architecture.md)
+
+___
 ### Awesome Github.com sites
 
 * kgoralski \(2019\): [Domain-driven design \(DDD\) learning resources](https://github.com/kgoralski/personal-wiki-and-learning-resources/blob/master/domain-driven-design.md)
