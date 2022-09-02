@@ -194,11 +194,10 @@ ___
 * IBM \(2021\): [ESB vs. Microservices: What's the Difference?](https://www.ibm.com/cloud/blog/esb-vs-microservices)
 
 ___
-### Business Logic
+### Business Logic and Domain Model
 
-* IBM \(2021\): [ESB vs. Microservices: What's the Difference?](https://www.ibm.com/cloud/blog/esb-vs-microservices)
 * 'We would design a pure domain model, untainted by theinfrastructure details, that captures the Ubiquitous Language and implements the necessary business logic'. (p145) \(by Vaughn Vernon 2013\): [Implementing Domain-Driven Design](https://restapilinks.com/wp-content/uploads/vdoc.pub_implementing-domain-driven-design.pdf)
-* '...RESTful HTTP would be one of the best ways to open their system for integration without directly exposing the structural and behavioral details of their domain model'. (p412) \(by Vaughn Vernon 2013\): [Implementing Domain-Driven Design](https://restapilinks.com/wp-content/uploads/vdoc.pub_implementing-domain-driven-design.pdf)
+* 'The logic that should be in a domain object is domain logic - validations, calculations, business rules - whatever you like to call it.'. \(by Martin Fowler 2014\): [Implementing Domain-Driven Design](https://martinfowler.com/bliki/AnemicDomainModel.html)
 
 ___
 ### Dutch sites
