@@ -91,6 +91,7 @@ ___
 * Ideally there should be a direct mapping between a business service / capability and a microservice (or what in Domain Driven Design is called a bounded context \(by Kenneth Lange 2017\): [What is Microservice Architecture?](https://www.linkedin.com/pulse/what-microservice-architecture-kenneth-lange/)
 * Break a monolith into multiple domain-based microservices - as we break the monolith and spread the aggregates into different contexts... \(by Chandra Ramalingam 2020\): [Building Domain Driven Microservices](https://medium.com/walmartglobaltech/building-domain-driven-microservices-af688aa1b1b8)
 * Thoughts on how to marriage Domain-Driven Design (DDD) with microservice architecture \(Ernese Norelus 2019\): [Implementing Domain-Driven Design for Microservice Architecture](https://medium.com/design-and-tech-co/implementing-domain-driven-design-for-microservice-architecture-26eb0333d72e)
+* Design Characteristics of Microservices \(Irfan Muhammad 2022\): [Microservices – Design and Implementation](https://www.linkedin.com/pulse/microservices-design-implementation-irfan-muhammad/)
 
 ___
 ### Bounded Contexts and Domain Models
