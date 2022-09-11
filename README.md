@@ -144,6 +144,7 @@ ___
 * Stackoverflow \(2016\): [The highly desirable way of context communication is event-based](https://softwareengineering.stackexchange.com/questions/316819/how-to-clearly-define-boundaries-of-a-bounded-context)
 * 'Use events as a way to communicate between bounded contexts'. \(by Indu Alagarsamy 2019\): [Practical DDD: Bounded Contexts + Events => Microservices](https://www.infoq.com/presentations/microservices-ddd-bounded-contexts/)
 * 'Consider “Events-First”'. \(by Russ Miles 2022\): [Going “Events-First” for Microservices with Event Storming and DDD](https://www.russmiles.com/going-events-first-for-microservices-with-event-storming-and-ddd-8614437486f0)
+* 'DDD is mostly used together with an event driven architecture. The communication between the Product Catalog and the Sales Bounded context would be done by using events.'. \(by StackExchange 2021\): [How to manage data consistency between Bounded Contexts?](https://softwareengineering.stackexchange.com/questions/433740/how-to-manage-data-consistency-between-bounded-contexts)
 
 ___
 ### Difference between Entities and Value Objects
