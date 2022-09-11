@@ -5,6 +5,8 @@ Domain-Driven Design is a philosophy and approach to developing software, it's n
 It’s a mindset: the application **Design** is **Driven** by the business **Domain**. There are no steps of how to do DDD and there isn’t a formula you can learn. What you can learn from Eric Evans or other DDD experts is how they approached a problem, but nobody can give you a sure recipe of how to do things.
 
 *updates:*<br>
+*11.09.2022: Microsoft - Microservices architecture e-book*
+<br>
 *02.09.2022: Irfan Muhammad - Microservices – Design and Implementation*
 <br>
 *18.07.2022: Added DDD Europe 2022 links at bottom*
@@ -208,6 +210,7 @@ ___
 * 'The logic that should be in a domain object is domain logic - validations, calculations, business rules - whatever you like to call it.'. \(by Martin Fowler 2014\): [Implementing Domain-Driven Design](https://martinfowler.com/bliki/AnemicDomainModel.html)
 * 'The main point of DDD is to identify relevant domain behaviour, which means getting to know plenty of domain rules.'. \(by Sapiens Works 2017\): [How To Handle Business Rules in Domain Driven Design](http://blog.sapiensworks.com/post/2017/08/23/Handling-Business-Rules-DDD)
 * 'As a result, the business logic will be in the domain-model, with a lot less duplication as a result'. \(by Albert Starreveld 2020\): [Domain-Driven Design in a nutshell](https://medium.com/vx-company/domain-driven-design-in-a-nutshell-aadb05f834ce)
+* 'This principle is similar in Domain-driven design (DDD), where each Bounded Context or autonomous subsystem or service must own its domain model (data plus logic and behavior)'. (p28) \(by Microsoft 2022\): [Microservices architecture e-book](https://dotnet.microsoft.com/en-us/download/e-book/microservices-architecture/pdf)
 
 ___
 ### Dutch sites
