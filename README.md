@@ -5,6 +5,8 @@ Domain-Driven Design is a philosophy and approach to developing software, it's n
 It’s a mindset: the application **Design** is **Driven** by the business **Domain**. There are no steps of how to do DDD and there isn’t a formula you can learn. What you can learn from Eric Evans or other DDD experts is how they approached a problem, but nobody can give you a sure recipe of how to do things.
 
 *updates:*<br>
+*29.09.2022: Build Business Capabilities, not APIs (Nial Darbey)*
+<br>
 *11.09.2022: Microsoft - Microservices architecture e-book*
 <br>
 *02.09.2022: Irfan Muhammad - Microservices – Design and Implementation*
@@ -122,6 +124,7 @@ ___
 * Canonical Data Model Best practices. \(by Majeed 2018\): [For microservices, define a light weight canonical model per functional domain](https://github.com/sambos/Architectures/wiki/Canonical-Data-Model-Best-practices)
 * Data Management at Scale. \(by O'Reilly Piethein Strengholt 2020\): [Enterprises took the “E” in ESB literally and implemented monoliths into their organization to take care of all the service integration](https://www.oreilly.com/library/view/data-management-at/9781492054771/ch04.html)
 * Strategic Microservice Patterns. \(by Nick Tune 2019\): [Gateway Interchange Contexts on YouTube](https://www.youtube.com/watch?v=ZZXMMnV3EoU&t=1846s)
+* Microservices represent a more pragmatic approach to service design by focusing more on the needs of individual business units.This is in contrast with the first overly-ambitious aim of SOA to deliver services reusable across the enterprise, and its consequential emphasis on enterprise-wide canonical models.. \(by Nial Darbey 2016\): [Build Business Capabilities, not APIs](https://www.linkedin.com/pulse/build-business-capabilities-apis-nial-darbey)
 
 ___
 ### Relationship Bounded Contexts and Subdomains
