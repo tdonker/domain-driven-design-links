@@ -227,4 +227,4 @@ ___
 * Javiera Laso: [How to start with DDD when you have a Monolith](https://speakerdeck.com/javujavichi/how-to-start-with-ddd-when-you-have-a-monolith)
 * Julien Topçu: [REST next level : Crafting business-oriented web APIs by Julien Topçu](https://www.youtube.com/watch?v=k5S3qcCFDiQ)
 * Thomas Ploch: [What is a DDD Aggregate? The One Question To Haunt Everyone!](https://slides.com/tploch/what-is-a-ddd-aggregate)
-* Thomas Ploch: [Introduction to Context Mapping](https://www.innoq.com/de/talks/2022/06/introduction-to-context-mapping-ddd-europe-2022/)
+* Michael Plöd: [Introduction to Context Mapping](https://www.innoq.com/de/talks/2022/06/introduction-to-context-mapping-ddd-europe-2022/)
