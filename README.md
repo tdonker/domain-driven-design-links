@@ -167,6 +167,7 @@ ___
 ### Orchestration and Choreography
 
 * 'Microservices should avoid the orchestration pattern to communicate with each other' \(Irfan Muhammad 2022\): [Microservices – Design and Implementation](https://www.linkedin.com/pulse/microservices-design-implementation-irfan-muhammad/)
+* Smart endpoints dumb pipes \(by Ian Cooper 2020\): [Capability Mapping YouTube - Ian Cooper](https://youtu.be/6pjAjHm7l7s?t=2886)
 
 ___
 ### Strategic and Tactical patterns
