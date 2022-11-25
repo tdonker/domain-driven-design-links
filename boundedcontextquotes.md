@@ -7,8 +7,8 @@ Mission of this overview is to bring great quotes for the concept of Bounded Con
 >  The delimited applicability of a particular model. BOUNDING CONTEXTS gives team members a clear and shared understanding of what has to be consistent and what can develop independently.
  [Evans 2003](https://pubs.opengroup.org/architecture/o-aa-standard/DDD-strategic-patterns.html#context-map)
 
-*updated: 08.08.2022 <br>
-*last update: 15.07.2022
+*updated: 25.11.2022 <br>
+*last update: 08.08.2022 <br>
 
 
 ![Domain Driven Design](./img/sketch.png)
@@ -84,6 +84,12 @@ ___
 
 ##### [Are Single-Page Applications Bounded Contexts - and what the heck is a Bounded Context?](https://blog.snowfrog.dev/single-page-applications-are-not-bounded-contexts-what/)
 * A Bounded Context is a part of the system where the same people work on the same things and call those things by the same names.
+
+
+___
+
+##### [DDDcrew - The Bounded Context Canvas](https://github.com/ddd-crew/bounded-context-canvas)
+* A bounded context is a sub-system in a software architecture aligned to a part of your domain..
 
 
 ___
