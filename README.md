@@ -223,6 +223,7 @@ ___
 ### Team Topologies (Skelton & Pais)
 
 * Brandolini \(2022\): [About Team Topologies and Context Mapping](https://blog.avanscoperta.it/2021/04/22/about-team-topologies-and-context-mapping/)
+* 'Team Topologies and Context Maps are two interesting approaches to visualize sociotechnical architectures.' \(by Michael Plöd 2022\): [Systems Thinking by combining Team Topologies with Context Maps](https://speakerdeck.com/mploed/systems-thinking-by-combining-team-topologies-with-context-maps)
 
 ___
 ### Dutch sites
