@@ -96,3 +96,11 @@ ___
 
 ##### [Strategic Domain-Driven Design](https://dev.to/peholmst/strategic-domain-driven-design-3e87)
 * A bounded context is a **distinct part of the domain** in which a particular subset or dialect of the ubiquitous language is consistent at all times.
+
+
+___
+
+##### [Systems Thinking by combining Team Topologies with Context Maps](https://speakerdeck.com/mploed/systems-thinking-by-combining-team-topologies-with-context-maps?slide=13)
+* A Bounded Context is a **boundary for a model** expressed in a consistent language tailored around a specific purpose.
+
+
