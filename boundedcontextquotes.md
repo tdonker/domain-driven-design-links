@@ -7,8 +7,8 @@ Mission of this overview is to bring great quotes for the concept of Bounded Con
 >  The delimited applicability of a particular model. BOUNDING CONTEXTS gives team members a clear and shared understanding of what has to be consistent and what can develop independently.
  [Evans 2003](https://pubs.opengroup.org/architecture/o-aa-standard/DDD-strategic-patterns.html#context-map)
 
-*updated: 25.11.2022 <br>
-*last update: 08.08.2022 <br>
+*updated: 10.12.2022 <br>
+*last update: 25.11.2022 <br>
 
 
 ![Domain Driven Design](./img/sketch.png)
@@ -69,6 +69,7 @@ ___
 * p41:  ...a bounded context can contain **multiple subdomains**. 
 * p58:  When a system's bounded contexts encompass **multiple subdomains**, there can be multiple integration patterns at play. 
 * p225:  ...bounded contexts protect the **consistency of ubiquitous language and models**.
+* p290: A bounded context is a **boundary of a model**, and a model is only applicable in its bounded context. Bounded contexts are implemented in independent project/solutions, thus allowing each bounded context to have its own development lifecycle. Finally, a bounded context should be implemented by a single development team, and therefore, it is **also an ownership boundary**.
 
 
 ___
