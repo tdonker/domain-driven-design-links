@@ -5,6 +5,8 @@ Domain-Driven Design is a philosophy and approach to developing software, it's n
 It’s a mindset: the application **Design** is **Driven** by the business **Domain**. There are no steps of how to do DDD and there isn’t a formula you can learn. What you can learn from Eric Evans or other DDD experts is how they approached a problem, but nobody can give you a sure recipe of how to do things.
 
 *updates:*<br>
+*27.12.2022: Continuous Architecture: Case study*
+<br>
 *30.11.2022: About Team Topologies and Context Mapping (Alberto Brandolini)*
 <br>
 *29.09.2022: Build Business Capabilities, not APIs (Nial Darbey)*
@@ -226,6 +228,11 @@ ___
 
 * Brandolini \(2022\): [About Team Topologies and Context Mapping](https://blog.avanscoperta.it/2021/04/22/about-team-topologies-and-context-mapping/)
 * 'Team Topologies and Context Maps are two interesting approaches to visualize sociotechnical architectures.' \(by Michael Plöd 2022\): [Systems Thinking by combining Team Topologies with Context Maps](https://speakerdeck.com/mploed/systems-thinking-by-combining-team-topologies-with-context-maps)
+
+___
+### Case studies
+
+* Continuous Architecture: [We wrote this case study, inspired by a real use case, to present one approach to apply Domain Driven Design if you are an architect trying to design your product](https://continuous-architecture.org/docs/case-studies/curing-domain/curing.html)
 
 ___
 ### Dutch sites
