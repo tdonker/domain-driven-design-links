@@ -232,7 +232,7 @@ ___
 ___
 ### Case studies
 
-* Continuous Architecture: [We wrote this case study, inspired by a real use case, to present one approach to apply Domain Driven Design if you are an architect trying to design your product](https://continuous-architecture.org/docs/case-studies/curing-domain/curing.html)
+* Continuous Architecture: [We (Michelin) wrote this case study, inspired by a real use case, to present one approach to apply Domain Driven Design if you are an architect trying to design your product](https://continuous-architecture.org/docs/case-studies/curing-domain/curing.html)
 
 ___
 ### Dutch sites
