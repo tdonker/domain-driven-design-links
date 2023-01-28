@@ -5,7 +5,7 @@ Domain-Driven Design is a philosophy and approach to developing software, it's n
 It’s a mindset: the application **Design** is **Driven** by the business **Domain**. There are no steps of how to do DDD and there isn’t a formula you can learn. What you can learn from Eric Evans or other DDD experts is how they approached a problem, but nobody can give you a sure recipe of how to do things.
 
 *updates:*<br>
-*28.01.2023: Removed broken links*
+*28.01.2023: Rethinking Bounded Contexts (Florian Sauter)*
 <br>
 *27.12.2022: Continuous Architecture: Case study*
 <br>
@@ -92,6 +92,12 @@ ___
 * What is Bounded Context? \(by Dave Taubler 2020\): [If You’re Building Microservices, You Need to Understand What a Bounded Context is](https://medium.datadriveninvestor.com/if-youre-building-microservices-you-need-to-understand-what-a-bounded-context-is-30cbe51d5085)
 * BoundedContext \(by Martin Fowler 2014\): [Bounded Context is a central pattern in Domain-Driven Design](https://martinfowler.com/bliki/BoundedContext.html)
 * The Bounded Context Canvas \(by DDD-crew Github 2021\): [A structured approach to designing and documenting each of your bounded contexts](https://github.com/ddd-crew/bounded-context-canvas)
+* Clues for discovering Contexts \(by Nick Tune 2017\): [The Art of Discovering Bounded Contexts](https://www.youtube.com/watch?v=ez9GWESKG4I&t=700s)
+
+___
+### Clues for identifying Bounded Contexts
+
+* Rethinking Bounded Contexts \(by Florian Sauter 2021\): [Learnings about DDD, Bounded Contexts and team Autonomy](https://www.becausetech.rocks/blog/bounded-contexts/)
 * Clues for discovering Contexts \(by Nick Tune 2017\): [The Art of Discovering Bounded Contexts](https://www.youtube.com/watch?v=ez9GWESKG4I&t=700s)
 
 ___
