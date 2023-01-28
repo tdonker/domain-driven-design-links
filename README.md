@@ -5,6 +5,8 @@ Domain-Driven Design is a philosophy and approach to developing software, it's n
 It’s a mindset: the application **Design** is **Driven** by the business **Domain**. There are no steps of how to do DDD and there isn’t a formula you can learn. What you can learn from Eric Evans or other DDD experts is how they approached a problem, but nobody can give you a sure recipe of how to do things.
 
 *updates:*<br>
+*28.01.2023: Removed broken links*
+<br>
 *27.12.2022: Continuous Architecture: Case study*
 <br>
 *30.11.2022: About Team Topologies and Context Mapping (Alberto Brandolini)*
@@ -136,7 +138,7 @@ ___
 * The subtle relationship between bounded contexts and sub-domains \(by Lev Gorodinski 2013\): [Sub-domains and Bounded Contexts in Domain-Driven Design \(DDD\)](http://gorodinski.com/blog/2013/04/29/sub-domains-and-bounded-contexts-in-domain-driven-design-ddd/)
 * Stackoverflow \(2018\): [Confused about Bounded Contexts and SubDomains](https://stackoverflow.com/questions/18625576/confused-about-bounded-contexts-and-subdomains)
 * Stackoverflow \(2018\): [Can subdomain and bounded context be same in domain driven design?](https://stackoverflow.com/questions/32069892/can-subdomain-and-bounded-context-be-same-in-domain-driven-design)
-* 'The optimal solution would be to have one bounded context in one subdomain' \(by Robert Basic 2018\): [Bounded contexts and subdomains](https://medium.com/nick-tune-tech-strategy-blog/gateway-interchange-contexts-899696e67848)
+* 'The optimal solution would be to have one bounded context in one subdomain...so it might happen that one bounded context spans multiple subdomains, or that one subdomain has multiple bounded contexts.' \(by Robert Basic 2018\): [Bounded contexts and subdomains](https://robertbasic.com/blog/bounded-contexts-and-subdomains/)
 * Subdomain vs Bounded Context \(by Nick Tune 2020\): [Domain, Subdomain, Bounded Context, Problem/Solution Space in DDD: Clearly Defined](https://medium.com/nick-tune-tech-strategy-blog/domains-subdomain-problem-solution-space-in-ddd-clearly-defined-e0b49c7b586c)
 * 'It is a desirable goal to align Subdomains one-to-one with Bounded Contexts (p77)' \(by Vaughn Vernon 2013\): [Implementing Domain-Driven Design](https://restapilinks.com/wp-content/uploads/vdoc.pub_implementing-domain-driven-design.pdf)
 * 'Strategic design starts with the problem space, which represents the business architecture and which includes the problem domains and (categorized) subdomains. The solution space represents the software architecture and contains the bounded context. There must be an overlap between the two.' \(by Michael Plöd 2019\): [Pitching DDD to the management - YouTube](https://youtu.be/bY5Q3LoNPeQ?t=2297)
@@ -233,11 +235,6 @@ ___
 ### Case studies
 
 * Continuous Architecture: [We (Michelin) wrote this case study, inspired by a real use case, to present one approach to apply Domain Driven Design if you are an architect trying to design your product](https://continuous-architecture.org/docs/case-studies/curing-domain/curing.html)
-
-___
-### Dutch sites
-
-* Trivento: [Hoe 'Bounded Contexts' helpen microservices af te bakenen](https://www.trivento.nl/blog/de-grenzen-van-microservices)
 
 ___
 ### DDD Europe 2022
