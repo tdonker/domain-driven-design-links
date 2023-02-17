@@ -156,7 +156,7 @@ ___
 * Stackoverflow \(2013\): [Communicating between two Bounded Contexts in DDD](https://stackoverflow.com/questions/16713041/communicating-between-two-bounded-contexts-in-ddd)
 * Stackoverflow \(2013\): [DDD - How to design associations between different bounded contexts](https://stackoverflow.com/questions/18761001/ddd-how-to-design-associations-between-different-bounded-contexts)
 * Context Mapping \(by Vladik Khononov 2019\): [What Is Domain-Driven Design? O'Reilly](https://www.oreilly.com/library/view/what-is-domain-driven/9781492057802/ch04.html)
-* Context Maps - a deep dive \(by Michael Plöd 2019\): [Context Maps - a deep dive - Michael Plöd - KanDDDinsky 2019](https://www.youtube.com/watch?v=VjtMt689ql8)
+* Context Maps - a deep dive (Published Language - Consortium) \(by Michael Plöd 2019\): [Context Maps - a deep dive - Michael Plöd - KanDDDinsky 2019](https://www.youtube.com/watch?v=VjtMt689ql8)
 
 ___
 ### Event Driven Architecture: preffered solution for communication between Bounded Contexts
