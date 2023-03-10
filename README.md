@@ -66,10 +66,10 @@ It’s a mindset: the application **Design** is **Driven** by the business **Dom
 * Applying Domain-Driven Design and Patterns: With Examples in C# and .NET \(by Jimmy Nilsson 2006\): [Applying Domain-Driven Design and Patterns](https://az.1lib.to/book/634707/522ff3)
 
 ___
-### Great quotes 
+### In-depth defintion and meaning 
 
-* Quotes for Bounded Contexts \(2022\): [Quotes for the concept of Bounded Context](./boundedcontextquotes.md)
-* Quotes for Ubiquitous Language \(2022\): [Quotes for the concept of Ubiquitous Language](./ubiquitouslanguagequotes.md)
+* Literature phrases on Bounded Contexts \(2022\): [Quotes for the concept of Bounded Context](./boundedcontextquotes.md)
+* Literature phrases Ubiquitous Language \(2022\): [Quotes for the concept of Ubiquitous Language](./ubiquitouslanguagequotes.md)
 
 ___
 ### Theory links
