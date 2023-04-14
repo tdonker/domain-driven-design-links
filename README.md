@@ -5,8 +5,7 @@ Domain-Driven Design is a philosophy and approach to developing software, it's n
 It’s a mindset: the application **Design** is **Driven** by the business **Domain**. There are no steps of how to do DDD and there isn’t a formula you can learn. What you can learn from Eric Evans or other DDD experts is how they approached a problem, but nobody can give you a sure recipe of how to do things.
 
 *updates:*<br>
-*14.03.2023: Corrected broken links*
-<br>
+*14.03.2023: Added Hands-On Domain Driven Design with .NET Core pdf (Zimarev)*
 <br>
 *28.01.2023: Rethinking Bounded Contexts (Florian Sauter)*
 <br>
@@ -67,6 +66,8 @@ It’s a mindset: the application **Design** is **Driven** by the business **Dom
 * Patterns, Principles and Practices of Domain-Driven Design \(by Scott Millet and Nick Tune 2015\): [Patterns, Principles and Practices of Domain-Driven Design](https://sd.blackball.lv/library/patterns_principles_and_practices_of_domain-driven_design_(2015).pdf)
 * The Anatomy of Domain Driven Design \(by Scott Millett 2019\): [Primer DDDEurope.com](https://www.elbandit.co.uk/images/DDDEU-Booklet.pdf)
 * Applying Domain-Driven Design and Patterns: With Examples in C# and .NET \(by Jimmy Nilsson 2006\): [Applying Domain-Driven Design and Patterns](https://restapilinks.com/wp-content/uploads/Applying-Domain-Driven-Design-Nilsson.pdf)
+* Hands-On Domain Driven Design with .NET Core - Tackling complexity in the heart of software by putting DDD
+principles into practice \(by Alexey Zimarev 2019\): [Hands-On Domain Driven Design with .NET Core](https://restapilinks.com/wp-content/uploads/Hands-On-Alexey-Zimarev.pdf)
 
 ___
 ### In-depth definition and meaning 
