@@ -1,13 +1,13 @@
 # Great quotes for the concept of Published Language 
 
-Mission of this overview is to bring great quotes for the concept of Ubiquitous Language, in order to get a better understandig of this fundamental DDD concept. Bounded context and the ubiquitous language are the foundation of DDD.
+Mission of this overview is to bring great quotes for the concept of the Published Language, in order to get a better understandig of this fundamental DDD integration pattern.
 
-> A language structured around the domain model and used by all team members to connect all the activities of the team with the software. [Evans 2003](https://pubs.opengroup.org/architecture/o-aa-standard/DDD-strategic-patterns.html#context-map)
+> The translation between the models of two bounded contexts requires a common language. Use a well-documented shared language that can express the necessary domain information as a common medium of communication, translating as necessary into and out of that language. Published Language is often combined with Open Host Service. [Evans 2003](https://pubs.opengroup.org/architecture/o-aa-standard/DDD-strategic-patterns.html#context-map)
 
 *last update: 23.04.2023*
 
 
-![Ubiquitouslanguage](./img/ul.png)
+![Publishedlanguage](./img/ddd-midway-patterns.png)
 
 ##### [design-practice-repository by Olaf Zimmermann 2023]([https://github.com/bmihovski/software-development-ebooks-1/blob/master/%5BPatterns%2C%20Principles%2C%20and%20Practices%20of%20Domain-Driven%20Design%20Kindle%20Edition%20by%20Scott%20Millett%20-%202015%5D.pdf](https://socadk.github.io/design-practice-repository/activities/DPR-StrategicDDD.html))
 * Published Language (PL): “The interacting bounded contexts agree on a common language (for example a bunch of XML schemas over an enterprise service bus) by which they can interact with each other.”
