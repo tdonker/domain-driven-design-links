@@ -35,6 +35,11 @@ ___
 ___
 
 ##### [BPM2DDD: A Systematic Process for Identifying Domains from Business Processes Models](https://www.mdpi.com/2674-113X/1/4/18/htm)
-* The Document printing relationship type was defined as open host service and published language, as this is a **generic** context that can be used by any other context inside the organisation..
+* The Document printing relationship type was defined as open host service and published language, as this is a **generic** context that can be used by any other context inside the organisation.
+
+___
+
+##### [Opus: DDD Concepts and Patterns – Context Map](https://opus.ch/ddd-concepts-and-patterns-context-map/)
+* Further development of the open host service may lead to (the use of) a published language that has it’s own bounded context. The language could be a **model defined by some industry association or state** for example.
 
 ___
