@@ -10,12 +10,12 @@ Mission of this overview is to bring great quotes for the concept of the Publish
 ![Publishedlanguage](./img/ddd-midway-patterns.png)
 
 ##### [design-practice-repository by Olaf Zimmermann 2023](https://socadk.github.io/design-practice-repository/activities/DPR-StrategicDDD.html)
-* Published Language (PL): “The interacting bounded contexts agree on a common language (for example a bunch of XML schemas over an enterprise service bus) by which they can interact with each other.”
+* Published Language (PL): “The interacting bounded contexts agree on a **common language** (for example a bunch of XML schemas over an enterprise service bus) by which they can interact with each other.”
 
 ___
 
 ##### [Domain-Driven Design, Definitions and Pattern Summaries by Eric Evans 2015](https://www.domainlanguage.com/wp-content/uploads/2016/05/DDD_Reference_2015-03.pdf)
-* Many industries establish	published	languages	in the form	of data interchange standards. Project teams also develop their own for use within their organization.
+* Many **industries establish	published	languages	in the form	of data interchange standards**. Project teams also develop their own for use within their organization.
 
 ___
 
