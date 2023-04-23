@@ -34,4 +34,7 @@ ___
 
 ___
 
+##### [BPM2DDD: A Systematic Process for Identifying Domains from Business Processes Models](https://www.mdpi.com/2674-113X/1/4/18/htm)
+* The Document printing relationship type was defined as open host service and published language, as this is a generic context that can be used by any other context inside the organisation..
 
+___
