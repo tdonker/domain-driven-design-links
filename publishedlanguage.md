@@ -46,6 +46,12 @@ ___
 
 ##### [Herberto Graca: DDD.14 – Maintaining model integrity](https://herbertograca.com/2016/02/05/ddd-14-maintaining-model-integrity/)
 * Therefore we need a common, standard, communication Interchange Language that any system con use to communicate with our system, we need a published language:
-If possible, use an *industry standard language*;
+If possible, use an **industry standard language**;
 
 ___
+
+##### [Strategic Domain-Driven Design](https://dev.to/peholmst/strategic-domain-driven-design-3e87)
+* Real world examples of published languages are **MathML** for representing mathematical formulas and **GML** for representing geographical features in geographical information systems.
+
+___
+
