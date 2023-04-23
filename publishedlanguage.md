@@ -14,8 +14,8 @@ Mission of this overview is to bring great quotes for the concept of the Publish
 
 ___
 
-##### [Domain-Driven-Design Tackling Complexity in the Heart of Software by Eric Evans 2003](https://github.com/gg-daddy/ebooks/blob/master/Eric%20Evans%202003%20-%20Domain-Driven%20Design%20-%20Tackling%20Complexity%20in%20the%20Heart%20of%20Software.pdf)
-* p
+##### [Domain-Driven Design, Definitions and Pattern Summaries by Eric Evans 2015](https://www.domainlanguage.com/wp-content/uploads/2016/05/DDD_Reference_2015-03.pdf)
+* Many industries establish	published	languages	in the form	of data interchange standards. Project teams also develop their own for use within their organization.
 
 ___
 
