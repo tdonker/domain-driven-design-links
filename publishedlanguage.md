@@ -29,8 +29,8 @@ ___
 
 ___
 
-##### [Best Practice - An Introduction To Domain-Driven Design by Microsoft 2009](https://docs.microsoft.com/en-us/archive/msdn-magazine/2009/february/best-practice-an-introduction-to-domain-driven-design)
-* p:  
+##### [Domain-Driven Design Crew Context Mapping](https://github.com/ddd-crew/context-mapping)
+* Widely known examples for a Published Language are iCalendar or vCard. Published language is often combined with an open-host service.
 
 ___
 
