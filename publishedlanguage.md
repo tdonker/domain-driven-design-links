@@ -30,11 +30,11 @@ ___
 ___
 
 ##### [Domain-Driven Design Crew Context Mapping](https://github.com/ddd-crew/context-mapping)
-* Widely known examples for a Published Language are iCalendar or vCard. Published language is often combined with an open-host service.
+* Widely known examples for a Published Language are **iCalendar or vCard**. Published language is often combined with an open-host service.
 
 ___
 
 ##### [BPM2DDD: A Systematic Process for Identifying Domains from Business Processes Models](https://www.mdpi.com/2674-113X/1/4/18/htm)
-* The Document printing relationship type was defined as open host service and published language, as this is a generic context that can be used by any other context inside the organisation..
+* The Document printing relationship type was defined as open host service and published language, as this is a **generic** context that can be used by any other context inside the organisation..
 
 ___
