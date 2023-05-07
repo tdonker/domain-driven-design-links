@@ -57,3 +57,8 @@ ___
 
 ___
 
+##### [An Introduction to Domain Driven Design by Dan Haywood](https://www.methodsandtools.com/archive/archive.php?id=97)
+* With a published language we start off with the BCs establishing a common standard by which they can interact; neither owns this language, rather it is owned by the enterprise in which they reside (**it might even be an industry standard**).
+
+___
+
