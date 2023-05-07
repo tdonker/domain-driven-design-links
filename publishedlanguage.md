@@ -20,12 +20,14 @@ ___
 ___
 
 ##### [Implementing Domain-Driven Design by Vaughn Vernon 2013](https://ptgmedia.pearsoncmg.com/images/9780321834577/samplepages/0321834577.pdf)
-* p:  
+* p115:  REST also has the advantage of producing hypermedia representations, which facilitates HATEOAS. Hypermedia makes a Published Language very dynamic and interactive, enabling clients to navigate to sets of linked resources. The Language may be published **using standard and/or custom media types**. 
 
 ___
 
 ##### [Learning Domain-Driven Design by Vlad Khononov 2021](https://www.amazon.com/Learning-Domain-Driven-Design-Aligning-Architecture/dp/1098100131)
-* p:  
+* p88: The supplier’s public interface is not intended to conform to its ubiquitous language. Instead, it is intended to expose a protocol convenient for the consumers, expressed in an **integration-oriented language**. As such, the public protocol is called the published language. 
+* p194: Moreover, translating messages to the published language enables differentiating between **private events** that are intended for the bounded context’s internal needs and **public events** that are designed for integration with other bounded contexts. 
+* p305 : Introducing the integration-oriented model, the published language, reduces the system’s global complexity. First, it allows us to evolve the service’s implementation without impacting its consumers: the new implementation model can be translated to the existing published language. Second, the published language exposes a more **restrained model**. It is designed around integration needs. It encapsulates the complexity of the implementation that is not relevant to the service’s consumers. For example, it can expose less data and in a more convenient model for consumers. 
 
 ___
 
