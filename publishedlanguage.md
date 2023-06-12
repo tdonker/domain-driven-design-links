@@ -4,7 +4,7 @@ Mission of this overview is to bring great quotes for the concept of the Publish
 
 > The translation between the models of two bounded contexts requires a common language. Use a well-documented shared language that can express the necessary domain information as a common medium of communication, translating as necessary into and out of that language. Published Language is often combined with Open Host Service. [Evans 2003](https://pubs.opengroup.org/architecture/o-aa-standard/DDD-strategic-patterns.html#_midway_patterns)
 
-*last update: 07.05.2023*
+*last update: 12.06.2023*
 
 
 ![Publishedlanguage](./img/ddd-midway-patterns.png)
@@ -60,6 +60,11 @@ ___
 
 ##### [An Introduction to Domain Driven Design by Dan Haywood](https://www.methodsandtools.com/archive/archive.php?id=97)
 * With a published language we start off with the BCs establishing a common standard by which they can interact; neither owns this language, rather it is owned by the enterprise in which they reside (**it might even be an industry standard**).
+
+___
+
+##### [Introduction to Context Mapping by Michael Plöd](https://www.innoq.com/de/talks/2022/06/introduction-to-context-mapping-ddd-europe-2022/)
+* Sometimes defined by a **consortium** of the most important stakeholders / teams. Examples: iCalendar, vCard, ZugFerd (slide 59).
 
 ___
 
