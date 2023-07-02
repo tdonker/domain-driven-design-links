@@ -7,7 +7,7 @@ Mission of this overview is to bring great quotes for the concept of Bounded Con
 >  The delimited applicability of a particular model. BOUNDING CONTEXTS gives team members a clear and shared understanding of what has to be consistent and what can develop independently.
  [Evans 2003](https://pubs.opengroup.org/architecture/o-aa-standard/DDD-strategic-patterns.html#context-map)
 
-*updated: 10.12.2022 <br>
+*updated: 02.07.2023 <br>
 *last update: 25.11.2022 <br>
 
 
@@ -105,3 +105,7 @@ ___
 * A Bounded Context is a **boundary for a model** expressed in a consistent language tailored around a specific purpose.
 
 
+___
+
+##### [Getting modules right with Domain-driven Design by Michael Plöd 2022](https://youtu.be/Q_0XW46IlHY?t=1074)
+* What is a tomato - a fruit or vegetable?
