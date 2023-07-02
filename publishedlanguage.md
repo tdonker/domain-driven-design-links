@@ -4,7 +4,7 @@ Mission of this overview is to bring great quotes for the concept of the Publish
 
 > The translation between the models of two bounded contexts requires a common language. Use a well-documented shared language that can express the necessary domain information as a common medium of communication, translating as necessary into and out of that language. Published Language is often combined with Open Host Service. [Evans 2003](https://pubs.opengroup.org/architecture/o-aa-standard/DDD-strategic-patterns.html#_midway_patterns)
 
-*last update: 12.06.2023*
+*last update: 02.07.2023*
 
 
 ![Publishedlanguage](./img/ddd-midway-patterns.png)
