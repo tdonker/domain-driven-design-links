@@ -68,3 +68,7 @@ ___
 
 ___
 
+##### [Microservices love Domain-Driven Design! Why and how? by Michael Plöd](https://youtu.be/E6zhkC58XQ8?t=2687)
+* A published language is more than just an interface xsd or OpenAPI descripten: it should be governed by a domain steering committee - it is an industry standard set by a consortium.
+
+___
