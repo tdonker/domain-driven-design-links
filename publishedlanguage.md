@@ -63,12 +63,17 @@ ___
 
 ___
 
-##### [Introduction to Context Mapping by Michael Plöd](https://www.innoq.com/de/talks/2022/06/introduction-to-context-mapping-ddd-europe-2022/)
+##### [Introduction to Context Mapping by Michael Plöd 2022](https://www.innoq.com/de/talks/2022/06/introduction-to-context-mapping-ddd-europe-2022/)
 * Sometimes defined by a **consortium** of the most important stakeholders / teams. Examples: iCalendar, vCard, ZugFerd (slide 59).
 
 ___
 
-##### [Microservices love Domain-Driven Design! Why and how? by Michael Plöd](https://youtu.be/E6zhkC58XQ8?t=2687)
+##### [Microservices love Domain-Driven Design! Why and how? by Michael Plöd 2019](https://youtu.be/E6zhkC58XQ8?t=2687)
 * A published language is more than just an interface xsd or OpenAPI descripten: it should be governed by a domain steering committee - it is an industry standard set by a consortium.
+
+___
+
+##### [Microservices love Domain Driven Design? by Michael Plöd 2018](https://www.youtube.com/watch?v=1eP7o2YpweA&t=1305s)
+* A typical example is the ISBN in the book publishing domain.
 
 ___
