@@ -73,7 +73,7 @@ ___
 
 ___
 
-##### [Microservices love Domain Driven Design? by Michael Plöd 2018](https://www.youtube.com/watch?v=1eP7o2YpweA&t=1305s)
+##### [Microservices love Domain Driven Design? by Michael Plöd 2018](https://youtu.be/1eP7o2YpweA?t=1182)
 * A typical example is the ISBN in the book publishing domain.
 
 ___
