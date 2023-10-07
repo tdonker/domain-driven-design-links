@@ -77,3 +77,9 @@ ___
 * A typical example is the ISBN in the book publishing domain.
 
 ___
+
+##### [Domain-driven Service Design - Context Modeling, Model Refactoring and Contract Generation by Kapferer/Zimmermann 2020](https://contextmapper.org/media/SummerSoC-2020_Domain-driven-Service-Design_Authors-Copy.pdf)
+* A context which offers functionalities to other contexts has to expose some parts of its own domain model. Direct translations and exposing internals of the domain model impose coupling. Industry standards or organization internal specifications establish a well-documented and agreed-upon model subset, a Published Language (PL). This allows providers to guarantee language stability.
+
+___
+
