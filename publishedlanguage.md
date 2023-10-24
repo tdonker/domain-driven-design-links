@@ -83,3 +83,7 @@ ___
 
 ___
 
+##### [Interesting discussion on LinkedIn about DDD's Published Language with Vaughn Vernon 2023](https://www.linkedin.com/feed/update/urn:li:activity:7122240900784611328/)
+* Avoid consortium....
+
+___
