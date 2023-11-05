@@ -7,8 +7,8 @@ Mission of this overview is to bring great quotes for the concept of Bounded Con
 >  The delimited applicability of a particular model. BOUNDING CONTEXTS gives team members a clear and shared understanding of what has to be consistent and what can develop independently.
  [Evans 2003](https://pubs.opengroup.org/architecture/o-aa-standard/DDD-strategic-patterns.html#context-map)
 
-*updated: 02.07.2023 <br>
-*last update: 25.11.2022 <br>
+*updated: 05.11.2023 <br>
+*last update: 27.07.2023 <br>
 
 
 ![Domain Driven Design](./img/sketch.png)
@@ -109,3 +109,9 @@ ___
 
 ##### [Getting modules right with Domain-driven Design by Michael Plöd 2022](https://youtu.be/Q_0XW46IlHY?t=1074)
 * What is a tomato - a fruit or vegetable?
+
+___
+
+##### [Context Mapper - Bounded Context by Stefan Kapferer 2023](https://contextmapper.org/docs/bounded-context/#:~:text=Such%20a%20Bounded%20Context%20represents,%2C%20update%20customer%20address%2C%20etc.)
+* There are four bounded contexts types: Feature, Application, System, Team
+
