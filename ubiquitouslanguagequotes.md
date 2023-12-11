@@ -4,7 +4,7 @@ Mission of this overview is to bring great quotes for the concept of Ubiquitous 
 
 > A language structured around the domain model and used by all team members to connect all the activities of the team with the software. [Evans 2003](https://pubs.opengroup.org/architecture/o-aa-standard/DDD-strategic-patterns.html#context-map)
 
-*last update: 08.08.2022*
+*last update: 11.12.2023*
 
 
 ![Ubiquitouslanguage](./img/ul.png)
@@ -45,3 +45,8 @@ ___
 
 ##### [Case Study: Large-Scale Marketing System - Vladik Khononov - DDD Europe 2020](https://youtu.be/0qsAxb3L8GM?t=1081)
 *  Ubiquitous language is the most important part of Domain Driven design. The core domain of DDD.
+
+___
+
+##### [Domain Storytelling: A Collaborative, Visual, and Agile Way to Build Domain-Driven Software - Hofer, Schwenter - 2023](https://www.informit.com/store/domain-storytelling-a-collaborative-visual-and-agile-9780137458912)
+*  Ubiquitous language: This language is derived from the domain language and is consistent within a bounded context. This language should be used everywhere (ubiquitously) — from the spoken words of the domain expert to the whiteboard to the code. Keep in mind that there are usually several ubiquitous languages in a company (one per bounded context). It is not a uniform, company-wide language.
