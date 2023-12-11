@@ -49,4 +49,4 @@ ___
 ___
 
 ##### [Domain Storytelling: A Collaborative, Visual, and Agile Way to Build Domain-Driven Software - Hofer, Schwenter - 2023](https://www.informit.com/store/domain-storytelling-a-collaborative-visual-and-agile-9780137458912)
-*  Ubiquitous language: This language is derived from the domain language and is consistent within a bounded context. This language should be used everywhere (ubiquitously) — from the spoken words of the domain expert to the whiteboard to the code. Keep in mind that there are usually several ubiquitous languages in a company (one per bounded context). It is not a uniform, company-wide language.
+*  Ubiquitous language: This language is derived from the domain language and is consistent within a bounded context. This language should be used everywhere (ubiquitously) — from the spoken words of the domain expert to the whiteboard to the code. Keep in mind that there are usually several ubiquitous languages in a company (one per bounded context). It is not a uniform, company-wide language.
