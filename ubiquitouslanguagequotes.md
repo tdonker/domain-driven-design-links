@@ -27,9 +27,9 @@ ___
 ___
 
 ##### [Learning Domain-Driven Design by Vlad Khononov 2021](https://www.amazon.com/Learning-Domain-Driven-Design-Aligning-Architecture/dp/1098100131)
-* p24:  Domain-driven design proposes a better way to get the knowledge from domain experts to software engineers: by using a ubiquitous language. 
-* p25:  It's crucial to emphasize that the ubiquitous language is the language of the business. ... No technical jargon!
-* p211: The use of a ubiquitous language is the cornerstone practice of domain-driven design. It is essential for domain knowledge discovery, communication and effective solution modeling.
+* p24:  Domain-driven design proposes a better way to get the **knowledge from domain experts** to software engineers: by using a ubiquitous language. 
+* p25:  It's crucial to emphasize that the ubiquitous language is the **language of the business**. ... No technical jargon!
+* p211: The use of a ubiquitous language is the **cornerstone practice of** domain-driven design. It is essential for domain knowledge discovery, communication and effective solution modeling.
 
 ___
 
@@ -44,9 +44,9 @@ ___
 ___
 
 ##### [Case Study: Large-Scale Marketing System - Vladik Khononov - DDD Europe 2020](https://youtu.be/0qsAxb3L8GM?t=1081)
-*  Ubiquitous language is the most important part of Domain Driven design. The core domain of DDD.
+*  Ubiquitous language is the most important part of Domain Driven design. The **core domain** of DDD.
 
 ___
 
 ##### [Domain Storytelling: A Collaborative, Visual, and Agile Way to Build Domain-Driven Software - Hofer, Schwenter - 2023](https://www.informit.com/store/domain-storytelling-a-collaborative-visual-and-agile-9780137458912)
-*  Ubiquitous language: This language is derived from the domain language and is consistent within a bounded context. This language should be used everywhere (ubiquitously) — from the spoken words of the domain expert to the whiteboard to the code. Keep in mind that there are usually several ubiquitous languages in a company (one per bounded context). It is not a uniform, company-wide language.
+*  Ubiquitous language: This language is derived from the domain language and is consistent within a bounded context. This language should be used everywhere (ubiquitously) — from the spoken words of the domain expert to the whiteboard to the code. Keep in mind that there are usually several ubiquitous languages in a company (one per bounded context). It is **not a uniform, company-wide language**.
