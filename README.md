@@ -77,7 +77,7 @@ ___
 ### In-depth definition and meaning 
 
 * Literature phrases on Bounded Contexts \(2023\): [Quotes for the concept of Bounded Context](./boundedcontextquotes.md)
-* Literature phrases Ubiquitous Language \(2022\): [Quotes for the concept of Ubiquitous Language](./ubiquitouslanguagequotes.md)
+* Literature phrases Ubiquitous Language \(2023\): [Quotes for the concept of Ubiquitous Language](./ubiquitouslanguagequotes.md)
 * Literature phrases Published Language \(2023\): [Quotes for the concept of Published Language](./publishedlanguage.md)
 
 ___
