@@ -8,7 +8,6 @@ Mission of this overview is to bring great quotes for the concept of Bounded Con
  [Evans 2003](https://pubs.opengroup.org/architecture/o-aa-standard/DDD-strategic-patterns.html#context-map)
 
 *updated: 05.11.2023 <br>
-*last update: 27.07.2023 <br>
 
 
 ![Domain Driven Design](./img/sketch.png)
@@ -50,7 +49,7 @@ ___
 
 ___
 
-##### [Implementing Domain-Driven Design by Vaughn Vernon 2013](https://restapilinks.com/wp-content/uploads/vdoc.pub_implementing-domain-driven-design.pdf)
+##### [Implementing Domain-Driven Design by Vaughn Vernon 2013](https://www.informit.com/store/implementing-domain-driven-design-9780321834577)
 * p23:  You get **more than a team lingo**. The Language of a team in an explicit Bounded Context expressed as a domain model adds true business value and gives us certainty that we are implementing the correct software.
 * p38: **Strategic Modeling**: A Bounded Context is a conceptual boundary where a domain model is applicable. It provides a context for the Ubiquitous Language that is spoken by the team and expressed in its carefully designed software model.
 * p39:  **Architecture**:  It’s important to keep in mind that your strategically and tactically designed domain models should be architecturally neutral. A powerful architectural style for hosting a Bounded Context is Hexagonal, which can be used to facilitate other styles such as Service-Oriented, REST and Event-Driven, and others.
@@ -74,8 +73,8 @@ ___
 
 ___
 
-##### [Designing Secure Architecture of Health Software using Agile Practices](https://www.bib.irb.hr/1052154/download/1052154.SE1.pdf)
-* p227:  Bounded contexts introduce boundaries for terms of the ubiquitous language to prevent ambiguity in software artefacts. More specifically, the solution
+##### [Designing Secure Architecture of Health Software using Agile Practices](https://tdonker.nl/dddbooks/Designing%20Secure%20Architecture%20of%20Health%20Software%20using%20.pdf)
+* p272:  Bounded contexts introduce boundaries for terms of the ubiquitous language to prevent ambiguity in software artefacts. More specifically, the solution
 space is broken down into several **bounded contexts, each solving one (or several) sub-domains** in a highly cohesive manner without any linguistic ambiguity.
 * p273: Therefore, because a bounded context solves **one or several sub-domains**, it comprises together with the implementing adapters of the ports it defines, a full aspect of the complete system.
 * p275: Recall that a bounded context implementation is independent of all other concerns and can function in isolation. Particularly, it **does not depend on the front-end** which visualizes or provides access to the domain information.
