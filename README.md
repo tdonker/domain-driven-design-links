@@ -5,9 +5,9 @@ Domain-Driven Design is a philosophy and approach to developing software, it's n
 It’s a mindset: the application **Design** is **Driven** by the business **Domain**. There are no steps of how to do DDD and there isn’t a formula you can learn. What you can learn from Eric Evans or other DDD experts is how they approached a problem, but nobody can give you a sure recipe of how to do things.
 
 *updates:*<br>
-*05.01.2024:correction of link references*
+*05.01.2024: correction of link references*
 <br>
-*24.11.2023:XTI XTI Domain-Driven Design - Een pragmatische gids ebook pdf (Dutch)*
+*24.11.2023: XTI XTI Domain-Driven Design - Een pragmatische gids ebook pdf (Dutch)*
 <br>
 *14.03.2023: Added Hands-On Domain Driven Design with .NET Core pdf (Zimarev)*
 <br>
