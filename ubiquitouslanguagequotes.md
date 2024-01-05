@@ -4,7 +4,7 @@ Mission of this overview is to bring great quotes for the concept of Ubiquitous 
 
 > A language structured around the domain model and used by all team members to connect all the activities of the team with the software. [Evans 2003](https://pubs.opengroup.org/architecture/o-aa-standard/DDD-strategic-patterns.html#context-map)
 
-*last update: 11.12.2023*
+*updated: 05.01.2024*
 
 
 ![Ubiquitouslanguage](./img/ul.png)
