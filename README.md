@@ -64,11 +64,11 @@ It’s a mindset: the application **Design** is **Driven** by the business **Dom
 * Strategies for getting started with DDD when you have a big commitment to legacy systems \(by Eric Evans 2013\): [Getting started with DDD when surrounded by legacy systems](https://www.domainlanguage.com/wp-content/uploads/2016/04/GettingStartedWithDDDWhenSurroundedByLegacySystemsV1.pdf)
 * Domain-Driven Design, Definitions and Pattern Summaries \(by Eric Evans 2015\): [Domain-Driven Design Reference](https://www.domainlanguage.com/wp-content/uploads/2016/05/DDD_Reference_2015-03.pdf)
 * Vaughn Vernon presents the whole of Domain-Driven Design \(by Vaughn Vernon 2013\): [Implementing Domain-Driven Design](https://www.informit.com/store/implementing-domain-driven-design-9780321834577)
-* Concise basics of DDD \(by Vaughn Vernon 2016\): [Domain-Driven Design Distilled](https://sd.blackball.lv/library/domain-driven_design_distilled_(vaughn_vernon)_(2016).pdf)
+* Concise basics of DDD \(by Vaughn Vernon 2016\): [Domain-Driven Design Distilled](https://www.oreilly.com/library/view/domain-driven-design-distilled/9780134434964/)
 * Patterns, Principles and Practices of Domain-Driven Design \(by Scott Millet and Nick Tune 2015\): [Patterns, Principles and Practices of Domain-Driven Design](https://sd.blackball.lv/library/patterns_principles_and_practices_of_domain-driven_design_(2015).pdf)
 * The Anatomy of Domain Driven Design \(by Scott Millett 2019\): [Primer DDDEurope.com](https://www.elbandit.co.uk/images/DDDEU-Booklet.pdf)
 * Applying Domain-Driven Design and Patterns: With Examples in C# and .NET \(by Jimmy Nilsson 2006\): [Applying Domain-Driven Design and Patterns](https://tdonker.nl/dddbooks/Nilsson.pdf)
-* Learning Domain-Driven Design. Aligning Software Architecture and Business Strategy \(by Vlad Khononv 2021\): [Applying Domain-Driven Design and Patterns](https://www.oreilly.com/library/view/learning-domain-driven-design/9781098100124/)
+* Learning Domain-Driven Design. Aligning Software Architecture and Business Strategy \(by Vlad Khononv 2021\): [Learning Domain-Driven Design](https://www.oreilly.com/library/view/learning-domain-driven-design/9781098100124/)
 * Hands-On Domain Driven Design with .NET Core - Tackling complexity in the heart of software by putting DDD
 principles into practice \(by Alexey Zimarev 2019\): [Hands-On Domain Driven Design with .NET Core](https://tdonker.nl/dddbooks/Zimarev.pdf)
 * XTI Domain-Driven Design - Een pragmatische gids \(by XTI 2021\): [Domain-Driven Design - Een pragmatische gids](https://tdonker.nl/dddbooks/xti-ebook-ddd.pdf)
