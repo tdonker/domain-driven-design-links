@@ -5,7 +5,7 @@
 An incomplete list of Bounded Context examples as found in the canonical DDD literature
 
 | Bounded Context  | Source & <br> Domain object                                         | Remarks                                                                                                                                                                                             |
-| ---------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ---------------- | --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Billing          | Evans 2003 p16 (Passenger) <br> Evans 2003 p370 <br> Millett 2015 p86                                        |                                                                                                              |
 | 2   | media                                          | Bron voor alle style sheets en media bestanden die in de tekst worden gebruikt. Zowel de bewerkbare bronbestanden als de gerenderde .svg, .png |
 | 3   | overleggen                                     | Hoofdmap voor alle werkmappen van de overleggen van de stuurgroep en werkgroepen.                                                                                                                |
