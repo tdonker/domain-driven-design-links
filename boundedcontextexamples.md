@@ -12,7 +12,7 @@ An incomplete list of Bounded Context examples as found in the canonical DDD lit
 
 
 | Bounded Context  | Source & Domain object & Remarks                                        |
-| ---------------- | --------------------------------------------------------------------------------------- |
+| -------------------------- | --------------------------------------------------------------------------------------------------------- |
 | Booking          | [Evans 2003] p16 ('Passenger') <br> [Evans 2003] p370 <br> [Millett 2015] p86                                        |
 | Billing   | [Khononov 2022] p91 (with context map)  <br> [Khononov 2022] p238                                       |
 | Catalogue   | [Millett 2015] p227 <br> [Khononov 2022] p238                                    |
