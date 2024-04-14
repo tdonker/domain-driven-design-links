@@ -1,4 +1,4 @@
-# Bounded Context Examples
+# Bounded Context examples
 
 *updated: 14.14.2024 <br>
 
