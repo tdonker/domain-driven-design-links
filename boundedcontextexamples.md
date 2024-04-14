@@ -6,8 +6,8 @@ An incomplete list of Bounded Context examples as found in the canonical DDD lit
 
 | Bounded Context  | Source & <br> Domain object                                         | Remarks                                                                                                                                                                                             |
 | ---------------- | --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Booking          | Evans 2003 p16 (Passenger) <br> Evans 2003 p370 <br> Millett 2015 p86                                        |                                                                                                              |
+| Booking          | Evans 2003 p16 (Passenger) <br> Evans 2003 p370 <br> Millett 2015 p86                                        |                |
 | Billing   | Khononov 2022 p91 (with context map)  <br> Khononov 2022 p238                                       |    |
-| Catalogue   | Millett 2015 p227 <br> Khononov 2022 p238                                    |                                                                                                  |
-| 3.1 | &nbsp;&nbsp;/Stuurgroep                        | Alle bestanden, verslagen en overige stukken van de stuurgroep.                                                                                                                                  |
-| 3.2 | &nbsp;&nbsp;/Werkgroep API architectuur        | Alle bestanden, verslagen en overige stukken van deze werkgroep.                                                                                                                                 |
+| Catalogue   | Millett 2015 p227 <br> Khononov 2022 p238                                    |        |
+| CRM | &nbsp;&nbsp;/Stuurgroep                        |   |
+| Customer service | &nbsp;&nbsp;/Werkgroep API architectuur        |   |
