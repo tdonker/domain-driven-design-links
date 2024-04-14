@@ -5,6 +5,8 @@ Domain-Driven Design is a philosophy and approach to developing software, it's n
 It’s a mindset: the application **Design** is **Driven** by the business **Domain**. There are no steps of how to do DDD and there isn’t a formula you can learn. What you can learn from Eric Evans or other DDD experts is how they approached a problem, but nobody can give you a sure recipe of how to do things.
 
 *updates:*<br>
+*14.04.2024: Addition of Bounded context examples subsite*
+<br>
 *05.01.2024: correction of link references*
 <br>
 *24.11.2023: XTI XTI Domain-Driven Design - Een pragmatische gids ebook pdf (Dutch)*
@@ -80,6 +82,7 @@ ___
 ### In-depth definition and meaning 
 
 * Literature phrases on Bounded Contexts \(2023\): [Quotes for the concept of Bounded Context](./boundedcontextquotes.md)
+* Literature Bounded Context examples \(2024\): [Bounded Context examples as found in DDD-literature](./boundedcontextexamples.md)
 * Literature phrases Ubiquitous Language \(2023\): [Quotes for the concept of Ubiquitous Language](./ubiquitouslanguagequotes.md)
 * Literature phrases Published Language \(2023\): [Quotes for the concept of Published Language](./publishedlanguage.md)
 
