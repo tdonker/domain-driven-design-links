@@ -12,9 +12,9 @@ Mission of this overview is to bring great quotes for the concept of Bounded Con
 
 Bounded Context examples as found in the DDD-literature:
 
-| Bounded Context            | Source & </br> Domain object                                        |Info |
+| Bounded Context            | Source & </br> Domain object                                        |
 | -------------------- | ---------------------------------------------------------------------------------------------------------- | 
-| Booking             | Evans 2003 p16: Passenger<br>Evans 2003 p307<br>  Millet 2015 p86 | |
+| Booking             | Evans 2003 p16: Passenger<br>Evans 2003 p307<br>  Millet 2015 p86 |
 
 
 
