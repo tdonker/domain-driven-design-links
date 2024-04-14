@@ -10,15 +10,6 @@ Mission of this overview is to bring great quotes for the concept of Bounded Con
  [Evans 2003](https://pubs.opengroup.org/architecture/o-aa-standard/DDD-strategic-patterns.html#context-map)
 
 
-Bounded Context examples as found in the DDD-literature:
-
-| Bounded Context            | Source & </br> Domain object                                        |
-| -------------------- | ---------------------------------------------------------------------------------------------------------- | 
-| Booking             | Evans 2003 p16: Passenger<br>Evans 2003 p307<br>  Millet 2015 p86 |
-
-
-
-
 ![Domain Driven Design](./img/sketch.png)
 
 ##### [Patterns, Principles and Practices of Domain-Driven Design by Scott Millet and Nick Tune 2015](https://sd.blackball.lv/library/patterns_principles_and_practices_of_domain-driven_design_(2015).pdf)
