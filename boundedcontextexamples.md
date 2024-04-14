@@ -1,6 +1,6 @@
 # Bounded Context examples
 
-*updated: 14.14.2024 <br>
+*updated: 14.04.2024 <br>
 
 An incomplete list of Bounded Context examples as found in the canonical DDD literature.
 
