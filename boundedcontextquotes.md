@@ -8,7 +8,7 @@ Mission of this overview is to bring great quotes for the concept of Bounded Con
 > 
 >  The delimited applicability of a particular model. BOUNDING CONTEXTS gives team members a clear and shared understanding of what has to be consistent and what can develop independently.
  [Evans 2003](https://pubs.opengroup.org/architecture/o-aa-standard/DDD-strategic-patterns.html#context-map)
-
+<br>
 
 ![Domain Driven Design](./img/sketch.png)
 
