@@ -1,0 +1,9 @@
+Bounded Context Examples
+
+| Nr  | Folder                                         | Doel                                                                                                                                                                                             |
+| --- | ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1   | archief                                        | Parkeren en bewaren alle oude files en media die niet meer actief wordt gebruikt.                                                                                                                |
+| 2   | media                                          | Bron voor alle style sheets en media bestanden die in de tekst worden gebruikt. Zowel de bewerkbare bronbestanden als de gerenderde .svg, .png |
+| 3   | overleggen                                     | Hoofdmap voor alle werkmappen van de overleggen van de stuurgroep en werkgroepen.                                                                                                                |
+| 3.1 | &nbsp;&nbsp;/Stuurgroep                        | Alle bestanden, verslagen en overige stukken van de stuurgroep.                                                                                                                                  |
+| 3.2 | &nbsp;&nbsp;/Werkgroep API architectuur        | Alle bestanden, verslagen en overige stukken van deze werkgroep.                                                                                                                                 |
