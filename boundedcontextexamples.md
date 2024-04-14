@@ -20,3 +20,12 @@ An incomplete list of Bounded Context examples as found in the canonical DDD lit
 | Customer Service    | [Khononov 2022] p76 ('Ticket') <br> [Fowler 2014](https://martinfowler.com/bliki/BoundedContext.html) ('Product', 'Customer')        |
 | HR | [Khononov 2022] p96 (Employee model as shared kernel with Bounded Context Payroll)         |
 | Identity & Access    | [Khononov 2022] p91 (with context map)  <br> [Vernon 2013] p74        |
+
+
+
+
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
