@@ -9,10 +9,11 @@ Mission of this overview is to bring great quotes for the concept of Bounded Con
 
 *updated: 14.14.2024 <br>
 
+Bounded Context examples as found in the DDD-literature
 
 | Onderdeel            | Documentnaam & </br> Verwijzing naar de laatst gepubliceerde versie                                        | Status                                                     | Versie                      |
 | -------------------- | ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | --------------------------- |
-| Algemeen             | [Inleiding NL API Strategie](https://docs.geostandaarden.nl/api/API-Strategie/)                            | Vastgesteld </br> (door Kennisplatform)                    | 21-12-2023                  |
+| Booking             | [Inleiding NL API Strategie](https://docs.geostandaarden.nl/api/API-Strategie/)                            | Vastgesteld </br> (door Kennisplatform)                    | 21-12-2023                  |
 | Algemeen             | [Architectuur NL API Strategie](https://docs.geostandaarden.nl/api/API-Strategie-architectuur/)            | Vastgesteld </br> (door Kennisplatform)                    | 21-12-2023                  |
 | Algemeen             | [Gebruikerswensen NL API Strategie](https://docs.geostandaarden.nl/api/API-Strategie-gebruikerswensen/)    | Vastgesteld </br> (door Kennisplatform)                    | 21-12-2023                  |
 | Normatieve standaard | [API Design Rules (ADR)](https://gitdocumentatie.logius.nl/publicatie/api/adr/)                            | Verplicht </br> (pas toe leg uit)                          | 09-07-2020 </br> v1.0.0     |
