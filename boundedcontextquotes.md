@@ -7,7 +7,25 @@ Mission of this overview is to bring great quotes for the concept of Bounded Con
 >  The delimited applicability of a particular model. BOUNDING CONTEXTS gives team members a clear and shared understanding of what has to be consistent and what can develop independently.
  [Evans 2003](https://pubs.opengroup.org/architecture/o-aa-standard/DDD-strategic-patterns.html#context-map)
 
-*updated: 05.11.2023 <br>
+*updated: 14.14.2024 <br>
+
+
+| Onderdeel            | Documentnaam & </br> Verwijzing naar de laatst gepubliceerde versie                                        | Status                                                     | Versie                      |
+| -------------------- | ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | --------------------------- |
+| Algemeen             | [Inleiding NL API Strategie](https://docs.geostandaarden.nl/api/API-Strategie/)                            | Vastgesteld </br> (door Kennisplatform)                    | 21-12-2023                  |
+| Algemeen             | [Architectuur NL API Strategie](https://docs.geostandaarden.nl/api/API-Strategie-architectuur/)            | Vastgesteld </br> (door Kennisplatform)                    | 21-12-2023                  |
+| Algemeen             | [Gebruikerswensen NL API Strategie](https://docs.geostandaarden.nl/api/API-Strategie-gebruikerswensen/)    | Vastgesteld </br> (door Kennisplatform)                    | 21-12-2023                  |
+| Normatieve standaard | [API Design Rules (ADR)](https://gitdocumentatie.logius.nl/publicatie/api/adr/)                            | Verplicht </br> (pas toe leg uit)                          | 09-07-2020 </br> v1.0.0     |
+| Normatieve standaard | [Open API Specification (OAS)](https://forumstandaardisatie.nl/open-standaarden/openapi-specification)     | Verplicht </br> (pas toe leg uit)                          | 25-05-2018 </br> v3.0.0     |
+| Normatieve standaard | [NL GOV OAuth profiel](https://gitdocumentatie.logius.nl/publicatie/api/oauth/)                            | Verplicht </br> (pas toe leg uit)                          | 09-07-2020 </br> v1.0.0     |
+| Normatieve standaard | [NL GOV OpenID Connect profile](https://gitdocumentatie.logius.nl/publicatie/api/oidc/)                    | Verplicht </br> (pas toe leg uit)                          | 18-09-2023 </br> v1.0.1     |
+| Normatieve standaard | [Digikoppeling REST API koppelvlak specificatie](https://gitdocumentatie.logius.nl/publicatie/dk/restapi/) | Verplicht </br> (pas toe leg uit)                          | 14-11-2022 </br> v1.1.1     |
+| Normatieve module    | [API Geospatial Design Rules module](https://gitdocumentatie.logius.nl/publicatie/api/mod-geo/)            | Vastgesteld </br> (door Kennisplatform) </br> (door PGDI)  | 23-05-2023 </br> 07-03-2024 |
+| Normatieve module    | [API Transport Security module](https://gitdocumentatie.logius.nl/publicatie/api/mod-ts/)                  | Vastgesteld </br> (door Kennisplatform) </br> (door PGDI)  | 23-05-2023 </br> 07-03-2024 |
+| Aanvullende module   | [API Access control module](https://docs.geostandaarden.nl/api/API-Strategie-mod-access-control/)          | Stabiel </br> (Werkgroep Kennisplatform)                   | 11-07-2023                  |
+| Aanvullende module   | [API Naming conventions module](https://docs.geostandaarden.nl/api/API-Strategie-mod-naming-conventions/)  | Stabiel </br> (Werkgroep Kennisplatform)                   | 12-07-2023                  |
+| Aanvullende module   | [API Hypermedia module](https://docs.geostandaarden.nl/api/API-Strategie-mod-hypermedia/)                  | Stabiel </br> (Werkgroep Kennisplatform)                   | 12-07-2023                  |
+
 
 
 ![Domain Driven Design](./img/sketch.png)
