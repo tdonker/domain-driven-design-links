@@ -2,7 +2,9 @@
 
 *updated: 14.14.2024 <br>
 
-An incomplete list of Bounded Context examples as found in the canonical DDD literature:
+An incomplete list of Bounded Context examples as found in the canonical DDD literature.
+
+![Domain Driven Design](./img/sketch.png)
 
 | Bounded Context  | Source & Domain object & Remarks                                        |                                                                                                                                                                                          |
 | ---------------- | --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
