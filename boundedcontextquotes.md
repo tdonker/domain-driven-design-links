@@ -1,5 +1,7 @@
 # Great quotes for the concept of Bounded Context 
 
+*updated: 14.14.2024 <br>
+
 Mission of this overview is to bring great quotes for the concept of Bounded Context, in order to get a better understandig of this fundamental DDD concept. Bounded context and the ubiquitous language are the foundation of DDD.
 
 > An operational definition of where a particular model is well-defined and applicable. Typically a sub-system, or the work owned by a particular team.
@@ -7,13 +9,13 @@ Mission of this overview is to bring great quotes for the concept of Bounded Con
 >  The delimited applicability of a particular model. BOUNDING CONTEXTS gives team members a clear and shared understanding of what has to be consistent and what can develop independently.
  [Evans 2003](https://pubs.opengroup.org/architecture/o-aa-standard/DDD-strategic-patterns.html#context-map)
 
-*updated: 14.14.2024 <br>
 
-Bounded Context examples as found in the DDD-literature
+Bounded Context examples as found in the DDD-literature:
 
 | Onderdeel            | Documentnaam & </br> Verwijzing naar de laatst gepubliceerde versie                                        | Status                                                     | Versie                      |
 | -------------------- | ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | --------------------------- |
-| Booking             | [Inleiding NL API Strategie](https://docs.geostandaarden.nl/api/API-Strategie/)                            | Vastgesteld </br> (door Kennisplatform)                    | 21-12-2023                  |
+| Booking             | [Inleiding NL API Strategie](https://docs.geostandaarden.nl/api/API-Strategie/)<br>  [Inleiding NL API Strategie](https://docs.geostandaarden.nl/api/API-Strategie/)  
+| Vastgesteld </br> (door Kennisplatform)                    | 21-12-2023                  |
 | Algemeen             | [Architectuur NL API Strategie](https://docs.geostandaarden.nl/api/API-Strategie-architectuur/)            | Vastgesteld </br> (door Kennisplatform)                    | 21-12-2023                  |
 | Algemeen             | [Gebruikerswensen NL API Strategie](https://docs.geostandaarden.nl/api/API-Strategie-gebruikerswensen/)    | Vastgesteld </br> (door Kennisplatform)                    | 21-12-2023                  |
 | Normatieve standaard | [API Design Rules (ADR)](https://gitdocumentatie.logius.nl/publicatie/api/adr/)                            | Verplicht </br> (pas toe leg uit)                          | 09-07-2020 </br> v1.0.0     |
