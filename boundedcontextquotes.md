@@ -12,9 +12,9 @@ Mission of this overview is to bring great quotes for the concept of Bounded Con
 
 Bounded Context examples as found in the DDD-literature:
 
-| Onderdeel            | Documentnaam & </br> Verwijzing naar de laatst gepubliceerde versie                                        | Status                                                     | Versie                      |
+| Bounded Context            | Source & </br> Domain object                                        | Status                                                     | Versie                      |
 | -------------------- | ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | --------------------------- |
-| Booking             | [Inleiding NL API Strategie](https://docs.geostandaarden.nl/api/API-Strategie/)<br>  [Inleiding NL API Strategie](https://docs.geostandaarden.nl/api/API-Strategie/)  
+| Booking             | Evans 2003 p16: Passenger<br>Evans 2003 p307<br>  Millet 2015 p86 <br> 
 | Vastgesteld </br> (door Kennisplatform)                    | 21-12-2023                  |
 | Algemeen             | [Architectuur NL API Strategie](https://docs.geostandaarden.nl/api/API-Strategie-architectuur/)            | Vastgesteld </br> (door Kennisplatform)                    | 21-12-2023                  |
 | Algemeen             | [Gebruikerswensen NL API Strategie](https://docs.geostandaarden.nl/api/API-Strategie-gebruikerswensen/)    | Vastgesteld </br> (door Kennisplatform)                    | 21-12-2023                  |
