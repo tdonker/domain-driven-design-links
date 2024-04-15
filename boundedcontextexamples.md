@@ -21,14 +21,14 @@ An incomplete list of Bounded Context examples as found in the canonical DDD lit
 | HR | [Khononov 2022] p96 (Employee model as shared kernel with Bounded Context Payroll)         |
 | Identity & Access    | [Khononov 2022] p91 (with context map)  <br> [Vernon 2013] p74        |
 | Inventory    | [Millett 2015] p81 ('Product') <br> [Vernon 2013] p69 <br> [Zimarev 2019] p410          |
-| Marketing    | [Millettt 2017] p16 ('Subscriber')  <br> [Millett 2015] p81 ('Product') <br> [Khononov 2022] p64 ('Lead') <br> [Khononov 2022] p91 (with context map)        |
+| Marketing    | [Millettt 2019] p16 ('Subscriber')  <br> [Millett 2015] p81 ('Product') <br> [Khononov 2022] p64 ('Lead') <br> [Khononov 2022] p91 (with context map)        |
 | Ordering    | [Millett 2015] p88           |
-| Payroll    | [Millett 2017] p20 (Employee model as shared kernel with Bounded Context Employee Management) <br> [Millett 2015] p96 (Employee model as shared kernel with Bounded Context Payroll)       |
+| Payroll    | [Millett 2019] p20 (Employee model as shared kernel with Bounded Context Employee Management) <br> [Millett 2015] p96 (Employee model as shared kernel with Bounded Context Payroll)       |
 | Procurement    | [Millett 2015] p98 <br> [Millett 2015] p81 ('Product')        |
 | Promotions    | [Millett 2015] p660 <br> [Millett 2015] p88 <br> [Khononov 2022] p300 ('Lead', 'Campaign')        |
 | Pricing    | [Millett 2015] p81 ('Product')  <br> [Millett 2015] p88 <br> [Millett 2015] p227        |
 | Purchasing    | [Vernon 2017] p79         |
-| Sales    | [Millett 2017] p8 ('Lead')  <br> [Millett 2015] p76 ('Ticket') <br> [Zimarev 2019] p410 <br> [Khononov 2022] p64 ('Lead') <br> [Khononov 2022] p300 ('Lead', 'Campaign') <br>  [Fowler 2014](https://martinfowler.com/bliki/BoundedContext.html) ('Product', 'Customer')          |
+| Sales    | [Millett 2019] p8 ('Lead')  <br> [Millett 2015] p76 ('Ticket') <br> [Zimarev 2019] p410 <br> [Khononov 2022] p64 ('Lead') <br> [Khononov 2022] p300 ('Lead', 'Campaign') <br>  [Fowler 2014](https://martinfowler.com/bliki/BoundedContext.html) ('Product', 'Customer')          |
 | Shipping    | [Millett 2015] p86 ('Product')          |
 
 
