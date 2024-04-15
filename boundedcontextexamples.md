@@ -24,7 +24,7 @@ An incomplete list of Bounded Context examples as found in the canonical DDD lit
 | Marketing    | [Millettt 2017] p16 ('Subscriber')  <br> [Millett 2015] p81 ('Product') <br> [Khononov 2022] p64 ('Lead') <br> [Khononov 2022] p91 (with context map)        |
 | Ordering    | [Millett 2015] p88           |
 | Payroll    | [Millett 2017] p20 (Employee model as shared kernel with Bounded Context Employee Management) <br> [Millett 2015] p96 (Employee model as shared kernel with Bounded Context Payroll)       |
-| Identity & Access    | [Khononov 2022] p91 (with context map)  <br> [Vernon 2013] p74        |
+| Procurement    | [Millett 2015] p98 <br> [Millett 2015] p81 ('Product')        |
 | Identity & Access    | [Khononov 2022] p91 (with context map)  <br> [Vernon 2013] p74        |
 | Identity & Access    | [Khononov 2022] p91 (with context map)  <br> [Vernon 2013] p74        |
 | Identity & Access    | [Khononov 2022] p91 (with context map)  <br> [Vernon 2013] p74        |
