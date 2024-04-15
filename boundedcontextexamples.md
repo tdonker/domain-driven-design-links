@@ -20,6 +20,15 @@ An incomplete list of Bounded Context examples as found in the canonical DDD lit
 | Customer Service    | [Khononov 2022] p76 ('Ticket') <br> [Fowler 2014](https://martinfowler.com/bliki/BoundedContext.html) ('Product', 'Customer')        |
 | HR | [Khononov 2022] p96 (Employee model as shared kernel with Bounded Context Payroll)         |
 | Identity & Access    | [Khononov 2022] p91 (with context map)  <br> [Vernon 2013] p74        |
+| Inventory    | [Millett 2015] p81 ('Product') <br> [Vernon 2013] p69 <br> [Zimarev 2019] p410          |
+| Identity & Access    | [Khononov 2022] p91 (with context map)  <br> [Vernon 2013] p74        |
+| Identity & Access    | [Khononov 2022] p91 (with context map)  <br> [Vernon 2013] p74        |
+| Identity & Access    | [Khononov 2022] p91 (with context map)  <br> [Vernon 2013] p74        |
+| Identity & Access    | [Khononov 2022] p91 (with context map)  <br> [Vernon 2013] p74        |
+| Identity & Access    | [Khononov 2022] p91 (with context map)  <br> [Vernon 2013] p74        |
+| Identity & Access    | [Khononov 2022] p91 (with context map)  <br> [Vernon 2013] p74        |
+| Identity & Access    | [Khononov 2022] p91 (with context map)  <br> [Vernon 2013] p74        |
+
 
 
 
