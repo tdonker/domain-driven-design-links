@@ -84,7 +84,7 @@ ___
 ___
 
 
-##### [Strategic Monoliths and Microservices by Vaughn, Jaskula 2022](https://www.informit.com/store/strategic-monoliths-and-microservices-driving-innovation-9780137355464)
+##### [Strategic Monoliths and Microservices by Vernon, Jaskula 2022](https://www.informit.com/store/strategic-monoliths-and-microservices-driving-innovation-9780137355464)
 * p133: A **standardized format** with language-based type names and attributes is developed for exchanging information between two or more contexts. This language is published, meaning that it offers well-defined schemas including documents for query results, commands for operations, and events of outcomes.
 
 ___
