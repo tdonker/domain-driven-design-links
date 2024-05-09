@@ -1,6 +1,6 @@
 # Great quotes for the concept of Bounded Context 
 
-*updated: 14.14.2024 <br>
+*updated: 09.05.2024 <br>
 
 Mission of this overview is to bring great quotes for the concept of Bounded Context, in order to get a better understandig of this fundamental DDD concept. Bounded context and the ubiquitous language are the foundation of DDD.
 
@@ -60,6 +60,12 @@ ___
 * p76: The **solution space** is one or more Bounded Contexts, a set of specific software models. That’s because the Bounded Context is a specific solution, a realization view, once developed. **The Bounded Context is used to realize a solution as software**.
 * p81: Thus, a Bounded Context is principally a **linguistic boundary**. 
 
+
+___
+
+##### [Strategic Monoliths and Microservices by Vernon, Jaskula 2022](https://www.informit.com/store/strategic-monoliths-and-microservices-driving-innovation-9780137355464)
+* p125: The Bounded Context, for example, is a top-level, **coarse-grained module where a business capability is housed**.
+* p128: The only design driving force for Bounded Contexts should be the **scope of the business capability and its Ubiquitous Language**, and not the size.
 
 
 ___
