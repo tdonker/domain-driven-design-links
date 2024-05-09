@@ -63,7 +63,7 @@ ___
 
 ___
 
-##### [Strategic Monoliths and Microservices by Vernon, Jaskula 2022](https://www.informit.com/store/strategic-monoliths-and-microservices-driving-innovation-9780137355464)
+##### [Strategic Monoliths and Microservices by Vaughn, Jaskula 2022](https://www.informit.com/store/strategic-monoliths-and-microservices-driving-innovation-9780137355464)
 * p125: The Bounded Context, for example, is a top-level, **coarse-grained module where a business capability is housed**.
 * p128: The only design driving force for Bounded Contexts should be the **scope of the business capability and its Ubiquitous Language**, and not the size.
 
