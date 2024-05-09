@@ -4,7 +4,7 @@ Mission of this overview is to bring great quotes for the concept of the Publish
 
 > The translation between the models of two bounded contexts requires a common language. Use a well-documented shared language that can express the necessary domain information as a common medium of communication, translating as necessary into and out of that language. Published Language is often combined with Open Host Service. [Evans 2003](https://pubs.opengroup.org/architecture/o-aa-standard/DDD-strategic-patterns.html#_midway_patterns)
 
-*last update: 24.10.2023*
+*last update: 09.05.2024*
 
 
 ![Publishedlanguage](./img/ddd-midway-patterns.png)
@@ -69,17 +69,23 @@ ___
 ___
 
 ##### [Microservices love Domain-Driven Design! Why and how? by Michael Plöd 2019](https://youtu.be/E6zhkC58XQ8?t=2687)
-* A published language is more than just an interface xsd or OpenAPI descripten: it should be governed by a domain steering committee - it is an industry standard set by a consortium.
+* A published language is more than just an interface xsd or OpenAPI descripten: it should be governed by a domain steering committee - it is an **industry standard set by a consortium**.
 
 ___
 
 ##### [Microservices love Domain Driven Design? by Michael Plöd 2018](https://youtu.be/1eP7o2YpweA?t=1182)
-* A typical example is the ISBN in the book publishing domain.
+* A typical example is the **ISBN** in the book publishing domain.
 
 ___
 
 ##### [Domain-driven Service Design - Context Modeling, Model Refactoring and Contract Generation by Kapferer/Zimmermann 2020](https://contextmapper.org/media/SummerSoC-2020_Domain-driven-Service-Design_Authors-Copy.pdf)
-* A context which offers functionalities to other contexts has to expose some parts of its own domain model. Direct translations and exposing internals of the domain model impose coupling. Industry standards or organization internal specifications establish a well-documented and agreed-upon model subset, a Published Language (PL). This allows providers to guarantee language stability.
+* A context which offers functionalities to other contexts has to expose some parts of its own domain model. Direct translations and exposing internals of the domain model impose coupling. **Industry standards or organization internal specifications establish a well-documented and agreed-upon model subset**, a Published Language (PL). This allows providers to guarantee language stability.
+
+___
+
+
+##### [Strategic Monoliths and Microservices by Vaughn, Jaskula 2022](https://www.informit.com/store/strategic-monoliths-and-microservices-driving-innovation-9780137355464)
+* p133: A **standardized format** with language-based type names and attributes is developed for exchanging information between two or more contexts. This language is published, meaning that it offers well-defined schemas including documents for query results, commands for operations, and events of outcomes.
 
 ___
 
