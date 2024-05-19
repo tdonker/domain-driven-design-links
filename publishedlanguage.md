@@ -9,6 +9,11 @@ Mission of this overview is to bring great quotes for the concept of the Publish
 
 ![Publishedlanguage](./img/ddd-midway-patterns.png)
 
+##### [Domain-Driven-Design Tackling Complexity in the Heart of Software by Eric Evans 2003](https://github.com/gg-daddy/ebooks/blob/master/Eric%20Evans%202003%20-%20Domain-Driven%20Design%20-%20Tackling%20Complexity%20in%20the%20Heart%20of%20Software.pdf)
+* p330: Use a well-documented shared language that can express the necessary domain information as a common medium of communication, translating as necessary into and out of that language.
+
+___
+
 ##### [design-practice-repository by Olaf Zimmermann 2023](https://socadk.github.io/design-practice-repository/activities/DPR-StrategicDDD.html)
 * Published Language (PL): “The interacting bounded contexts agree on a **common language** (for example a bunch of XML schemas over an enterprise service bus) by which they can interact with each other.”
 
