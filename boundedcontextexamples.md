@@ -29,8 +29,11 @@ An incomplete list of Bounded Context examples as found in the canonical DDD lit
 | **Promotions**    | [Millett 2015] p660 <br> [Millett 2015] p88 <br> [Khononov 2022] p300 (`Lead`, `Campaign`)        |
 | **Pricing**    | [Millett 2015] p81 (`Product`)  <br> [Millett 2015] p88 <br> [Millett 2015] p227        |
 | **Purchasing**    | [Vernon 2017] p79         |
+| **Rate**    | [Vernon 2021] p258         |
+| **Risk**    | [Vernon 2021] p258         |
 | **Sales**    | [Millett 2019] p8 (`Lead`)  <br> [Millett 2015] p76 (`Ticket`) <br> [Zimarev 2019] p410 <br> [Khononov 2022] p64 (`Lead`) <br> [Khononov 2022] p300 (`Lead`, `Campaign`) <br>  [Fowler 2014](https://martinfowler.com/bliki/BoundedContext.html) (`Product`, `Customer`)          |
 | **Shipping**    | [Millett 2015] p86 (`Product`)          |
+| **Underwriting**    | [Vernon 2021] p258          |
 
 
 
