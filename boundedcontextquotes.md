@@ -15,6 +15,7 @@ Mission of this overview is to bring great quotes for the concept of Bounded Con
 
 
 ##### [Strategic Monoliths and Microservices by Vernon, Jaskula 2022](https://www.informit.com/store/strategic-monoliths-and-microservices-driving-innovation-9780137355464)
+* p61: Generally, business capabilities should be named with a **noun–verb combination**, such as Subscription Billing or Claims Processing.
 * p105: **Business capabilities** are a good place to look when establishing contextual boundaries. Although there can be finer divisions of expertise, the contexts can be first chosen as **business capabilities**.
 * p114: It’s often the case that a  subdomain is the same as a business capability. Ideally, a **context**, such as that seen in Figure 4.1, **should align one-to-one with a subdomain**.
 * p121: Each of these contexts aligns one-to-one with the subdomain of the same name. That is, the **business capability** concept represented by the subdomain is implemented in the **same named Bounded Context**.
