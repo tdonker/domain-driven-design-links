@@ -1,6 +1,6 @@
 # Great quotes for the concept of Bounded Context 
 
-*updated: 09.05.2024 <br>
+*updated: 01.11.2024 <br>
 
 Mission of this overview is to bring great quotes for the concept of Bounded Context, in order to get a better understandig of this fundamental DDD concept. Bounded context and the ubiquitous language are the foundation of DDD.
 
@@ -12,9 +12,17 @@ Mission of this overview is to bring great quotes for the concept of Bounded Con
 
 ![Domain Driven Design](./img/sketch.png)
 
+
+
+##### [Strategic Monoliths and Microservices by Vernon, Jaskula 2022](https://www.informit.com/store/strategic-monoliths-and-microservices-driving-innovation-9780137355464)
+* p105: **Business capabilities** are a good place to look when establishing contextual boundaries. Although there can be finer divisions of expertise, the contexts can be first chosen as **business capabilities**.
+* p125: The Bounded Context, for example, is a top-level, **coarse-grained module where a business capability is housed**.
+* p128: The only design driving force for Bounded Contexts should be the **scope of the business capability and its Ubiquitous Language**, and not the size.
+
+
+___
+
 ##### [Patterns, Principles and Practices of Domain-Driven Design by Scott Millet and Nick Tune 2015](https://sd.blackball.lv/library/patterns_principles_and_practices_of_domain-driven_design_(2015).pdf)
-
-
 * p54: Bounded contexts are used to form a **protective boundary** around models that helps to prevent software from evolving into a BBoM.
 * p86: Figure 6-10: depicts the Shipping Subdomain containing **two bounded contexts**: Booking Bounded Context and Pricing Bounded Context. So a subdomain can consists of multiple Bounded Contexts!
 * p88: Figure 6-12: depicts the Shipping Subdomain containing **two bounded contexts**: Basket Bounded Context and Pricing Bounded Context. So a subdomain can consists of multiple Bounded Contexts!
@@ -36,6 +44,7 @@ Mission of this overview is to bring great quotes for the concept of Bounded Con
 * p320: This follows the convention of naming API projects based on the format **{bounded context}.{Resource}**. 
 * p340: Accordingly, for an event‐driven REST system, you can use a similar naming convention that communicates domain concepts, such as **{BoundedContext}.{BusinessComponent}. {Component}**.
 * p489:  The **domain model** for the Listing bounded context. (Domain - Bounded Context - Domain Model)
+
 
 ___
 
@@ -59,13 +68,6 @@ ___
 * p70: Figure 2.2. An **abstract business Domain** that includes Subdomains and Bounded Contexts - nice picture with subdomains en bounded contexts!
 * p76: The **solution space** is one or more Bounded Contexts, a set of specific software models. That’s because the Bounded Context is a specific solution, a realization view, once developed. **The Bounded Context is used to realize a solution as software**.
 * p81: Thus, a Bounded Context is principally a **linguistic boundary**. 
-
-
-___
-
-##### [Strategic Monoliths and Microservices by Vernon, Jaskula 2022](https://www.informit.com/store/strategic-monoliths-and-microservices-driving-innovation-9780137355464)
-* p125: The Bounded Context, for example, is a top-level, **coarse-grained module where a business capability is housed**.
-* p128: The only design driving force for Bounded Contexts should be the **scope of the business capability and its Ubiquitous Language**, and not the size.
 
 
 ___
