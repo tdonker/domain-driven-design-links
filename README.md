@@ -5,7 +5,9 @@ Domain-Driven Design is a philosophy and approach to developing software, it's n
 It’s a mindset: the application **Design** is **Driven** by the business **Domain**. There are no steps of how to do DDD and there isn’t a formula you can learn. What you can learn from Eric Evans or other DDD experts is how they approached a problem, but nobody can give you a sure recipe of how to do things.
 
 *updates:*<br>
-*01.011.2024: Added various links*
+*25.01.2025: Added DDD & Event Storming Curated Resources by SAP*
+<br>
+*01.11.2024: Added various links*
 <br>
 *14.04.2024: Addition of Bounded Context examples subsite*
 <br>
@@ -79,6 +81,7 @@ It’s a mindset: the application **Design** is **Driven** by the business **Dom
 principles into practice \(by Alexey Zimarev 2019\): [Hands-On Domain Driven Design with .NET Core](https://tdonker.nl/dddbooks/Zimarev.pdf)
 * XTI Domain-Driven Design - Een pragmatische gids \(by XTI 2021\): [Domain-Driven Design - Een pragmatische gids](https://tdonker.nl/dddbooks/xti-ebook-ddd.pdf)
 * Strategic Monoliths and Microservices \(by Vaughn Vernon and Thomasz Jaskula 2021\): [Strategic Monoliths and Microservices: Driving Innovation Using Purposeful Architecture](https://www.informit.com/store/strategic-monoliths-and-microservices-driving-innovation-9780137355464)
+* SAP's Curated Resources for Domain-Driven Design (DDD) \(by SAP 2024\): [Curated Resources for Domain-Driven Design (DDD)](https://github.com/SAP/curated-resources-for-domain-driven-design)
 
 ___
 ### In-depth definition and meaning 
