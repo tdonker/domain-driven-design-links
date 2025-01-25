@@ -4,7 +4,7 @@ Mission of this overview is to bring great quotes for the concept of Ubiquitous 
 
 > A language structured around the domain model and used by all team members to connect all the activities of the team with the software. [Evans 2003](https://pubs.opengroup.org/architecture/o-aa-standard/DDD-strategic-patterns.html#context-map)
 
-*updated: 05.01.2024*
+*updated: 25.01.2025*
 
 
 ![Ubiquitouslanguage](./img/ul.png)
@@ -23,6 +23,11 @@ ___
 
 ##### [Implementing Domain-Driven Design by Vaughn Vernon 2013](https://ptgmedia.pearsoncmg.com/images/9780321834577/samplepages/0321834577.pdf)
 * p22:  If there is a single **“invention”** Evans delivers to the software development community, it is the Ubiquitous Language. At a minimum he brought the Ubiquitous Language out of the dusty archives of design wisdom. 
+
+___
+
+##### [SAP's Curated Resources for Domain Driven Design](https://github.com/SAP/curated-resources-for-domain-driven-design/blob/main/knowledgebase/concepts/strategic-concepts/ubiquitouslanguage.md)
+* Ubiquitous Language is a **common, shared language** that is rigorously used by all team members—developers, domain experts, and stakeholders—to describe the domain model. It ensures that everyone involved has a consistent understanding of the terms, concepts, and processes within the project.
 
 ___
 
