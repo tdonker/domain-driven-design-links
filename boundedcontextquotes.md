@@ -25,6 +25,12 @@ Mission of this overview is to bring great quotes for the concept of Bounded Con
 
 ___
 
+##### [SAP Curated Resources for Domain Driven Design](https://github.com/SAP/curated-resources-for-domain-driven-design/blob/main/knowledgebase/concepts/strategic-concepts/boundedcontext.md)
+* A Bounded Context is a central pattern in DDD that encapsulates a specific **portion of a domain model**. It defines clear boundaries within which a particular model is defined and applicable. Within these boundaries, all terms, entities, and relationships have specific meanings that are consistent and unambiguous.
+
+
+___
+
 ##### [Patterns, Principles and Practices of Domain-Driven Design by Scott Millet and Nick Tune 2015](https://sd.blackball.lv/library/patterns_principles_and_practices_of_domain-driven_design_(2015).pdf)
 * p54: Bounded contexts are used to form a **protective boundary** around models that helps to prevent software from evolving into a BBoM.
 * p86: Figure 6-10: depicts the Shipping Subdomain containing **two bounded contexts**: Booking Bounded Context and Pricing Bounded Context. So a subdomain can consists of multiple Bounded Contexts!
