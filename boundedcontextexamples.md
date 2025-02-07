@@ -1,6 +1,6 @@
 # Bounded Context examples
 
-*updated: 26.10.2024 <br>
+*updated: 06.01.2025 <br>
 
 An incomplete list of Bounded Context examples as found in the canonical DDD literature.
 
@@ -13,7 +13,7 @@ An incomplete list of Bounded Context examples as found in the canonical DDD lit
 
 | Bounded Context        |Source & Domain object & Remarks                                        |
 | :-------------------------------- | :-------------------------------------------------------------------------------------------------------------- |
-| **Booking**          | [Evans 2003] p16 (`Passenger`) <br> [Evans 2003] p370 <br> [Millett 2015] p866                                        |
+| **Booking**          | [Evans 2003] p16 (`Passenger`) <br> [Evans 2003] p370 <br> [Millett 2015] p86                                        |
 | **Billing**   | [Khononov 2022] p91 (with context map)  <br> [Khononov 2022] p238  <br>  [Vernon 2021] p258                                    |
 | **Catalogue**   | [Millett 2015] p227 <br> [Khononov 2022] p238                                    |
 | **Claims**   | [Vernon 2021] p258                                    |
@@ -23,6 +23,7 @@ An incomplete list of Bounded Context examples as found in the canonical DDD lit
 | **Customer Self-Service**    |  [Kapferer 2020](https://stefan.kapferer.ch/2020/09/14/domain-driven-service-design/) <br> [Zimmermann 2023] p36      |
 | **Debt Collection**    | [Kapferer 2020](https://stefan.kapferer.ch/2020/09/14/domain-driven-service-design/)         |
 | **HR** | [Millett 2015] p96 (Employee model as shared kernel with Bounded Context Payroll)         |
+| **Finance** | [Millett 2015] p93          |
 | **Identity & Access**    | [Khononov 2022] p91 (with context map)  <br> [Vernon 2013] p74        |
 | **Inventory**    | [Millett 2015] p81 (`Product`) <br> [Vernon 2013] p69 <br> [Zimarev 2019] p410          |
 | **Marketing**    | [Millett 2019] p16 (`Subscriber`)  <br> [Millett 2015] p81 (`Product`) <br> [Khononov 2022] p64 (`Lead`) <br> [Khononov 2022] p91 (with context map)        |
