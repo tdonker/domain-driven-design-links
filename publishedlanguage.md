@@ -4,10 +4,15 @@ Mission of this overview is to bring great quotes for the concept of the Publish
 
 > The translation between the models of two bounded contexts requires a common language. Use a well-documented shared language that can express the necessary domain information as a common medium of communication, translating as necessary into and out of that language. Published Language is often combined with Open Host Service. [Evans 2003](https://pubs.opengroup.org/architecture/o-aa-standard/DDD-strategic-patterns.html#_midway_patterns)
 
-*last update: 25.01.2025*
+*last update: 26.04.2025*
 
 
 ![Publishedlanguage](./img/ddd-midway-patterns.png)
+
+##### [The Published Language and Industry Standards in Domain-Driven Design](https://www.linkedin.com/pulse/published-language-industry-standards-domain-driven-design-ton-donker-ttvpe/)
+* The Published Language (PL) is a context mapping type, or Bounded Context integration pattern, that defines a well-documented, shared language between Bounded Contexts. Each context can translate to and from this lingua franca.
+
+___
 
 ##### [Domain-Driven-Design Tackling Complexity in the Heart of Software by Eric Evans 2003](https://github.com/gg-daddy/ebooks/blob/master/Eric%20Evans%202003%20-%20Domain-Driven%20Design%20-%20Tackling%20Complexity%20in%20the%20Heart%20of%20Software.pdf)
 * p330: Use a well-documented shared language that can express the necessary domain information as a common medium of communication, translating as necessary into and out of that language.
