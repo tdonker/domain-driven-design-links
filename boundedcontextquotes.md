@@ -131,3 +131,7 @@ ___
 ##### [Context Mapper - Bounded Context by Stefan Kapferer 2023](https://contextmapper.org/docs/bounded-context/#:~:text=Such%20a%20Bounded%20Context%20represents,%2C%20update%20customer%20address%2C%20etc.)
 * There are four bounded contexts types: Feature, Application, System, Team
 
+___
+
+##### [Your Frontend itself is NOT a Bounded Context](https://ducin.dev/ddd-your-frontend-is-not-a-bounded-context)
+* Frontend and backend constitute a value together. They share some data that has the same semantics. Frontend cannot be treated as a separate Bounded Context in a typical app with FE and BE. Hence, applying DDD to Frontend only doesn't make sense.
