@@ -1,6 +1,6 @@
 # Great quotes for the concept of Bounded Context 
 
-*updated: 25.01.2025 <br>
+*updated: 18.05.2025 <br>
 
 Mission of this overview is to bring great quotes for the concept of Bounded Context, in order to get a better understandig of this fundamental DDD concept. Bounded context and the ubiquitous language are the foundation of DDD.
 
