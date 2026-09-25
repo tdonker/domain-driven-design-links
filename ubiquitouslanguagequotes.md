@@ -4,10 +4,17 @@ Mission of this overview is to bring great quotes for the concept of Ubiquitous 
 
 > A language structured around the domain model and used by all team members to connect all the activities of the team with the software. [Evans 2003](https://pubs.opengroup.org/architecture/o-aa-standard/DDD-strategic-patterns.html#context-map)
 
-*updated: 25.01.2025*
+*updated: 25.09.2026*
 
 
 ![Ubiquitouslanguage](./img/ul.png)
+
+##### [Architecture for Flow by Susanne Kaiser 2026](https://www.informit.com/store/architecture-for-flow-adaptive-systems-with-domain-9780137393039)
+* p48: The domain knowledge is described in terms of a shared, **business-domain-oriented language** — the ubiquitous language..., which is **free of any technical jargon**.
+* p54: The language formed is ubiquitous in that it is prevalent in **conversations, documentation, user stories, tests, code, etc.**, within a single bounded
+context.
+
+___
 
 ##### [Patterns, Principles and Practices of Domain-Driven Design by Scott Millet and Nick Tune 2015](https://github.com/bmihovski/software-development-ebooks-1/blob/master/%5BPatterns%2C%20Principles%2C%20and%20Practices%20of%20Domain-Driven%20Design%20Kindle%20Edition%20by%20Scott%20Millett%20-%202015%5D.pdf)
 * p48: The **language of the Business**. Developers should think in domain terms and concepts, not technical terms, to avoid the need to translate from business jargon into technical jargon. 
