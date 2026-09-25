@@ -4,13 +4,20 @@ Mission of this overview is to bring great quotes for the concept of the Publish
 
 > The translation between the models of two bounded contexts requires a common language. Use a well-documented shared language that can express the necessary domain information as a common medium of communication, translating as necessary into and out of that language. Published Language is often combined with Open Host Service. [Evans 2003](https://pubs.opengroup.org/architecture/o-aa-standard/DDD-strategic-patterns.html#_midway_patterns)
 
-*last update: 26.04.2025*
+*last update: 26.09.20256*
 
 
 ![Publishedlanguage](./img/ddd-midway-patterns.png)
 
+##### [Architecture for Flow by Susanne Kaiser 2026 ](https://www.informit.com/store/architecture-for-flow-adaptive-systems-with-domain-9780137393039)
+* p77: A published language describes a well-documented, standardized, shared interchange language between two bounded contexts and is often combined with an open-host service (OHS)...The format of the shared language is published as well-documented schemas **implementing standards**... A **consortium** typically creates a published language, while open and flexible relationships allow consumers to negotiate for their needs to be accommodated by settled contracts.
+* p85:  A consortium **could** have been involved in defining the published language.
+* p184: The published language can be curated by a **group**.
+
+___
+
 ##### [The Published Language and Industry Standards in Domain-Driven Design](https://www.linkedin.com/pulse/published-language-industry-standards-domain-driven-design-ton-donker-ttvpe/)
-* The Published Language (PL) is a context mapping type, or Bounded Context integration pattern, that defines a well-documented, shared language between Bounded Contexts. Each context can translate to and from this lingua franca.
+* The Published Language (PL) is a context mapping type, or Bounded Context integration pattern, that defines a well-documented, shared language between Bounded Contexts. Each context can translate to and from this **lingua franca**.
 
 ___
 
