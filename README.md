@@ -86,8 +86,8 @@ principles into practice \(by Alexey Zimarev 2019\): [Hands-On Domain Driven Des
 ___
 ### In-depth definition and meaning 
 
-* Literature phrases on Bounded Contexts \(2025\): [Quotes for the concept of Bounded Context](./boundedcontextquotes.md)
-* Literature Bounded Context examples \(2025\): [Bounded Context examples as found in DDD-literature](./boundedcontextexamples.md)
+* Literature phrases on Bounded Contexts \(2026\): [Quotes for the concept of Bounded Context](./boundedcontextquotes.md)
+* Literature Bounded Context examples \(2026\): [Bounded Context examples as found in DDD-literature](./boundedcontextexamples.md)
 * Literature phrases Ubiquitous Language \(2025\): [Quotes for the concept of Ubiquitous Language](./ubiquitouslanguagequotes.md)
 * Literature phrases Published Language \(2025\): [Quotes for the concept of Published Language](./publishedlanguage.md)
 
