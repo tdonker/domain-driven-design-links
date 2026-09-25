@@ -1,6 +1,6 @@
 # Great quotes for the concept of Bounded Context 
 
-*updated: 18.05.2025 <br>
+*updated: 25.09.2026 <br>
 
 Mission of this overview is to bring great quotes for the concept of Bounded Context, in order to get a better understandig of this fundamental DDD concept. Bounded context and the ubiquitous language are the foundation of DDD.
 
@@ -13,6 +13,13 @@ Mission of this overview is to bring great quotes for the concept of Bounded Con
 ![Domain Driven Design](./img/sketch.png)
 
 
+##### [Architecture for Flow, Susanne Kaiser 2026](https://www.informit.com/store/architecture-for-flow-adaptive-systems-with-domain-9780137393039)
+* p53: A bounded context groups **related business behavior together** relevant to a specific subdomain. It defines where a single domain model can be applied and forms a unit of purpose, mastery, and autonomy..
+* p55: The bounded context forms a boundary around a domain model and can provide **different types of boundaries**, such as a physical or ownership boundary, for the domain model 
+* p67: Bounded contexts represent good seams to split a system into smaller domain-specific parts and are often referred to as good coarse-grained boundary candidates for microservices. **But that doesn’t mean that bounded contexts necessarily have to be implemented as microservices**. Alternative architecture styles can be applied, such as modular monolith or service based domain services, and others.
+
+
+___
 
 ##### [Strategic Monoliths and Microservices by Vernon, Jaskula 2022](https://www.informit.com/store/strategic-monoliths-and-microservices-driving-innovation-9780137355464)
 * p61: Generally, business capabilities should be named with a **noun–verb combination**, such as Subscription Billing or Claims Processing.
