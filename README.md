@@ -168,7 +168,7 @@ ___
 * Stackoverflow \(2018\): [Can subdomain and bounded context be same in domain driven design?](https://stackoverflow.com/questions/32069892/can-subdomain-and-bounded-context-be-same-in-domain-driven-design)
 * 'The optimal solution would be to have one bounded context in one subdomain...so it might happen that one bounded context spans multiple subdomains, or that one subdomain has multiple bounded contexts.' \(by Robert Basic 2018\): [Bounded contexts and subdomains](https://robertbasic.com/blog/bounded-contexts-and-subdomains/)
 * Subdomain vs Bounded Context \(by Nick Tune 2020\): [Domain, Subdomain, Bounded Context, Problem/Solution Space in DDD: Clearly Defined](https://medium.com/nick-tune-tech-strategy-blog/domains-subdomain-problem-solution-space-in-ddd-clearly-defined-e0b49c7b586c)
-* 'It is a desirable goal to align Subdomains one-to-one with Bounded Contexts (p77)' \(by Vaughn Vernon 2013\): [Implementing Domain-Driven Design](https://restapilinks.com/wp-content/uploads/vdoc.pub_implementing-domain-driven-design.pdf)
+* 'It is a desirable goal to align Subdomains one-to-one with Bounded Contexts (p77)' \(by Vaughn Vernon 2013\): [Implementing Domain-Driven Design](https://www.informit.com/store/implementing-domain-driven-design-9780321834577)
 * 'Strategic design starts with the problem space, which represents the business architecture and which includes the problem domains and (categorized) subdomains. The solution space represents the software architecture and contains the bounded context. There must be an overlap between the two.' \(by Michael Plöd 2019\): [Pitching DDD to the management - YouTube](https://youtu.be/bY5Q3LoNPeQ?t=2297)
 * '(Sub)domains Problem Space - Bounded Contexts Solution Space' \(by Alpha Code 2018\): [DDD Strategic Design in under 15 minutes - YouTube](https://youtu.be/Evers5npkmE?t=706)
 
@@ -247,7 +247,7 @@ ___
 ___
 ### Business Logic and Domain Model
 
-* 'We would design a pure domain model, untainted by theinfrastructure details, that captures the Ubiquitous Language and implements the necessary business logic'. (p145) \(by Vaughn Vernon 2013\): [Implementing Domain-Driven Design](https://restapilinks.com/wp-content/uploads/vdoc.pub_implementing-domain-driven-design.pdf)
+* 'We would design a pure domain model, untainted by theinfrastructure details, that captures the Ubiquitous Language and implements the necessary business logic'. (p145) \(by Vaughn Vernon 2013\): [Implementing Domain-Driven Design](https://www.informit.com/store/implementing-domain-driven-design-9780321834577)
 * 'The logic that should be in a domain object is domain logic - validations, calculations, business rules - whatever you like to call it.'. \(by Martin Fowler 2014\): [Implementing Domain-Driven Design](https://martinfowler.com/bliki/AnemicDomainModel.html)
 * 'The main point of DDD is to identify relevant domain behaviour, which means getting to know plenty of domain rules.'. \(by Sapiens Works 2017\): [How To Handle Business Rules in Domain Driven Design](http://blog.sapiensworks.com/post/2017/08/23/Handling-Business-Rules-DDD)
 * 'As a result, the business logic will be in the domain-model, with a lot less duplication as a result'. \(by Albert Starreveld 2020\): [Domain-Driven Design in a nutshell](https://medium.com/vx-company/domain-driven-design-in-a-nutshell-aadb05f834ce)
