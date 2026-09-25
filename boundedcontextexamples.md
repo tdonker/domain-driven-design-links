@@ -1,6 +1,6 @@
 # Bounded Context examples
 
-*updated: 06.01.2025 <br>
+*updated: 25.09.2026 <br>
 
 An incomplete list of Bounded Context examples as found in the canonical DDD literature.
 
@@ -17,6 +17,9 @@ An incomplete list of Bounded Context examples as found in the canonical DDD lit
 | **Billing**   | [Khononov 2022] p91 (with context map)  <br> [Khononov 2022] p238  <br>  [Vernon 2021] p258                                    |
 | **Catalogue**   | [Millett 2015] p227 <br> [Khononov 2022] p238                                    |
 | **Claims**   | [Vernon 2021] p258                                    |
+| **Class Management**   | [Kaiser 2026] p195                                    |
+| **Content Creation**   | [Kaiser 2026] p195                                    |
+| **Course Studies**   | [Kaiser 2026] p195                                    |
 | **CRM** | [Millett 2015] p100 (Customer model shared kernel with Bounded Context Commerce) <br> [Vernon 2013] p190 <br> [Zimarev 2019] p410 <br>  [Khononov 2022] p70  <br> [Khononov 2022] p91 (with context map) <br> [Khononov 2022] p238 <br> [Khononov 2022] p321                   |
 | **Customer Management**    | [Kapferer 2020](https://stefan.kapferer.ch/2020/09/14/domain-driven-service-design/) <br> [Zimmermann 2023] p36       |
 | **Customer Service**    | [Khononov 2022] p76 (`Ticket`) <br> [Fowler 2014](https://martinfowler.com/bliki/BoundedContext.html) (`Product`, `Customer`)        |
@@ -24,7 +27,7 @@ An incomplete list of Bounded Context examples as found in the canonical DDD lit
 | **Debt Collection**    | [Kapferer 2020](https://stefan.kapferer.ch/2020/09/14/domain-driven-service-design/)         |
 | **HR** | [Millett 2015] p96 (Employee model as shared kernel with Bounded Context Payroll)         |
 | **Finance** | [Millett 2015] p93          |
-| **Identity & Access**    | [Khononov 2022] p91 (with context map)  <br> [Vernon 2013] p74        |
+| **Identity & Access**    | [Khononov 2022] p91 (with context map)  <br> [Vernon 2013] p74   <br> [Kaiser 2026] p70     |
 | **Inventory**    | [Millett 2015] p81 (`Product`) <br> [Vernon 2013] p69 <br> [Zimarev 2019] p410          |
 | **Marketing**    | [Millett 2019] p16 (`Subscriber`)  <br> [Millett 2015] p81 (`Product`) <br> [Khononov 2022] p64 (`Lead`) <br> [Khononov 2022] p91 (with context map)        |
 | **Ordering**    | [Millett 2015] p88           |
@@ -39,6 +42,7 @@ An incomplete list of Bounded Context examples as found in the canonical DDD lit
 | **Risk**    | [Vernon 2021] p258         |
 | **Risk Management**    | [Kapferer 2020](https://stefan.kapferer.ch/2020/09/14/domain-driven-service-design/)         |
 | **Sales**    | [Millett 2019] p8 (`Lead`)  <br> [Millett 2015] p76 (`Ticket`) <br> [Zimarev 2019] p410 <br> [Khononov 2022] p64 (`Lead`) <br> [Khononov 2022] p300 (`Lead`, `Campaign`) <br>  [Fowler 2014](https://martinfowler.com/bliki/BoundedContext.html) (`Product`, `Customer`)          |
+| **Schedule Management**    | [Kaiser 2026] p70           |
 | **Shipping**    | [Millett 2015] p86 (`Product`)          |
 | **Underwriting**    | [Vernon 2021] p258          |
 
